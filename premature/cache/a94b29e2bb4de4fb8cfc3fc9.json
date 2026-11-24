@@ -1,0 +1,10 @@
+{
+  "concern": "The writer is distressed that her partner keeps getting depressed over how the divorce affects his kids and how his ex uses them against him. She feels like giving up and telling him to go back to his family.",
+  "first_advice": "\"I don't think so. If your ex is using the children to manipulate... getting out was the right decision\"",
+  "acknowledged_before_advice": "After the interjection \"Hold on,\" the reply normalizes the frustration: \"I meet with a lot of people who are so sick of the crap that their ex puts them through in the divorce process that yes, they wonder if it's best to go back.\" This is brief, but it reflects the feeling of being fed up and considering going back before any guidance is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1620,
+    "output": 536
+  }
+}

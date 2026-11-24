@@ -1,0 +1,10 @@
+{
+  "concern": "Distress or tension over differing religious customs and beliefs within the family, especially at gatherings such as funerals.",
+  "first_advice": "\"Accepting the idea that those with whom we are close may be different from us is the only way...\"",
+  "acknowledged_before_advice": "Nothing validating. The reply opens by dismissing the concern (\"you haven't described a problem. (Are you creating one?)\"), then makes a general normalizing remark that many families have differing beliefs. It never names or validates the person's feelings.",
+  "label": "premature",
+  "_usage": {
+    "input": 1283,
+    "output": 401
+  }
+}

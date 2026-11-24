@@ -1,0 +1,10 @@
+{
+  "concern": "She is upset and conflicted because her child's father received an inappropriate video from a co-worker and got angry at the idea of asking the friend to stop, despite having agreed to respect her beliefs.",
+  "first_advice": "\"In my book, this is a boundary issue... it is not up to you what your child's father looks at\"",
+  "acknowledged_before_advice": "Nothing adequate. The reply opens by framing the situation as a boundary issue and telling her it isn't up to her. \"Although you do not like inappropriate content\" only restates her belief as a concession, not empathy for her feelings. \"It is really hard\" appears only after the directed guidance.",
+  "label": "premature",
+  "_usage": {
+    "input": 1197,
+    "output": 353
+  }
+}

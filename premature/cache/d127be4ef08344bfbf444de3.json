@@ -1,0 +1,10 @@
+{
+  "concern": "She feels bored and torn in her 4-year relationship with her son's father, is in love with someone she has never met, and is confused about how to tell her partner and what to do.",
+  "first_advice": "\"First and foremost, you must ask yourself, if you ever loved your sons' father\"",
+  "acknowledged_before_advice": "\"Wow, this sounds like a sticky situation\" briefly acknowledges how difficult and conflicted her position is before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6379,
+    "output": 401
+  }
+}

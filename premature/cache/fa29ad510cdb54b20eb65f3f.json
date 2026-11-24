@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels very depressed and wants to find someone to talk to.",
+  "first_advice": "\"There are lots of different options nowadays for therapists\"",
+  "acknowledged_before_advice": "Only praise for help-seeking (\"You have already taken the brave first step...\"). Nothing acknowledges or validates how painful being very depressed is.",
+  "label": "premature",
+  "_usage": {
+    "input": 763,
+    "output": 269
+  }
+}

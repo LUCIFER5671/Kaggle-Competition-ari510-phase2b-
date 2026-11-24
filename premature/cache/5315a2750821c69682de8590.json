@@ -1,0 +1,10 @@
+{
+  "concern": "Lingering disappointment, jealousy and anger about a proposal and wedding that fell short of what she wanted, which is now damaging her marriage, and frustration that she can't move on.",
+  "first_advice": "\"But please be aware that it is rare that any wedding is perfect\" (directed reframing), followed by \"Try to live in the present...\"",
+  "acknowledged_before_advice": "The opening lines validate her: \"It's hard to let go of the dreams you had regarding your wedding and engagement... it's understandable to be disappointed.\" This names her loss and normalizes her disappointment before any guidance begins.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1304,
+    "output": 218
+  }
+}

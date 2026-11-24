@@ -1,0 +1,10 @@
+{
+  "concern": "The person struggles to feel content from day to day and wants to know how to get there.",
+  "first_advice": "none",
+  "acknowledged_before_advice": "The reply gives no advice or action steps. It normalizes the person's experience by explaining that emotions linger and that past upsets may surface even in calm moments. It then validates them: 'Good for you to be aware of your own sensitivity...'",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1213,
+    "output": 477
+  }
+}

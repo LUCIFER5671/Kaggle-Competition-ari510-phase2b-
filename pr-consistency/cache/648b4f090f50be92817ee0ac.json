@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Extract JournalEncounter functions from WoW_Tooltips.lua into new UI/JournalEncounter.lua",
+    "Remove JournalEncounter code from WoW_Tooltips.lua",
+    "Improve Talents.lua with better revert translations and toggle button",
+    "Add toggle buttons for enabling/disabling translations in both modules"
+  ],
+  "observed_changes": "Adds common/UI/JournalEncounter.lua (+477) with revert and translation functions, adds common/UI/Talents.lua (+412) as a new file with revert translation logic, and modifies WoW_Tooltips.lua (+103 -463), removing JournalEncounter code plus some whitespace tweaks.",
+  "reason": "The description covers the extraction, the removal from WoW_Tooltips.lua, and the Talents.lua work along with the new toggle and revert features. The diff matches: JournalEncounter code is moved into a new module, and the Talents work and additions are disclosed rather than hidden. Talents.lua shows as an added file even though the description says 'improved', but that detail doesn't misrepresent the scope. Overall the description accurately reflects the changes.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28174,
+    "output": 395
+  }
+}

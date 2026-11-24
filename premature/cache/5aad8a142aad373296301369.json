@@ -1,0 +1,10 @@
+{
+  "concern": "Years of worsening depression, panic attacks, uncontrollable fears, not caring whether they live or die, and not knowing who to turn to because they freeze and joke when trying to talk to their parents.",
+  "first_advice": "Having small conversations with your family is helpful",
+  "acknowledged_before_advice": "Only the communication difficulty: 'I understand that talking about our feelings can be awkward and using jokes is a way to relieve that awkwardness,' plus brief praise for reaching out. The depression, panic, hopelessness and not caring about living are not validated before the advice begins.",
+  "label": "premature",
+  "_usage": {
+    "input": 1810,
+    "output": 429
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling persistently sad and alone despite having good friends, family, home, school and grades, and not understanding why.",
+  "first_advice": "\"I hope you can tell someone that you are feeling sad\"",
+  "acknowledged_before_advice": "Only probing questions about moments of happiness and whether they can be themselves with friends, plus a speculative remark about self-imposed pressure. Nothing directly validates the sadness, the loneliness, or the confusion about feeling this way despite a good life.",
+  "label": "premature",
+  "_usage": {
+    "input": 870,
+    "output": 267
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Add insert() and update() methods to PageRepository",
+    "Refactor page.php controller to call the repository instead of running inline SQL"
+  ],
+  "observed_changes": "The PR touches 22 files. Besides PageRepository and page.php, it adds Database::updateFromRecord and a matching DbInterface method, and adds EpisodeRepository::findById and update. It also changes LivestreamFactory: platform setting, thumbnail size switched from high to medium, and the duration line commented out. LivestreamsRepository renames a column (thumbnail to thumbnail_url). Further changes span Media classes, a DB schema SQL file, many episode/livestream templates, and the poll scripts.",
+  "reason": "The description covers only the page.php/PageRepository move. It leaves out most of the changed files, including new DB methods, episode repository changes, livestream logic and behavior changes, a schema migration, and template updates.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 28375,
+    "output": 316
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Refactor SaveLoadService to delegate save preparation to a new module",
+    "Add savePreparation.js handling cloning, metadata setup, and serialization",
+    "Update tests to spy on the new function"
+  ],
+  "observed_changes": "Moves the private #cloneAndPrepareState method and the serialization preparation logic out of SaveLoadService into a new savePreparation.js module (cloneAndPrepareState, prepareState). SaveLoadService now imports and calls prepareState and has some import adjustments. The test file spies on savePreparation.prepareState and asserts it is called with the expected arguments.",
+  "reason": "The diff matches the description: an Extract/Move of the save preparation logic into a new module, the service delegating to it, and the tests updated to spy on the new function. No unrelated logic changes are visible.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 27993,
+    "output": 282
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "claimed_changes": [
+    "add Firebase initialization",
+    "implement Firestore service with async CRUD helpers",
+    "refactor Auth context and dashboards to use Firestore",
+    "remove old localStorage based db service",
+    "add CartItem type and firebase dependency"
+  ],
+  "observed_changes": "Adds firebase.ts init, a new Firestore service, and the firebase dependency. Replaces localStorage db calls with async Firestore calls in ProductCard, AuthContext and both dashboards, removes services/db.ts, and updates types.",
+  "reason": "This swaps the storage backend from localStorage to Firestore, which is a functional and behavioral change rather than an Extract/Move refactoring. The code is rewritten against a different backend instead of being relocated.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 28465,
+    "output": 253
+  }
+}

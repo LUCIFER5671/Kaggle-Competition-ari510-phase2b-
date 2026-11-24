@@ -1,0 +1,10 @@
+{
+  "concern": "Distress, panic and anxiety from intrusive thoughts about living forever after death, and fear of being 'crazy' or abnormal.",
+  "first_advice": "\"I suggest that you consider counseling to help you with your anxiety.\"",
+  "acknowledged_before_advice": "Only brief normalizing that obsessive thinking and anxiety are common and that the obsession seems powerful to them. It does not validate the feelings of overwhelm and panic, and the 'crazy' worry is addressed only after the advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 1146,
+    "output": 181
+  }
+}

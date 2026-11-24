@@ -1,0 +1,11 @@
+{
+  "requests": [
+    "What could be causing the metallic/gas-like smell coming from the flexible conduit containing the wires?"
+  ],
+  "reason": "The question asks only for possible causes. The reply gives one: ozone produced by arcing, partial or corona discharge, or voltage spikes, with humidity as a contributing factor. The closing humidity question adds to the diagnosis rather than replacing it.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 12637,
+    "output": 139
+  }
+}

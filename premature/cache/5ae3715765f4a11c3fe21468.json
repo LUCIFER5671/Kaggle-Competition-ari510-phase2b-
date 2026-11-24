@@ -1,0 +1,10 @@
+{
+  "concern": "The teen describes worsening depression, panic attacks, uncontrollable fears and not caring whether they live or die. They also don't know who to ask for help, and freeze and joke when trying to talk to their parents.",
+  "first_advice": "\"Having small conversations with your family is helpful, you can explain to them...\"",
+  "acknowledged_before_advice": "The reply opens by empathizing and normalizing: \"I understand that talking about our feelings can be awkward and using jokes is a way to relieve that awkwardness.\" It then affirms the teen's effort: \"recognize that you need help... and reaching out, which you are doing already.\" This briefly validates the difficulty of opening up before any advice is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 2279,
+    "output": 588
+  }
+}

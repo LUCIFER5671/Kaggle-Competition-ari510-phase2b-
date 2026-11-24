@@ -1,0 +1,10 @@
+{
+  "concern": "She feels insecure and worried that her fiance is still in love with his ex because he suggested a hairstyle identical to the ex's, and she wonders if she is 'nuts' for feeling this way.",
+  "first_advice": "\"There are other many reasonable options too.Maybe he doesn't know a lot about hair styles\", which moves straight into alternative explanations and reframing, followed by \"The key whether or not he loves you is how you feel...\"",
+  "acknowledged_before_advice": "Only a brief concession that her suspicion might be correct (\"Maybe your finance's hair preference for you reflects he still is in love w the ex\"). Nothing validates her hurt, insecurity, or worry, or reassures her that her reaction is understandable.",
+  "label": "premature",
+  "_usage": {
+    "input": 879,
+    "output": 435
+  }
+}

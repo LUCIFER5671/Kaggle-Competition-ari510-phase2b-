@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "Explain whether an exterior GFCI can be downstream of other outlets, and why tripping the other outlets trips this GFCI",
+    "Say whether all the other exterior outlets should be on the LOAD side of this GFCI",
+    "Say whether the proposed rewiring (red to LOAD, feeding the other outlets from it) would make the install proper, or whether it is already proper",
+    "Say whether water could get in through the top closure of the exterior enclosure"
+  ],
+  "reason": "The reply explains how a GFCI works and why putting a multi-wire branch circuit (MWBC) on the LOAD side would cause trips. This implicitly answers that the proposed red-to-LOAD rewiring would not work, and it questions how the circuit was originally wired. It does not clearly explain why the other outlets currently trip this GFCI or say whether the existing install is proper. It does not address the water-intrusion question at all.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 10227,
+    "output": 505
+  }
+}

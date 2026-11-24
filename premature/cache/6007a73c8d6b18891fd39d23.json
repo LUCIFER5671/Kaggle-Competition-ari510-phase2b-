@@ -1,0 +1,10 @@
+{
+  "concern": "Distress over suppressed romantic feelings for a supervisor/coworker, uncertainty about whether she is dating someone else at work ('It's driving me crazy'), and indecision about giving her a personalized gift.",
+  "first_advice": "\"Perhaps you should check your employee handbook\" (preceded by an explanation of workplace power dynamics)",
+  "acknowledged_before_advice": "Only the generic opener \"Human attractions can be tricky things\", which then turns straight to the power dynamic. It does not address the person's distress, the difficulty of suppressing the feelings, or the jealousy and uncertainty.",
+  "label": "premature",
+  "_usage": {
+    "input": 901,
+    "output": 216
+  }
+}

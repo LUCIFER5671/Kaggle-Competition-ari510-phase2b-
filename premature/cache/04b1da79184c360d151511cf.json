@@ -1,0 +1,10 @@
+{
+  "concern": "Hurt and confusion after the breakup: she feels the ex no longer cares, feels pushy when she tries to see him, and fears she is driving him away.",
+  "first_advice": "\"It's appropriate now for you to respect that relationship and listen to what he says he wants\"",
+  "acknowledged_before_advice": "Only an affirmation of her decision (\"your first instinct was good\") and \"You deserve respect,\" followed immediately by criticism of her behavior. Her hurt, sadness and fear of driving him away are never acknowledged.",
+  "label": "premature",
+  "_usage": {
+    "input": 943,
+    "output": 190
+  }
+}

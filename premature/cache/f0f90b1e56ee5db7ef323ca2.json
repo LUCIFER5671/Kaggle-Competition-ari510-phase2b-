@@ -1,0 +1,10 @@
+{
+  "concern": "She feels insecure and worried that her fiance is still in love with his ex, and wonders whether she is 'nuts' for suspecting this.",
+  "first_advice": "\"There are other many reasonable options too. Maybe he doesn't know a lot about hair styles...\", which reframes her suspicion and leads into the guidance \"The key whether or not he loves you is how you feel most of the time...\"",
+  "acknowledged_before_advice": "Only \"Maybe your finance's hair preference for you reflects he still is in love w the ex,\" which grants the factual possibility but does not name, reflect, or empathize with her worry, insecurity, or fear of being 'nuts.'",
+  "label": "premature",
+  "_usage": {
+    "input": 1348,
+    "output": 494
+  }
+}

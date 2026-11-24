@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Add a `create_app` factory in a new app_factory.py to centralize FastAPI setup",
+    "Reduce `main.py` to simple application instantiation"
+  ],
+  "observed_changes": "A new 431-line backend/app_factory.py is added. It contains logging config, an optional FastApiMCP import, database and middleware imports, and presumably the app setup. backend/main.py is rewritten (+158 -199) but still holds a lot: logging config, CORS, SQLAlchemy, lifespan imports, schema preloads, the optional MCP integration and a log_config dict. So setup code is duplicated across both files rather than moved.",
+  "reason": "The description says main.py is reduced to simple instantiation. The diff shows main.py still has about 158 added lines, including its own log_config, MCP import and FastAPI setup imports. That setup now also exists in app_factory.py. This does not match a clean extraction that leaves main.py as a thin instantiation, so the summary misdescribes the change.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 2160,
+    "output": 471
+  }
+}

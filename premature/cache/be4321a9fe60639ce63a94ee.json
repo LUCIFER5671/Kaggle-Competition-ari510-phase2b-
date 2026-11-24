@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling ignored and hurt when people read but don't answer their messages, and worrying that people may dislike something about them.",
+  "first_advice": "\"Have you tried gently talking to people about how you send a message\"",
+  "acknowledged_before_advice": "Only a generic opener, \"I'm sorry that you are having a difficult time,\" followed by speculation about technology problems. It never names or validates the hurt, rejection, or fear of being disliked.",
+  "label": "premature",
+  "_usage": {
+    "input": 892,
+    "output": 306
+  }
+}

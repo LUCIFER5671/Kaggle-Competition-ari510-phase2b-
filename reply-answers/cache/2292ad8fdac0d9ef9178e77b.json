@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether a second 5' baseboard heater can be mounted about 12 inches above the first",
+    "Or whether the second heater must go in a different place on the living room wall"
+  ],
+  "reason": "The reply says stacking will not work well and explains that convection airflow would be disrupted. This answers the feasibility question and implies the stacked arrangement should be avoided. It also offers an alternative: a single 5' heater with the same kW, which would free the space for the door. The either/or question is therefore resolved.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 9535,
+    "output": 269
+  }
+}

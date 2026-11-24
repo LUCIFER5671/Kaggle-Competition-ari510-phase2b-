@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels unable to be content from day to day and wants to know how to reach a steadier, more peaceful state.",
+  "first_advice": "none",
+  "acknowledged_before_advice": "The reply offers no directed advice or action steps. It calls the question 'fascinating', explains that lingering emotions and reflection on upsetting matters can unsettle calm moments, and validates the person with 'Good for you to be aware of your own sensitivity to living with awareness of your moods and thoughts.'",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 744,
+    "output": 339
+  }
+}

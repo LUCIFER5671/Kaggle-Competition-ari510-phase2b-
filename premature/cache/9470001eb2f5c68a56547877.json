@@ -1,0 +1,10 @@
+{
+  "concern": "Confusion and uncertainty after kissing a close friend who wants to stay friends; she wants to be with him but isn't ready for a relationship and doesn't know if he'll ever want more.",
+  "first_advice": "Stay focused on what you know about yourself",
+  "acknowledged_before_advice": "The reply normalizes the kiss as 'a very natural need' after both relationships ended, and validates that 'Suddenly being without a partner is difficult because a relationship absorbs and offers much of a person's energy.'",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6114,
+    "output": 183
+  }
+}

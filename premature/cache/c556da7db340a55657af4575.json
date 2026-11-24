@@ -1,0 +1,10 @@
+{
+  "concern": "He feels torn and distressed: an overwhelming desire to watch his wife with another man excites him but also disgusts him, and he has struggled with this for years.",
+  "first_advice": "\"Try to understand your own ambivalence to having your wish fulfilled.\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with a directive, and the word \"ambivalence\" is folded into that instruction rather than offered as empathy or validation of his years of struggle and disgust.",
+  "label": "premature",
+  "_usage": {
+    "input": 6060,
+    "output": 171
+  }
+}

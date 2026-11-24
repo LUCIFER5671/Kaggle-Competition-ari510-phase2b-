@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain why the outlet is melting and glowing (possible causes).",
+    "Say whether only the outlet needs replacing or whether the house wiring needs to be redone."
+  ],
+  "reason": "The reply lists several plausible causes, some at the outlet and some in the wiring, which answers the 'why' question. It never directly says whether replacing the outlet would be enough or whether rewiring is needed. It only says a close inspection is required and to call an electrician, without explicitly tying that to the replace-versus-rewire decision. It is uncertain whether this implicitly covers the second question, but it seems too indirect.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 9535,
+    "output": 692
+  }
+}

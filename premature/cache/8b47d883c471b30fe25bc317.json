@@ -1,0 +1,10 @@
+{
+  "concern": "Severe depression and anxiety, feeling overwhelmed and unable to stop dwelling on what is bothering them.",
+  "first_advice": "Have you used meditation or hypnosis?",
+  "acknowledged_before_advice": "Nothing; the reply opens directly with a suggestion and never names or validates the person's distress.",
+  "label": "premature",
+  "_usage": {
+    "input": 5842,
+    "output": 118
+  }
+}

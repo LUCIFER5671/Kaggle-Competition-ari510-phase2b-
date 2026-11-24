@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Bring in-memory list of puntos limpios into the React app",
+    "Create PuntosContext for client-side management",
+    "Wrap routes in App with PuntosProvider",
+    "Refactor MapaPuntos and RegisterRecyclePage to use the context"
+  ],
+  "observed_changes": "Adds PuntosContext with a hardcoded initial list and add/delete/update functions. Wraps the App routes in PuntosProvider. In MapaPuntos and RegisterRecyclePage, replaces fetch('/api/puntos') calls and API-based CRUD with context state.",
+  "reason": "The description matches the diff, but the change is an architectural shift from backend API calls to frontend in-memory state. That changes behavior: data is no longer persisted server-side. It is not a behavior-preserving Extract/Move refactoring, much like the Firestore migration example labeled Out of scope.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 28585,
+    "output": 303
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Heartbreak and loss of trust after discovering her boyfriend solicited nude photos from another girl; insecurity, feeling not pretty or good enough, fear he doesn't like her anymore, feeling her world was flipped upside down.",
+  "first_advice": "\"My suggestion is to think over how much your sense of need for a partner...\"",
+  "acknowledged_before_advice": "Opens with \"I'm sorry for so much stress in your relationship life\" and later reflects her feelings: \"you feel more aggravation, stress, loneliness and insecurity, than satisfaction by being in this relationship.\" Both come before the first suggestion.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1648,
+    "output": 229
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling insecure, doubting his wife truly wants the relationship, drinking to relieve repressed stress, feeling on edge, unusually emotional, paranoid while driving, and jumpy.",
+  "first_advice": "\"it may be time to find someone to work with\"",
+  "acknowledged_before_advice": "Nothing. The reply opens directly with a recommendation to seek help. The empathic statements (\"Seeking help is never easy...\", \"This is a difficult place to be in\") appear only after extensive advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 1665,
+    "output": 183
+  }
+}

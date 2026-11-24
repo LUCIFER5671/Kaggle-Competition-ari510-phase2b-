@@ -1,0 +1,10 @@
+{
+  "concern": "Overwhelming, intrusive thoughts about living forever after death that lead to panic and anxiety, plus fear of being crazy or abnormal.",
+  "first_advice": "I suggest that you consider counseling to help you with your anxiety",
+  "acknowledged_before_advice": "The opening normalizes the experience: 'Many people generate intense anxiety with obsessive thinking... while the nature of your obsession... appear very powerful and unique to you, the pattern of obsessing about one thing/area is common.' This recognizes how powerful the thoughts feel and speaks to the fear of not being normal.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6250,
+    "output": 383
+  }
+}

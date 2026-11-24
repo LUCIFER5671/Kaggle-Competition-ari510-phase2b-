@@ -1,0 +1,10 @@
+{
+  "concern": "He feels unable to pursue his career goals despite having plans. He feels stuck and doubts himself, and he wants a better life for his fianc\u00e9e and kids than he had.",
+  "first_advice": "\"For starters, commend yourself for being committed to working\", which quickly leads into \"Remind yourself of that every time the thought pops up.\"",
+  "acknowledged_before_advice": "Nothing substantive. The opening line is itself a directive to praise himself for working. It never reflects or validates his feeling that he can't reach his goals, his self-doubt, or his wish to provide for his family. Instead, the reply quickly labels his thinking a 'fictitious story' and moves into action steps.",
+  "label": "premature",
+  "_usage": {
+    "input": 999,
+    "output": 352
+  }
+}

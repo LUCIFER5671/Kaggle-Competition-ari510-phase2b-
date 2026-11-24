@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Provide a technique to re-stick loose plasterboard to brickwork without removing the board.",
+    "Accommodate the 5\u201310mm gap between board and brick and the lack of cracks or bulging."
+  ],
+  "reason": "The reply gives an in-place method: drill small holes at the top, pour in adhesive so it runs down behind the board, then press the board back with planks braced against the opposite wall until it sets. The adhesive flows into the gap and the bracing closes it, so the method suits the small gap and avoids removal. The reply's own example involved horsehair plaster rather than plasterboard, and it doesn't name an adhesive, but the technique still answers the question.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 910,
+    "output": 344
+  }
+}

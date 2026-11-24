@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling betrayed and confused after a six-year therapist who seemed like a friend took their credit card information during a medical emergency and then disappeared; they don't know what to do.",
+  "first_advice": "\"If not, then cancel the credit cards\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with a practical question about the credit card information and goes straight into action steps. It never acknowledges the person's hurt, sense of betrayal, or vulnerability during the medical emergency.",
+  "label": "premature",
+  "_usage": {
+    "input": 1084,
+    "output": 174
+  }
+}

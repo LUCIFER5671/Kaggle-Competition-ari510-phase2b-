@@ -1,0 +1,15 @@
+{
+  "requests": [
+    "Decide whether to install a thermal expansion tank with the new water heater.",
+    "Decide whether to install a check valve downstream of the meter.",
+    "Identify any downsides of installing that check valve.",
+    "Say whether there might be an unseen check valve underground near the water main connection.",
+    "Say whether to install only the expansion tank and skip the check valve, given the concern about water moving back and forth through the meter."
+  ],
+  "reason": "The reply says to install an expansion tank, adding a pressure reducing valve, so the expansion-tank question is covered. It does not say whether to add the check valve or skip it. It gives no downsides of the check valve and does not address a possible hidden upstream check valve. The remark that backflow prevention protects the city is only tangential, and the meter concern is not addressed.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 3832,
+    "output": 401
+  }
+}

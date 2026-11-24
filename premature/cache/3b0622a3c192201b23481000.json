@@ -1,0 +1,10 @@
+{
+  "concern": "Distress that her fianc\u00e9 struggles to accept her past (not being a virgin), and that his insecurities are hurting their relationship.",
+  "first_advice": "\"you mention the straight and narrow, this is a notion that you must give up on and let go\"",
+  "acknowledged_before_advice": "Very little. The reply opens by interpreting the problem as clinging to the past, possibly amplified by a Christian framework, and offers a general observation that humans make mistakes. It never validates her hurt, the strain on the relationship, or her worry about her fianc\u00e9 before telling her what to do.",
+  "label": "premature",
+  "_usage": {
+    "input": 1409,
+    "output": 197
+  }
+}

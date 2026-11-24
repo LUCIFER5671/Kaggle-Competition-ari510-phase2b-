@@ -1,0 +1,10 @@
+{
+  "concern": "She is distressed and confused by her partner seemingly holding conversations while denying it, feels she is 'losing it,' and fears he may be trying to make her question her sanity.",
+  "first_advice": "\"Feel free to email me.\"",
+  "acknowledged_before_advice": "The opening, \"A rare topic & likely extremely troublesome for you...\", recognizes how distressing the situation is for her before any guidance is offered. It is brief but empathic.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1260,
+    "output": 309
+  }
+}

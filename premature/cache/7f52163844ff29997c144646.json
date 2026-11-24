@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling insecure or jealous that her boyfriend spends social time (dinners, brunches, movies) with another woman while they are apart in a long-distance relationship.",
+  "first_advice": "\"If you are concerned that their friendship is a substitute for you when you aren't present, talk to him.\"",
+  "acknowledged_before_advice": "Nothing substantive. The reply opens with a challenging question about whether she'd feel the same if the friend were male. The empathic reflection (\"It sounds like you are concerned that he is building an emotional intimacy with her...\") only comes after the advice to talk to him.",
+  "label": "premature",
+  "_usage": {
+    "input": 763,
+    "output": 288
+  }
+}

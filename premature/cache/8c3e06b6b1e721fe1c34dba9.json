@@ -1,0 +1,10 @@
+{
+  "concern": "The person is troubled and confused by a pull toward sadness: seeking out sad music and tragic stories, liking how bad it makes them feel, and dwelling on negatives in their life even when they aren't legitimate.",
+  "first_advice": "\"These are things you may benefit from exploring with a competent therapist\" (preceded by an interpretive reframe about an 'unseen benefit')",
+  "acknowledged_before_advice": "It opens by reflecting the concern: \"It sounds like you are noticing that you are drawn towards sad and negative content and it's hard to understand why.\" It then normalizes the experience by explaining that people often do seemingly problematic things because they serve them in some unseen way.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1408,
+    "output": 370
+  }
+}

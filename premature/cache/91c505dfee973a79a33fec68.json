@@ -1,0 +1,10 @@
+{
+  "concern": "Persistent feeling of not belonging or having a true home despite loving people and material support; feeling like they never 'go home'.",
+  "first_advice": "would you guess that the effort and thought involved in deciding in what professional area and geographic location to look for work",
+  "acknowledged_before_advice": "Only an interpretive guess ('you haven't figured out where and how to lay down your own set of roots') and a remark about being old enough to work; no reflection of the feeling of not belonging, no empathy or validation.",
+  "label": "premature",
+  "_usage": {
+    "input": 6037,
+    "output": 172
+  }
+}

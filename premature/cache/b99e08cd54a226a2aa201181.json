@@ -1,0 +1,10 @@
+{
+  "concern": "Heartbreak and grief after a breakup with a partner who was her whole world, feeling rejected and no longer beautiful, still loving him, having cut herself, and unsure whether she needs a therapist.",
+  "first_advice": "\"seeing a therapist is highly recommended\"",
+  "acknowledged_before_advice": "The reply opens by expressing sorrow for her pain, recognizing that losing the most significant person in her life is extremely painful and comparable to a death, and normalizing the grieving process before recommending therapy.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1388,
+    "output": 188
+  }
+}

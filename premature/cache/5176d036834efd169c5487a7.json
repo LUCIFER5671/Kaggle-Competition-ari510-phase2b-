@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling insecure about his marriage, doubting his wife's commitment, drinking to cope with stress, feeling on edge, emotional, paranoid and jumpy.",
+  "first_advice": "\"it may be time to find someone to work with\"",
+  "acknowledged_before_advice": "Nothing. The only lead-in is \"Given the description you have posted here,\" which does not name or validate his feelings. Empathy (\"This is a difficult place to be in\") appears only after extensive advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 6300,
+    "output": 173
+  }
+}

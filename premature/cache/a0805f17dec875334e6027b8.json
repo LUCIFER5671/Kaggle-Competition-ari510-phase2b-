@@ -1,0 +1,10 @@
+{
+  "concern": "Deep hurt and rejection from being excluded by her partner and his family, loneliness and isolation, depression, and fear because she does 'stupid things' to herself and gives up.",
+  "first_advice": "\"While I would suggest that you don't really know what he or his family are thinking or feeling\"",
+  "acknowledged_before_advice": "The reply opens by reflecting her isolation (\"you're quite isolated in general\") and empathizing with her exclusion (\"It's sad that you're feeling excluded at Christmastime and family events\"). Within the same sentence as the first suggestion, it also validates that \"it's understandable that you would feel rejected and hurt.\"",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1802,
+    "output": 358
+  }
+}

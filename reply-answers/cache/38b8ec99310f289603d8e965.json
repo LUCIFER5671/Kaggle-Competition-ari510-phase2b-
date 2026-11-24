@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "Whether the SER 4/4/4/2 feeder cable can be run through the 1-1/4\" PVC conduit in a code-compliant way",
+    "Whether the feeder cable needs to be clamped, given that the conduit is much larger",
+    "Whether individual 14 AWG wires can be run through the conduit to relocate existing 15 A circuits",
+    "Whether WAGO inline connectors can be used to extend those circuit wires"
+  ],
+  "reason": "This is a self-answer. On the feeder, it says the inspector required 1/1/1/2 SER cable for 100 A, which addresses cable suitability. On the relocated circuits, it says THHN must be used through the raceway rather than unjacketed Romex conductors, which addresses the individual-wire question. It never addresses whether the cable must be clamped in the oversized conduit, or whether WAGO inline connectors are acceptable for extending the wires.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 12827,
+    "output": 518
+  }
+}

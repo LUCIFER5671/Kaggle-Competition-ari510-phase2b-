@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether a 40A breaker is needed for a 7000 W, 240 V heater (about 29.17 A)",
+    "Whether a 30A breaker with 10-gauge wire is acceptable, or whether to use a 40A breaker with 8-gauge wire"
+  ],
+  "reason": "The reply says a continuous load like a heater must be sized at 125% of its draw, so a 30A circuit is not enough and the 40A circuit is required. Choosing that bundled option covers its stated 8-gauge wire, so the wire size need not be repeated. The 12-foot distance is background rather than a separate question.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 3374,
+    "output": 380
+  }
+}

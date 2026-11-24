@@ -1,0 +1,10 @@
+{
+  "concern": "Fear and distress after her husband swore at and threatened her when she defended their son; his words scared her a lot.",
+  "first_advice": "\"If it does get out of hand, the police do need to be involved.\"",
+  "acknowledged_before_advice": "Nothing meaningful. The only preceding text is \"I have had these many cases, but in situations like this....\", which does not name or validate her fear.",
+  "label": "premature",
+  "_usage": {
+    "input": 5882,
+    "output": 138
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Distress that the ex's parents, who are friends with their current partner's parents, are spreading bad things about them and portraying them as the bad one after they left an abusive relationship.",
+  "first_advice": "\"Maybe you can talk with your partner about this first\"",
+  "acknowledged_before_advice": "Nothing; the reply opens directly with a suggestion and never reflects the hurt, unfairness, or abuse experience.",
+  "label": "premature",
+  "_usage": {
+    "input": 5893,
+    "output": 149
+  }
+}

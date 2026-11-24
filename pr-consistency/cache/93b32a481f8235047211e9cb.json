@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Accept Telegram API credentials via HTTP headers",
+    "Adjust pydantic models (remove credentials field)",
+    "Document new headers in README"
+  ],
+  "observed_changes": "Adds get_header_credentials dependency reading X-Telegram-* headers, changes endpoints to use header credentials instead of request body, removes credentials fields from SendMessageRequest and PressButtonRequest, documents headers in README.",
+  "reason": "The description matches the diff, but the change alters the API's behavior: credentials now come from headers instead of the body. That is a feature/API change, not an Extract/Move refactoring. The small helper function is incidental to that change.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 2219,
+    "output": 228
+  }
+}

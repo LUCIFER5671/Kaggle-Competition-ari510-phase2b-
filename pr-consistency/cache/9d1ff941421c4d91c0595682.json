@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Move actor, critic, and engine config classes from verl/trainer/config to verl/workers/config",
+    "Update imports and YAML _target_ fields to the new module",
+    "Remove duplicate config class definitions from verl/trainer/config"
+  ],
+  "observed_changes": "Config class definitions are removed from verl/trainer/config/actor.py and critic.py and moved into verl/workers/config (actor.py, critic.py, engine.py). The trainer config __init__ now re-exports the classes from workers.config. Test imports and YAML _target_ fields, including the generated ones, are updated to point at verl.workers.config.",
+  "reason": "The diff is a Move Class refactoring of the config classes, with imports and references updated to match. That is exactly what the description says, and the 18 changed files all fit this scope.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 29678,
+    "output": 277
+  }
+}

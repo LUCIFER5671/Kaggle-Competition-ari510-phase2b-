@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain how to troubleshoot the loss of power to the affected outlets now that a dedicated new circuit restores them",
+    "Identify what or where the fault could be"
+  ],
+  "reason": "The reply gives a troubleshooting step: de-energize the circuit and use a multimeter to check continuity between wire endpoints, with a safety caution. It does not say what the fault likely is or where it might be located (for example a break or loose connection at a specific box or junction); at most it vaguely implies a wiring discontinuity. The second request is therefore largely unaddressed.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 13033,
+    "output": 379
+  }
+}

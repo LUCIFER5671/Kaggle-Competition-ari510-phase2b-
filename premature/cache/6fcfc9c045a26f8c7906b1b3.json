@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and worry over a brother with untreated paranoid schizophrenia and substance use who was found sleeping naked outside in freezing weather, compounded by the recent death of their father and the brother's mother refusing to help; uncertainty about whether they have the right to commit him.",
+  "first_advice": "\"you might be able to get you brother some mental health help... In most states, an individual can request a mental health evaluation\"",
+  "acknowledged_before_advice": "\"Thanks for asking this question. I know it can be really difficult to deal with issues like this.\" This is a brief empathic acknowledgement of how hard the situation is, given before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1462,
+    "output": 226
+  }
+}

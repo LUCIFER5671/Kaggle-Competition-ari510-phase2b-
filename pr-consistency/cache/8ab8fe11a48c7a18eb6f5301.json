@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Refactor performance search to extract title from quotes",
+    "Perform exact match on extracted title"
+  ],
+  "observed_changes": "Removes fuzzy-matching utility (findBestMatch, similarity thresholds, suggestion state) and replaces it with a new helper that extracts text inside quotes, then does exact title matching. This changes search behavior.",
+  "reason": "The change replaces the fuzzy-matching algorithm with a different search approach, so it is a behavioral/feature change, not an Extract/Move refactoring. The new helper is new logic rather than code extracted from an existing method.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 1616,
+    "output": 209
+  }
+}

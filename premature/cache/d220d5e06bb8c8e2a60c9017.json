@@ -1,0 +1,10 @@
+{
+  "concern": "Distress after enduring mental and verbal abuse and having to file a restraining order against her ex-fianc\u00e9, plus worry about feeling sick whenever she stands up.",
+  "first_advice": "\"you may want to visit your primary care provider\"",
+  "acknowledged_before_advice": "Thanks her, validates that the symptoms may well be nerves or anxiety, says this is \"totally normal and understandable given your circumstances,\" and normalizes rocking as a common way people comfort themselves under high stress.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6086,
+    "output": 182
+  }
+}

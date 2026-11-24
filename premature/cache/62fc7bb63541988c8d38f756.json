@@ -1,0 +1,10 @@
+{
+  "concern": "Guilt, depression, and self-blame after feeling too terrified to say no when her brother's friend came on to her; she wonders what is wrong with her.",
+  "first_advice": "A good therapist would help you to dig deep",
+  "acknowledged_before_advice": "The reply opens by directly countering her self-blame (\"There is nothing wrong with you\"), explains why her freeze response was understandable (caught off guard, cultural pressure, coercion), and places responsibility on him (\"It was his job to get your consent first. He pressured you into it\"). This validates her fear and relieves her guilt before any recommendation is made.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1108,
+    "output": 218
+  }
+}

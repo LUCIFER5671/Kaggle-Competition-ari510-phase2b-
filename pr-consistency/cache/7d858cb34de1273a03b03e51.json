@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Extract portrait helper methods into a new portraitUtils module",
+    "Refactor EntityDisplayDataProvider to use the extracted helpers",
+    "Add unit tests for portraitUtils"
+  ],
+  "observed_changes": "The private methods #buildPortraitPath, #buildAltText and the portrait-info builder are removed from EntityDisplayDataProvider. They are recreated as exported functions in the new src/entities/utils/portraitUtils.js. The provider now imports buildPortraitInfo, and its unused safeDispatchError and extractModId imports are dropped. A new test file covers buildPortraitPath, buildAltText and buildPortraitInfo.",
+  "reason": "The diff matches the description: the methods are extracted to a utility module, the provider is updated to use them, and tests are added. No logic changes beyond the extraction are visible.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3040,
+    "output": 296
+  }
+}

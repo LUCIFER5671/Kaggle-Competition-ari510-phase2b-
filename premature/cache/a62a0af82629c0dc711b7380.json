@@ -1,0 +1,10 @@
+{
+  "concern": "Conflicted and distressed about whether to tell his estranged wife about the new baby, and torn because he still loves his wife while his girlfriend pressures him to cut ties.",
+  "first_advice": "\"My answer is yes, you should tell her\"",
+  "acknowledged_before_advice": "Nothing. The reply opens directly with the advice and never acknowledges his emotional conflict.",
+  "label": "premature",
+  "_usage": {
+    "input": 5916,
+    "output": 138
+  }
+}

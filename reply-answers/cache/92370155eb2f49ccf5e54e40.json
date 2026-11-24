@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether the equipment grounding conductors for eight branch circuits moved to an adjacent subpanel can stay connected to the main panel's ground bar instead of being extended",
+    "Whether code requires extending the ground wires, given conflicting online claims and YouTube examples"
+  ],
+  "reason": "The reply answers the core question: the responder found nothing in NEC Article 250 that would prohibit leaving the grounds in the main panel, so it is allowed from a code perspective. It also explains why the two setups are electrically equivalent, which speaks to the conflicting sources the asker mentioned. No major part of the question is left unaddressed.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 955,
+    "output": 387
+  }
+}

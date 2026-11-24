@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and fear from intrusive scary thoughts that something bad will happen, feeling unable to get them out of their head.",
+  "first_advice": "There are 3 steps to doing this: Get distance from your thoughts by adding \"I am noticing I'm having the thought that...\"",
+  "acknowledged_before_advice": "Opens by normalizing the experience: \"having these thoughts is completely normal... so you are not alone.\" It then uses the tornado image to reflect how consuming and frightening the thoughts feel.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6668,
+    "output": 186
+  }
+}

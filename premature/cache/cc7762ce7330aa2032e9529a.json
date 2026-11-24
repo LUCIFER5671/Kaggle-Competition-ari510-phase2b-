@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling invalidated and shut down by a dismissive father and family, unable to speak their mind, with worsening anxiety, body image and self-confidence issues, paranoia, guilt, and frequent feelings of worthlessness.",
+  "first_advice": "\"needs to be addressed by a professional\" followed by \"I would recommend talking with another adult such as a school counselor\"",
+  "acknowledged_before_advice": "Only a brief \"I'm sorry to hear that you are unable to get through to your parents.\" It addresses the communication difficulty but not the feelings of invalidation, worthlessness, guilt, or worsening self-image before moving to recommendations.",
+  "label": "premature",
+  "_usage": {
+    "input": 1085,
+    "output": 394
+  }
+}

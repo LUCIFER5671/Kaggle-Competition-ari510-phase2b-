@@ -1,0 +1,10 @@
+{
+  "concern": "Lifelong panic attacks and anxiety around driving or riding in cars, missing time with friends and family, feeling unsupported and dismissed by family, guilt, depression, meaninglessness and near-hopelessness about recovery.",
+  "first_advice": "\"How about your friends, are any of them nurturing\" (probing questions), then \"a next step would be to evaluate the relationships in your life\"",
+  "acknowledged_before_advice": "The opening line, \"Not having support from your family for such a significant problem, is a problem itself,\" validates the problem as significant and recognizes the hurt of family dismissal. It does not address the panic, depression or hopelessness.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6360,
+    "output": 452
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Guilt and depression after giving in to unwanted sexual advances from her brother's friend, and confusion and self-blame about why she was too afraid to say no.",
+  "first_advice": "\"A good therapist would help you to dig deep and uncover all these barriers\"",
+  "acknowledged_before_advice": "The reply opens with clear validation before any advice: \"There is nothing wrong with you.\" It normalizes her freeze response (caught off guard, cultural pressure to be cooperative), affirms she was pressured (\"He wore you down\"), and lifts the self-blame (\"It wasn't your job to say no... It was his job to get your consent first\"). This directly addresses her guilt and confusion.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1577,
+    "output": 247
+  }
+}

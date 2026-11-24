@@ -1,0 +1,10 @@
+{
+  "concern": "She feels uncertain and possibly guilty about whether she was wrong to spend the weekend with an ex who is now a friend, since it upset her boyfriend.",
+  "first_advice": "\"It is important to follow the rules of your relationship\"",
+  "acknowledged_before_advice": "Only \"This can be a very complicated situation,\" a generic comment on the situation's complexity. It does not reflect her worry or guilt, or the strain of upsetting her boyfriend.",
+  "label": "premature",
+  "_usage": {
+    "input": 1194,
+    "output": 422
+  }
+}

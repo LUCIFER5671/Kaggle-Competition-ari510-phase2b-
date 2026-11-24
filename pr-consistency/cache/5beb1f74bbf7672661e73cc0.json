@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Add evaluateConditionWithLogging helper to jsonLogicEvaluationService",
+    "Refactor _evaluateCondition and #handleIf to use the helper"
+  ],
+  "observed_changes": "Adds an exported evaluateConditionWithLogging function in jsonLogicEvaluationService.js containing the evaluate/log/error-handling logic previously inline in SystemLogicInterpreter._evaluateCondition. _evaluateCondition now delegates to it, and another hunk (likely #handleIf) is modified to use it too.",
+  "reason": "The diff matches the description: the helper is extracted and moved into the service module, and both call sites are updated to use it. Logic is preserved and there are no unmentioned file changes.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28170,
+    "output": 257
+  }
+}

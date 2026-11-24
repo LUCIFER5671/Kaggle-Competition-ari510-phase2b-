@@ -1,0 +1,10 @@
+{
+  "concern": "Ongoing distressing, vivid nightmares seven years after surviving domestic violence, waking in sweat.",
+  "first_advice": "\"you may want to consider processing your memories of the events with a trained trauma therapist\"",
+  "acknowledged_before_advice": "Only a normalizing statement that nightmares are very common for survivors. It does not acknowledge the person's distress, fear, or how hard it is to still suffer years later.",
+  "label": "premature",
+  "_usage": {
+    "input": 797,
+    "output": 153
+  }
+}

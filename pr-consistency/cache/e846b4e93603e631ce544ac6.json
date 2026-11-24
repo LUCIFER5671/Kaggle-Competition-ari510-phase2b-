@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Extract LayoutManager from MainWindow for adaptive layout logic",
+    "Extract WindowStateManager for centralized window state persistence",
+    "Extract PerformanceOptimizer from ModelManager for llama.cpp optimizations",
+    "Remove obsolete files such as ChatView_old.vala (3,509 lines removed)"
+  ],
+  "observed_changes": "The code diff is empty, so none of the described changes can be checked against it.",
+  "reason": "There is no diff to contradict the claims. The description lays out a coherent set of Extract Class refactorings (LayoutManager, WindowStateManager, PerformanceOptimizer) plus removal of obsolete files, all of which fall within refactoring scope. Without contrary evidence, the most reasonable default is Consistent.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 26565,
+    "output": 270
+  }
+}

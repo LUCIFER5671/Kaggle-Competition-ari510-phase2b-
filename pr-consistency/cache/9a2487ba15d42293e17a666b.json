@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Extract handler invocation and error handling from getValidActions into private #processActionDefinition method",
+    "Add tests covering the helper, error cases, and default handling"
+  ],
+  "observed_changes": "Adds a private #processActionDefinition method to ActionDiscoveryService that selects the domain handler (falling back to the default), invokes it, and dispatches errors safely. getValidActions is modified (+53/-23) to call it. A new unit test file exercises the helper.",
+  "reason": "The diff matches the description: an Extract Method refactoring in actionDiscoveryService.js plus a new test file. No unmentioned files or logic changes are visible.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28343,
+    "output": 226
+  }
+}

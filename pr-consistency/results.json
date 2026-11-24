@@ -1,0 +1,80 @@
+{
+  "run1": {
+    "loo": {
+      "macro_f1": 0.4342,
+      "accuracy": 0.6774,
+      "n": 31
+    },
+    "loo_available_rows_only": {
+      "macro_f1": 0.2456,
+      "accuracy": 0.5833,
+      "n": 24
+    },
+    "settings": {
+      "model": "rule + tfidf(1-2gram)+logreg",
+      "C": 1.0
+    }
+  },
+  "run2": {
+    "loo": {
+      "macro_f1": 0.6282,
+      "accuracy": 0.7097,
+      "n": 31
+    },
+    "loo_available_rows_only": {
+      "macro_f1": 0.5043,
+      "accuracy": 0.625,
+      "n": 24
+    },
+    "settings": {
+      "model": "rule + MiniLM-L6 [desc, code, desc*code] + MLP",
+      "hidden": 32,
+      "epochs": 150,
+      "lr": 0.001,
+      "weight_decay": 0.01,
+      "dropout": 0.3
+    }
+  },
+  "run3": {
+    "all31": {
+      "macro_f1": 0.7736,
+      "accuracy": 0.8065,
+      "n": 31
+    },
+    "available_rows_only": {
+      "macro_f1": 0.6981,
+      "accuracy": 0.75,
+      "n": 24
+    },
+    "settings": {
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "few_shot": false
+    },
+    "new_tokens_this_run": {
+      "input": 79089,
+      "output": 8108
+    }
+  },
+  "run4": {
+    "all31": {
+      "macro_f1": 0.8408,
+      "accuracy": 0.871,
+      "n": 31
+    },
+    "available_rows_only": {
+      "macro_f1": 0.7877,
+      "accuracy": 0.8333,
+      "n": 24
+    },
+    "settings": {
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "few_shot": true
+    },
+    "new_tokens_this_run": {
+      "input": 674080,
+      "output": 6870
+    }
+  }
+}

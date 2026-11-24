@@ -1,0 +1,10 @@
+{
+  "concern": "Deep hurt, isolation and exclusion by partner and his family, depression, fear of self-harm, sleep and appetite problems.",
+  "first_advice": "While I would suggest that you don't really know what he or his family are thinking or feeling",
+  "acknowledged_before_advice": "\"I get the sense that... you're quite isolated in general. It's sad that you're feeling excluded at Christmastime and family events.\" This reflects her isolation and expresses empathy for her hurt.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6437,
+    "output": 174
+  }
+}

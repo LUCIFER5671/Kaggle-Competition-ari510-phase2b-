@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels frustrated and hurt that her partner dismisses her when she raises things she dislikes, and seems to turn criticism back on her only after she says something about him.",
+  "first_advice": "\"It would probably be helpful for you both to work on communicating using 'I' statements\"",
+  "acknowledged_before_advice": "Only a factual restatement of the situation (\"there are issues with communication\" and perceptions that \"don't sound like they match up\"). It names no feeling and shows no empathy for her frustration or hurt.",
+  "label": "premature",
+  "_usage": {
+    "input": 1225,
+    "output": 311
+  }
+}

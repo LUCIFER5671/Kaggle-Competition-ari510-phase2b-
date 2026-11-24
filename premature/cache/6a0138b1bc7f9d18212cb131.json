@@ -1,0 +1,10 @@
+{
+  "concern": "She feels insecure and worried, even questioning whether she is 'nuts', that her fiance's hairstyle suggestion means he is still in love with his ex.",
+  "first_advice": "\"There are other many reasonable options too.Maybe he doesn't know a lot about hair styles...\"",
+  "acknowledged_before_advice": "The opening line, \"Maybe your finance's hair preference for you reflects he still is in love w the ex,\" takes her worry seriously as plausible. This implicitly validates that she is not 'nuts' before the reply offers alternative explanations and guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5983,
+    "output": 634
+  }
+}

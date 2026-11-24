@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling exhausted, never good enough despite giving 100%, and hopeless that nothing changes.",
+  "first_advice": "\"usually stems from our early relationship with our parents\" (interpretation/diagnosis), then \"you'll need to work on discovering the root source\"",
+  "acknowledged_before_advice": "Nothing; the reply opens directly with an explanation of where the feeling comes from, without validating the person's exhaustion, effort, or hopelessness.",
+  "label": "premature",
+  "_usage": {
+    "input": 884,
+    "output": 166
+  }
+}

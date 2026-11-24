@@ -1,0 +1,10 @@
+{
+  "concern": "A teenage girl feels uneasy and unsure whether her stepdad's behavior is normal: he repeatedly hits her butt, comments on her outfits and scans her head to toe.",
+  "first_advice": "\"Do you think he would be open to an honest discussion?\" (leading up to \"talking about it is probably very important\")",
+  "acknowledged_before_advice": "Only \"It's hard to tell from the way you described it,\" which judges the information rather than recognizing her discomfort or validating that she was right to raise it. The reply then minimizes the behavior with benign explanations.",
+  "label": "premature",
+  "_usage": {
+    "input": 822,
+    "output": 246
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "claimed_changes": [
+    "Add Firebase initialization",
+    "Implement Firestore service with async CRUD helpers",
+    "Refactor Auth context and dashboards to use Firestore",
+    "Remove old localStorage-based db service",
+    "Add CartItem type and firebase dependency"
+  ],
+  "observed_changes": "Adds firebase.ts with Firestore initialization and a new services/firestore.ts; deletes or modifies services/db.ts; adds the firebase dependency to package.json; converts ProductCard, AuthContext, BuyerDashboard and SellerDashboard from synchronous localStorage db calls to async Firestore calls. AuthContext also drops the persisted-session restore logic, and types.ts is touched (presumably for CartItem).",
+  "reason": "The description matches the diff, but the change itself is a storage-backend migration. It replaces localStorage with Firestore, makes calls async, and removes session restore, all of which change behavior. That makes it a feature or technology change rather than an Extract/Move refactoring, so it falls outside the refactoring scope.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 3430,
+    "output": 600
+  }
+}

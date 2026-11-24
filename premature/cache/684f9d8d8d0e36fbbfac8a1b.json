@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration and discouragement that despite trying to work out and eat healthily, they keep giving in and eating the junk food in the house.",
+  "first_advice": "\"I know some people do better when they don't have as much junk food in the house\", an implied suggestion to remove the junk food, followed by \"maybe you can reward yourself\"",
+  "acknowledged_before_advice": "Nothing. The reply opens directly with a practical strategy and never reflects, validates or normalizes the person's frustration or struggle before giving guidance.",
+  "label": "premature",
+  "_usage": {
+    "input": 5856,
+    "output": 266
+  }
+}

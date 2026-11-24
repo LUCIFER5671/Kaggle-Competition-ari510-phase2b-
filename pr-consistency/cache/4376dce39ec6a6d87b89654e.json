@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Extract all JournalEncounter-related functions from WoW_Tooltips.lua into a new UI/JournalEncounter.lua module",
+    "Remove the JournalEncounter code from WoW_Tooltips.lua",
+    "Improve the existing Talents.lua module with better revert-translations functionality and a toggle button",
+    "Add toggle buttons for enabling/disabling translations in both modules"
+  ],
+  "observed_changes": "Adds a new common/UI/JournalEncounter.lua (+477) containing ST_revertJournalEncounterTranslations and related functions. Also adds common/UI/Talents.lua as a brand-new file (+412), with ST_revertTalentTranslations and related code. Modifies WoW_Tooltips.lua (+103 -463): removes large blocks of code, adds 103 lines, makes whitespace cleanups and adds a duplicate separator comment line.",
+  "reason": "The description says Talents.lua is an existing module being 'improved', but the diff shows it is a newly added 412-line file. This implies talent-related code was also moved out of WoW_Tooltips.lua, which the description never mentions. The PR also adds new behavior (revert functions, toggle buttons) alongside the claimed pure extraction, and WoW_Tooltips.lua gains 103 added lines that go unexplained. Because the scope and nature of the changes are misdescribed, the label is Inconsistent.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 3413,
+    "output": 724
+  }
+}

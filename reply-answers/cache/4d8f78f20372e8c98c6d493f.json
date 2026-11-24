@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain why the sidewalk square with the pipe accumulates ice.",
+    "Say whether the cause is more likely a drainage problem the pipe was meant to fix, or airflow and thinner concrete caused by the shallow pipe."
+  ],
+  "reason": "The reply gives a cause: cold air through the pipe chills that section first, as on bridges. That picks the airflow side of the either/or question, and it adds a fix (plug or fill the pipe). It does not discuss the drainage hypothesis or the downspout, but choosing one of the two offered explanations still answers the question as asked.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 973,
+    "output": 408
+  }
+}

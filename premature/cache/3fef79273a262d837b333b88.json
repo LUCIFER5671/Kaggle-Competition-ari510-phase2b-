@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling insecure about his wife's commitment, drinking to relieve stress, feeling on edge, unusually emotional, paranoid while driving, and jumpy at noises.",
+  "first_advice": "\"it may be time to find someone to work with\"",
+  "acknowledged_before_advice": "Nothing beyond \"Given the description you have posted here\"; the validation (\"This is a difficult place to be in\") comes only near the end, after extensive advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 1196,
+    "output": 161
+  }
+}

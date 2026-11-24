@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling lazy and numb, with no interest in things.",
+  "first_advice": "\"Maybe right now it is time for you to rest\"",
+  "acknowledged_before_advice": "Nothing. The reply opens directly with the suggestion to rest. The reframing of 'no interest' as natural withdrawal comes only after that, and the feelings of numbness and laziness are never named or validated beforehand.",
+  "label": "premature",
+  "_usage": {
+    "input": 5766,
+    "output": 288
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and confusion about being unable to remember a traumatic childhood event (parents injuring their brother) and their time with their parents; memories feel like a blur.",
+  "first_advice": "\"It's important to know that there are counselors who are trained in working with survivors of trauma and you can get help.\"",
+  "acknowledged_before_advice": "Nothing. The reply opens by directing the person toward trauma counselors and never reflects their confusion or distress beforehand. The later explanation of the 'blur' as protective is psychoeducation that comes after the advice, not empathy.",
+  "label": "premature",
+  "_usage": {
+    "input": 1287,
+    "output": 196
+  }
+}

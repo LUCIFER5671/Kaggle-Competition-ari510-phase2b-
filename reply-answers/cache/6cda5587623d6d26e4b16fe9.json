@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain why the outlet is melting and glowing, including why it glowed again when a heater was plugged into the roommate's outlet on a different circuit",
+    "Say whether replacing the outlet(s) is enough or whether the house wiring needs to be redone"
+  ],
+  "reason": "The reply lists several plausible causes (failed outlet part, loose wires, damaged wire, a hot wire touching ground, worn insulation), which covers the general 'why'. It does not address why the outlet reignited when a heater ran on the roommate's separate circuit. It also never directly answers whether a new outlet will suffice or a rewire is needed. It only says the circuit must be inspected and an electrician called, without explaining how that inspection would settle the scope question. Borderline, since the mix of outlet and wiring causes loosely implies it could be either.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 3637,
+    "output": 590
+  }
+}

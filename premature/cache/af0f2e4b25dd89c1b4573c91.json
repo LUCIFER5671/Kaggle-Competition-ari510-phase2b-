@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and feeling unfairly portrayed as the bad one after leaving an abusive relationship, with the ex spreading negative things to the current partner's parents.",
+  "first_advice": "\"Maybe you can talk with your partner about this first\"",
+  "acknowledged_before_advice": "Nothing; the reply opens directly with a suggestion and never acknowledges the hurt, the abuse, or the unfairness.",
+  "label": "premature",
+  "_usage": {
+    "input": 789,
+    "output": 148
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Guilt and worry about having lost her virginity against her religious plan, fearing it means her boyfriend isn't the one God planned for her, while loving him deeply.",
+  "first_advice": "\"Have a serious talk with your guy and get back on track\"",
+  "acknowledged_before_advice": "Only a judgment and reassurance: it labels the sex a mistake, says mistakes can be forgiven, and says it is not the end of the relationship. It does not reflect or validate her guilt, worry, or love before giving directives.",
+  "label": "premature",
+  "_usage": {
+    "input": 6059,
+    "output": 181
+  }
+}

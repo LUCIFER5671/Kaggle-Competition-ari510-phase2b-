@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and confusion over being unable to remember witnessing their brother's injury by their parents and having only blurry memories of life with them.",
+  "first_advice": "\"there are counselors who are trained in working with survivors of trauma and you can get help\"",
+  "acknowledged_before_advice": "Nothing. The reply opens directly with a referral to trauma counselors, with no reflection or validation of the person's feelings beforehand.",
+  "label": "premature",
+  "_usage": {
+    "input": 818,
+    "output": 149
+  }
+}

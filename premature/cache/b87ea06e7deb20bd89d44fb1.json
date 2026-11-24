@@ -1,0 +1,10 @@
+{
+  "concern": "Distress over nightly arguments with her boyfriend and his threat to leave if she visits her mother, who he doesn't get along with.",
+  "first_advice": "Start by telling your boyfriend to keep his remarks...",
+  "acknowledged_before_advice": "The opening line, 'A relationship gets weaker, not stronger by threatening control of the other person,' validates that his threat is harmful and implicitly affirms her distress. It is brief and indirect, with no feelings named, so this is a borderline case.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6022,
+    "output": 496
+  }
+}

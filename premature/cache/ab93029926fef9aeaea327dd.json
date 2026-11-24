@@ -1,0 +1,10 @@
+{
+  "concern": "He is worried about his fianc\u00e9e's severe anxiety, depression, suicidality and self-harm, and wants to help her without medication.",
+  "first_advice": "\"it is important that you understand that you, on your own, won't be able to resolve her mental health issues\"",
+  "acknowledged_before_advice": "Two validating sentences come first: \"It sounds like you have been a positive support for your fiancee\" and \"There is no doubt that this situation is a great challenge for the both of you.\" These recognize his role and the difficulty he is facing. They are brief but genuine.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1349,
+    "output": 362
+  }
+}

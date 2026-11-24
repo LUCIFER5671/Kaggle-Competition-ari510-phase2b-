@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether panel insulation can be used under the rafters to move the building envelope up while keeping the roof vented (title)",
+    "Whether Rockwool Conformboard or other non-foam, natural-material panels can be used the same way, secured with strapping"
+  ],
+  "reason": "The reply says rigid or netted Rockwool can be installed under the rafters, explains when a vapor barrier is needed, and covers venting gaps and cost trade-offs versus insulating the attic floor. It also notes that vapor barriers are rarely 'natural.' Strapping is not mentioned specifically, but the general yes covers the proposed method. Slight uncertainty because the strapping detail goes unaddressed.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 9535,
+    "output": 488
+  }
+}

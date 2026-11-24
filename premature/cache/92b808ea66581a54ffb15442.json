@@ -1,0 +1,10 @@
+{
+  "concern": "Anxiety and panic attacks after a recent OCD diagnosis, questioning her career and relationship, and feeling unexpectedly uncomfortable around her boyfriend since moving in together without knowing why.",
+  "first_advice": "\"The good news about a relationship is that you can talk about matters with the other person. Doing so can only help clarify feelings...\"",
+  "acknowledged_before_advice": "Only questions about the boyfriend's response (\"How is your boyfriend responding to your discomfort around him?\"). Nothing names, reflects or validates her anxiety, panic or confusion. The normalizing line (\"it is natural for new dynamics, feelings and expectations to arise\") comes after the advice to talk with him.",
+  "label": "premature",
+  "_usage": {
+    "input": 1547,
+    "output": 348
+  }
+}

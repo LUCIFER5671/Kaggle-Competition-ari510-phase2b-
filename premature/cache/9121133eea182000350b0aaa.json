@@ -1,0 +1,10 @@
+{
+  "concern": "He feels conflicted and worried because his crossdressing seems to bother the women he dates. He is unsure whether to keep it secret or be open, and whether to stop something that makes him happy.",
+  "first_advice": "\"I would not suggest that you hold back and keep it a secret. You should be up-front about it\"",
+  "acknowledged_before_advice": "Only the opening line, \"Your happiness and healthiness is key,\" which is a general value statement. It does not acknowledge his feelings of rejection, worry, or inner conflict.",
+  "label": "premature",
+  "_usage": {
+    "input": 808,
+    "output": 265
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Persistent feeling of not belonging or having a home, even among loving people and close friends.",
+  "first_advice": "\"Usually people who have a university level eduction are old enough to work in order to support themselves... would you guess that the effort... deciding in what professional area... would offer you a way\" (explicitly: \"My suggestion is to pay more attention to your own likes\")",
+  "acknowledged_before_advice": "Only an interpretive guess that the person hasn't figured out where to lay down roots; no naming of the loneliness or lack of belonging, no validation, and no empathy.",
+  "label": "premature",
+  "_usage": {
+    "input": 1402,
+    "output": 198
+  }
+}

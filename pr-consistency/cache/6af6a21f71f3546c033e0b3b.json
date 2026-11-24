@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Accept Telegram API credentials via HTTP headers",
+    "Adjust pydantic models (remove credentials field)",
+    "Document new headers in README"
+  ],
+  "observed_changes": "Adds a FastAPI dependency get_header_credentials that reads credentials from headers, changes endpoints to use it instead of request body credentials, removes credentials fields from request models, and updates README.",
+  "reason": "The change alters the API contract, moving credentials from the request body to HTTP headers. That is a behavioral and API change, not an Extract/Move refactoring of code structure. The 'move' in the title refers to where clients send data, not to relocating code.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 28087,
+    "output": 223
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration and financial stress over the boyfriend's dog destroying her home, plus conflict with her boyfriend because every attempt to discuss it ends in a fight.",
+  "first_advice": "\"Have you spoken with your boyfriend on his opinion on how to address the dog behavior problems?\" (the opening also reframes the issue: \"Every living creature needs time and support to adjust\")",
+  "acknowledged_before_advice": "Nothing addresses her feelings. The opening lines explain the dog's perspective and agitation, but never acknowledge her frustration, financial worry, or distress about fighting with her boyfriend.",
+  "label": "premature",
+  "_usage": {
+    "input": 1060,
+    "output": 218
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels confused about what is real, feels at times that everyone is lying, worries the question is stupid, and is unsure whether God is real.",
+  "first_advice": "\"let me begin with the premise that you will never have absolute proof... one can look at different phenomena in nature and history\"",
+  "acknowledged_before_advice": "\"It is not a stupid question, it is very basic.\" This briefly validates and normalizes the person's self-doubt about asking. It does not address the distress of not knowing what's real.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5850,
+    "output": 588
+  }
+}

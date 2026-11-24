@@ -1,0 +1,10 @@
+{
+  "concern": "She feels hurt and exhausted ('tired of crying') by her husband's verbal and emotional abuse and cold shoulder. She feels guilty about her lying. She is torn about whether to end the marriage given their toddler.",
+  "first_advice": "\"I wonder if maybe the first step is for you to start seeing this decision as yours\"",
+  "acknowledged_before_advice": "The reply thanks her for her honesty and reflects back that she describes her husband as 'hurtful/abusive/controlling' toward her. This validates the painful treatment she is experiencing before the first suggestion.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6511,
+    "output": 529
+  }
+}

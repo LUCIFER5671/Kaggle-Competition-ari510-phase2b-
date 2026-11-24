@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration and hurt over his wife constantly accusing him of cheating and disrespect, and her never admitting she is wrong; he feels misunderstood.",
+  "first_advice": "\"It may bear clarifying how each of you define 'infidelity'\"",
+  "acknowledged_before_advice": "The reply opens by validating his feelings: \"That must be very frustrating for you... to be reminded of constant wrongdoing... especially when you feel that your wife does not admit to any fault,\" and notes this could leave him feeling inadequate in the relationship.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 2238,
+    "output": 198
+  }
+}

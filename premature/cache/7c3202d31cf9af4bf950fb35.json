@@ -1,0 +1,10 @@
+{
+  "concern": "He feels unable to pursue his career goals despite having plans, and he wants a better life for his fianc\u00e9e and kids than he had.",
+  "first_advice": "\"For starters, commend yourself for being committed to working.\"",
+  "acknowledged_before_advice": "Nothing. The opening line is itself a directive. It praises his work ethic, but it neither reflects nor validates his feeling that he can't meet his goals. The reply then labels his belief a 'fictitious story' and moves into action steps.",
+  "label": "premature",
+  "_usage": {
+    "input": 6103,
+    "output": 294
+  }
+}

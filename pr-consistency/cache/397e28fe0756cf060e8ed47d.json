@@ -1,0 +1,12 @@
+{
+  "claimed_changes": [
+    "Move SumOrderComparator implementation from Sum.cpp into dedicated SumOrderComparator.h and SumOrderComparator.cpp files"
+  ],
+  "observed_changes": "Extracts SumOrderComparator from Sum.cpp into new files, but also touches 14 files with unrelated changes: removes constexpr from Integer methods, adds new Product::LCMofMemberFractionDenominators method, changes sum.solve call signature in FormulaOfVaWithSingleIntegerRoot.cpp, replaces IMPLEMENT with LOG_AND_IMPLEMENT in Fraction.cpp, adds includes and namespace restructuring, modifies Valuable and contract headers.",
+  "reason": "The description only mentions moving SumOrderComparator, but the diff includes many unrelated logic and API changes (new method, changed solve call, constexpr removals, error macro changes) across files not mentioned.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 29387,
+    "output": 328
+  }
+}

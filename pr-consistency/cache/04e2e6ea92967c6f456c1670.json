@@ -1,0 +1,16 @@
+{
+  "claimed_changes": [
+    "Move Trezor initialization/authentication flow from example BLoC into SDK KomodoDefiAuth",
+    "Add signInStream and registerStream with new AuthenticationState/status",
+    "Add passphrase/pin input methods and cancel",
+    "Remove legacy local auth/biometric classes, remove direct TrezorManager access",
+    "Add index_generator config"
+  ],
+  "observed_changes": "Adds index_generator configs and generated index files, exports AuthenticationState/Status and trezor index, removes commented-out legacy auth_bloc/auth_repository/biometric files, adds trezor files to local_auth package (trezor_auth_service, repository, state, exception), modifies example bloc and SDK exports/bootstrap.",
+  "reason": "The file list and visible diff line up with what the description says: the Trezor logic moves from the example into the local_auth package, the new state and stream APIs appear, and the legacy files and index generator changes are there too. The move is the core of the PR and the description covers the added features as well.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 4183,
+    "output": 342
+  }
+}

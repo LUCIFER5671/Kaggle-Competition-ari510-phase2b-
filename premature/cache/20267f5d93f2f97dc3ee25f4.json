@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and insecurity over her boyfriend's very close, couple-like relationship with a female friend, made worse after meeting her, while feeling unable to leave him.",
+  "first_advice": "\"There isn't anything you can directly do to stop his relationship...\" / \"Directly telling him your discomfort...\"",
+  "acknowledged_before_advice": "The reply opens with \"as hurtful as witnessing your boyfriend's closeness with his female friend,\" which names the hurt she felt before any guidance is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6076,
+    "output": 186
+  }
+}

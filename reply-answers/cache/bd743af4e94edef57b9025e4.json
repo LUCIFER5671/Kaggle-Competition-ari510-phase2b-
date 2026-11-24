@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "Say whether an exterior GFCI can be downstream of other outlets, or whether the current install is already proper.",
+    "Explain why tripping the other exterior outlets also trips this GFCI.",
+    "Say whether the proposed rewiring (red conductor to LOAD, feeding the next outlet from it) would make the install proper.",
+    "Say whether water could get in through the top closure of the exterior enclosure."
+  ],
+  "reason": "The reply explains how a GFCI works and why a multi-wire branch circuit on its LOAD side would trip it, which addresses the proposed red-to-LOAD rewiring. It also touches on how the circuit may have been wired. It never addresses whether water could enter through the top closure of the enclosure. The diagnosis of the current tripping is also only indirect, and the attached images could not be reviewed.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 3715,
+    "output": 438
+  }
+}

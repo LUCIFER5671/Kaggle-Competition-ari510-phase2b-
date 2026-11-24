@@ -1,0 +1,10 @@
+{
+  "concern": "Unease, insecurity or jealousy that her long-distance partner regularly goes out with another woman when they are apart.",
+  "first_advice": "\"If you are concerned that their friendship is a substitute for you when you aren't present, talk to him.\"",
+  "acknowledged_before_advice": "Only an opening probing question and a conditional clause attached to the advice itself. The reflection \"It sounds like you are concerned...\" comes after the first advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 5867,
+    "output": 269
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "The person snaps easily, pushes people away, and fears pushing their boyfriend away, so they are seeking help.",
+  "first_advice": "\"be gentle and not critical of yourself\"",
+  "acknowledged_before_advice": "Nothing about the person's actual concern. The text before the advice validates grief over someone's death, which appears to answer a different question. It never reflects the snapping, pushing people away, or fear of losing the boyfriend.",
+  "label": "premature",
+  "_usage": {
+    "input": 5866,
+    "output": 318
+  }
+}

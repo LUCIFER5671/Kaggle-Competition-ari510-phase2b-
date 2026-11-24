@@ -1,0 +1,10 @@
+{
+  "concern": "Deep regret, shame, and self-loathing over sexual things done as a child, plus distress about not remembering the past and wanting help coping with themselves.",
+  "first_advice": "\"Hypnosis can be a valuable tool that a trained therapist can use...\"",
+  "acknowledged_before_advice": "Only a brief generic \"I'm very sorry to hear this.\" It does not engage with the person's shame, regret, or struggle to cope with themselves. The more substantive acknowledgment (\"you have experienced some painful experiences\") comes only after the advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 804,
+    "output": 197
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and fear over the breakup: he seems to no longer care, she feels pushy, and she worries she is driving him away.",
+  "first_advice": "\"It's appropriate now for you to respect that relationship and listen to what he says he wants\"",
+  "acknowledged_before_advice": "Only an affirmation of her decision (\"your first instinct was good... You deserve respect\"), followed by criticism of her behavior. Nothing names or validates her sadness, longing, or fear of driving him away.",
+  "label": "premature",
+  "_usage": {
+    "input": 6047,
+    "output": 173
+  }
+}

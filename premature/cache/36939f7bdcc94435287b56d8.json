@@ -1,0 +1,10 @@
+{
+  "concern": "Distress from ongoing, vivid nightmares seven years after surviving domestic violence.",
+  "first_advice": "\"you may want to consider processing your memories of the events with a trained trauma therapist\"",
+  "acknowledged_before_advice": "The opening line normalizes the experience: \"Nightmare are actually very common for survivors of domestic violence.\" This matches the guideline example of normalizing as acknowledgement.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5901,
+    "output": 156
+  }
+}

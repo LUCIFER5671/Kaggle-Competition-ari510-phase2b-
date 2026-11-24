@@ -1,0 +1,10 @@
+{
+  "concern": "Devastation over husband seeing someone else after she pushed him away due to lack of sex drive from medical issues; fear he won't believe she's serious about reconciling.",
+  "first_advice": "\"it is of vital importance that you discuss your symptoms with your doctor\"",
+  "acknowledged_before_advice": "\"I'm sorry to hear about your current situation. My heart goes out to you during this time.\" This is a brief empathetic acknowledgement offered before any advice.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6180,
+    "output": 172
+  }
+}

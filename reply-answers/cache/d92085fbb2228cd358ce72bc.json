@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "Whether the 3300 PSI pressure washer can be used to apply the cleaner (soft wash)",
+    "Whether there is any reason not to use the pressure washer for this",
+    "What the preferred method of applying the cleaner is",
+    "Preference: introduce the cleaner downstream with a dispenser rather than through the pump"
+  ],
+  "reason": "The reply says yes, the pressure washer and soap can be used. It gives reasons against it: lifting wood fibers, soaking the wood so it takes days to dry, and ladder safety. It names a brush on an extension pole as the preferred method. The downstream-dispenser point is a stated preference rather than a separate question, so not discussing injection setup does not leave an explicit request unanswered. There is some uncertainty about whether that preference should count as a material constraint.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 10201,
+    "output": 644
+  }
+}

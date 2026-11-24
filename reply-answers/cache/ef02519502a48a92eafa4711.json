@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Determine whether a 30 amp breaker with 10 gauge wire is adequate for a 7000 W, 240 V heater (about 29.17 A)",
+    "Or whether to upgrade to a 40 amp breaker with 8 gauge wire",
+    "Account for the 12-foot distance from the panel"
+  ],
+  "reason": "The reply rules out the 30 A option and says a 40 A circuit is required, citing the 125% continuous-load rule. Because the asker paired each breaker with a wire size, choosing the 40 A circuit implicitly settles the wire question. The 12-foot distance isn't discussed, but it is minor context and doesn't change the answer.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 833,
+    "output": 443
+  }
+}

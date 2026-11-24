@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Extract movement and animation helpers from the Game class into new handler classes",
+    "Document the new helper classes"
+  ],
+  "observed_changes": "Adds EntityAnimationHandler and EntityMovementHandler classes containing the facing, animation and movement logic. That logic is removed from Game.java (+12 -310), and Game.java now delegates to the new classes. Adds doc pages for both new classes and updates the Game docs and the docs index.",
+  "reason": "The diff matches the description: two helper classes are extracted from Game, Game is updated to delegate to them, and documentation is added. Nothing in the visible diff goes beyond that.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28590,
+    "output": 223
+  }
+}

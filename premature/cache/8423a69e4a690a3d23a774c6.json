@@ -1,0 +1,10 @@
+{
+  "concern": "Difficulty or discomfort with differing religious and spiritual customs among family members during gatherings such as funerals.",
+  "first_advice": "\"Accepting the idea that those with whom we are close may be different from us is the only way...\" (and the earlier challenge \"Are you creating one?\")",
+  "acknowledged_before_advice": "Nothing adequate. The reply opens by dismissing the concern (\"you haven't described a problem. (Are you creating one?)\"). It then notes that many families have differing beliefs, which normalizes the situation but not the person's feelings. No empathy for their distress appears before the directive guidance.",
+  "label": "premature",
+  "_usage": {
+    "input": 5918,
+    "output": 378
+  }
+}

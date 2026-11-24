@@ -1,0 +1,10 @@
+{
+  "concern": "Persistent thoughts about living forever in the afterlife cause overwhelm, panic and anxiety, and the person fears they are crazy or abnormal.",
+  "first_advice": "\"I suggest that you consider counseling to help you with your anxiety\"",
+  "acknowledged_before_advice": "The reply opens by normalizing the experience before any advice: \"Many people generate intense anxiety with obsessive thinking... the pattern of obsessing about one thing/area is common.\" It names the anxiety, recognizes the thoughts as powerful and personal to them, and speaks directly to the fear that these thoughts are not normal.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1615,
+    "output": 370
+  }
+}

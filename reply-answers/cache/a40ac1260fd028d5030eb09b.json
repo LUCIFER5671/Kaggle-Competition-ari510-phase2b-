@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether a second 5' electric baseboard heater can be mounted about 12 inches above the first one",
+    "Or whether the second heater will need a different location on the living room wall"
+  ],
+  "reason": "The reply says stacking will not work well and explains why: the upper heater would disrupt the lower one's convection airflow. That answers the feasibility question and implies stacking is not advisable, which covers the either/or choice. It also offers an alternative, a single 5' heater with the same kW rating, which avoids needing a second location.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 3334,
+    "output": 278
+  }
+}

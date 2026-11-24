@@ -1,0 +1,10 @@
+{
+  "concern": "Passive wishes for death (hoping an accident would take their life), feeling they shouldn't be here, finding life a chore, and wondering whether this is normal or a sign of something.",
+  "first_advice": "\"The real way you'll find out what this feeling is about is to ask yourself your own question\"",
+  "acknowledged_before_advice": "The opening line, \"Sounds like a sign of great unhappiness, or sadness, or insecurity,\" names and reflects the underlying feelings before any guidance is given. It is brief and somewhat interpretive, but it does acknowledge the emotional state.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5952,
+    "output": 416
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "How to hang a shelf standard where stud plates block 2 of the 3 screw holes, or how to reinforce that area instead",
+    "If extra pilot holes fail, what other ways exist to support a shelf across the 20\" and 25\" span section",
+    "Constraint: only about 1\" of downward adjustment is available because of the panel box clearance",
+    "Drilling offset holes in the standard is mentioned only as a last resort"
+  ],
+  "reason": "The question allows either mounting the standard or reinforcing the area, and explicitly asks for other ways to support the shelf across the 20\"/25\" spans if pilot holes fail. The reply answers that core ask: a 24\u201325\" span is fine for typical shelving, and the shelf underside can be reinforced with extra lumber. This effectively means skipping the blocked stud. It does not discuss working around the stud plates directly, but the user treated pilot holes and offset drilling as their own options, so this is not a missing requested part.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 905,
+    "output": 900
+  }
+}

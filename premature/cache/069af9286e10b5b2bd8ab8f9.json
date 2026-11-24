@@ -1,0 +1,10 @@
+{
+  "concern": "The person wants to feel content day to day, implying ongoing discontent or unsettled feelings.",
+  "first_advice": "none",
+  "acknowledged_before_advice": "The reply opens by validating the question as fascinating. It then normalizes lingering emotions and how reflection can unsettle calm moments, and affirms the person's self-awareness. It gives no directed advice.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5848,
+    "output": 137
+  }
+}

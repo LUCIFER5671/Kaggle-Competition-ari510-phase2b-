@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration and stress over the boyfriend's dog destroying her home, financial worry about the damage, and recurring fights with her boyfriend about whether to keep the dog.",
+  "first_advice": "\"Have you spoken with your boyfriend on his opinion on how to address the dog behavior problems?\" followed by \"Finding an answer together would be a good way...\"",
+  "acknowledged_before_advice": "Nothing that addresses her feelings. The opening sentences explain the dog's adjustment and agitation, which centers the dog's experience rather than reflecting her frustration, financial strain, or the conflict with her boyfriend.",
+  "label": "premature",
+  "_usage": {
+    "input": 1529,
+    "output": 366
+  }
+}

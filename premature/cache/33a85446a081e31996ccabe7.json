@@ -1,0 +1,10 @@
+{
+  "concern": "The person is confused and troubled by being drawn to sadness and negativity, focusing on negative aspects of life and in a twisted way liking how bad it makes them feel.",
+  "first_advice": "\"One thing I would be wondering about is what is the unseen benefit\" / \"you may benefit from exploring with a competent therapist\"",
+  "acknowledged_before_advice": "The reply opens by reflecting the concern: \"It sounds like you are noticing that you are drawn towards sad and negative content and it's hard to understand why.\" It then normalizes the behavior by explaining that people often do things that serve them in unseen ways.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6043,
+    "output": 221
+  }
+}

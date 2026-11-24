@@ -1,0 +1,10 @@
+{
+  "concern": "She is overwhelmed by guilt and feelings of unworthiness and cannot forgive herself for kissing other people in the past, even though her boyfriend has forgiven her.",
+  "first_advice": "\"My hunch is that you learned some things about yourself when you were younger that are playing a role here\" (an interpretive diagnosis, followed by directives like \"your job will be to forgive yourself\")",
+  "acknowledged_before_advice": "Only an observation that her situation is an 'interesting twist' and the remark that she and her boyfriend are 'lucky' to have each other. These comment on the situation and praise her responsibility, but they do not name, reflect, or empathize with her guilt and unworthiness before the reply moves into interpretation.",
+  "label": "premature",
+  "_usage": {
+    "input": 1893,
+    "output": 474
+  }
+}

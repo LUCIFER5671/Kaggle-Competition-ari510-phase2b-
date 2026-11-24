@@ -1,0 +1,10 @@
+{
+  "concern": "Persistent unhappiness and emotional numbness, pushing people away, frustration at feeling this way and its damage to relationships, and a desire for answers.",
+  "first_advice": "\"Maybe you have depression.\"",
+  "acknowledged_before_advice": "Nothing. The reply opens directly with a tentative diagnosis. The later reflective remarks about their self-observation come after the diagnosis, and none of the reply names or validates the person's feelings of frustration or unhappiness.",
+  "label": "premature",
+  "_usage": {
+    "input": 1311,
+    "output": 171
+  }
+}

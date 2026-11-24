@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Identify indicators or signs that the housing assembly, rather than only the coil, needs replacement",
+    "Explain the failure mode that warrants replacing the circular housing assembly",
+    "Share relevant experience, guidance, or lessons learned (explicit invitation)"
+  ],
+  "reason": "The reply shares relevant troubleshooting experience: check the thermal switches and limiter, which can cause no heat even after replacing the heating wire. This addresses the invitation for lessons learned. However, it does not say what signs indicate the housing assembly versus only the coil needs replacing, or what failure mode warrants replacing the assembly.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 9535,
+    "output": 370
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and confusion over being unable to remember witnessing parents injure their brother and their time with the parents, which feels like a blur.",
+  "first_advice": "\"It's important to know that there are counselors who are trained in working with survivors of trauma and you can get help.\"",
+  "acknowledged_before_advice": "Nothing. The reply opens by directing the person toward trauma counselors. The explanation of the 'blur' as protective, which comes later, is psychoeducation rather than emotional acknowledgement.",
+  "label": "premature",
+  "_usage": {
+    "input": 5922,
+    "output": 176
+  }
+}

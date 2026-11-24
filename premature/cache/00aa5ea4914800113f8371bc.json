@@ -1,0 +1,10 @@
+{
+  "concern": "Constant bad mood and lack of energy; worried it may be depression.",
+  "first_advice": "\"According to the DSM-V... depression includes the following symptoms\" (diagnostic info), then \"perhaps the best place to start is by seeing a physician or a therapist\"",
+  "acknowledged_before_advice": "Nothing acknowledges how the person feels. The reply opens with factual information about depression symptoms and only notes that irritability and low energy can be signs of depression, without validating their experience.",
+  "label": "premature",
+  "_usage": {
+    "input": 958,
+    "output": 174
+  }
+}

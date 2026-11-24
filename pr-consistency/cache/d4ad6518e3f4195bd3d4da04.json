@@ -1,0 +1,16 @@
+{
+  "claimed_changes": [
+    "Move the Next.js app from the repo root into apps/nextjs",
+    "Update the root workspace config to include apps/nextjs and packages/*",
+    "Move Next.js dependencies into apps/nextjs/package.json and clean up the root package.json",
+    "Move app/, components/, hooks/, lib/, gem/ and config files into apps/nextjs",
+    "Update drizzle.config.ts paths and TypeScript config"
+  ],
+  "observed_changes": "Many files under app/, components/, hooks/ and lib/ (including DB migrations) are renamed into apps/nextjs/ with no content changes (+0 -0). .gitignore is updated to point Next.js build outputs at apps/nextjs paths, plus minor comment and entry tweaks. The diff is truncated, so package.json and config changes are presumably among the remaining 83 files.",
+  "reason": "The visible diff matches the claimed move of the Next.js app into apps/nextjs: pure renames plus path updates in .gitignore. Nothing contradicts the description. The small .gitignore cleanup (dropping the screenshots/ entry) is minor and in keeping with the restructuring.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 4730,
+    "output": 498
+  }
+}

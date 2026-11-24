@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling lazy, numb, and having no interest in things.",
+  "first_advice": "\"Maybe right now it is time for you to rest before the next wave...\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with the suggestion to rest. The normalizing reframe of 'no interest' as natural withdrawal comes only after that suggestion.",
+  "label": "premature",
+  "_usage": {
+    "input": 1131,
+    "output": 198
+  }
+}

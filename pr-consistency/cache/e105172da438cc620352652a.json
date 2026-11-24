@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Remove Explanation column from settings table",
+    "Mention tooltip usage in docs"
+  ],
+  "observed_changes": "Removes the Explanation and Disk columns from the HTML template (settings.html) and updates the docs to say explanations appear as tooltips. No code is extracted or moved.",
+  "reason": "These are UI and template edits plus documentation updates. There is no Extract or Move refactoring of methods, classes, or fields, so the PR falls outside the refactoring scope.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 27766,
+    "output": 174
+  }
+}

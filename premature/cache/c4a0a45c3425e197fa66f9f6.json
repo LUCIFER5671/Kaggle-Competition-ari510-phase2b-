@@ -1,0 +1,10 @@
+{
+  "concern": "Heartbreak and grief after a breakup with a boyfriend who lied, rejected her, and said she wasn't attractive; feeling not good enough, still in love, self-harm, uncertainty about seeing a therapist.",
+  "first_advice": "\"seeing a therapist is highly recommended\"",
+  "acknowledged_before_advice": "\"I am very sorry for the pain you are suffering. Losing the most significant person in your life is extremely painful and breakups are often equated to a death. There will certainly be a grieving process...\" This expresses empathy and normalizes the pain before any advice.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1857,
+    "output": 211
+  }
+}

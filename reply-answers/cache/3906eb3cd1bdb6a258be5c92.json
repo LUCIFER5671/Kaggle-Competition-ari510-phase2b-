@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "How to hang the 24\" shelf standard when two of its three screw holes are blocked by stud plates, or how to reinforce that area",
+    "Respect the constraint of only about 1\" of downward adjustment because of the 6'6\" clearance above the panel box",
+    "If extra pilot holes don't work, what other ways exist to support a shelf across the 20\"/25\" span section"
+  ],
+  "reason": "The reply says a 24-25\" span should be fine and suggests reinforcing the underside of the shelf with lumber, which partly addresses supporting the shelf across the span. It does not say how to mount or anchor the standard whose screw holes are blocked, or how to reinforce the wall area, and it never mentions the clearance limit. It is unclear whether the reply means to skip that standard entirely.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 12720,
+    "output": 786
+  }
+}

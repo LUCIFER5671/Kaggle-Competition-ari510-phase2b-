@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling ignored and confused, worried that people don't like them because their messages are read but not answered.",
+  "first_advice": "Have you tried gently talking to people about how you send a message",
+  "acknowledged_before_advice": "\"I'm sorry that you are having a difficult time.\" This is a brief expression of empathy for their distress before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5996,
+    "output": 129
+  }
+}

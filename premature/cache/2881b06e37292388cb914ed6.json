@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling drained, lost spirit, lonely, low self-belief and self-pity after leaving an abusive narcissistic husband; financial struggles and feeling stuck.",
+  "first_advice": "Be kind and caring toward who you are",
+  "acknowledged_before_advice": "Congratulates her on leaving, then normalizes her feelings: 'It is ok and natural to feel sadness, loss, uncertainty in direction, hurt...' and reframes her 'pity' as a combination of these feelings.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6081,
+    "output": 183
+  }
+}

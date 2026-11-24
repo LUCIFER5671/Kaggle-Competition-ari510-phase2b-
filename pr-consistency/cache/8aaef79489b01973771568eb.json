@@ -1,0 +1,16 @@
+{
+  "claimed_changes": [
+    "Move Diffview keymaps into a dedicated keymap module",
+    "Move Conform format keymap to its own module",
+    "Reference the new keymap modules from plugin specs",
+    "Document git Diffview shortcuts in README",
+    "Refactor general keymap module to use a unified mapping helper"
+  ],
+  "observed_changes": "Adds lua/core/keymaps/conform.lua and lua/core/keymaps/diffview.lua containing the keys tables that were removed from the plugin specs. The plugin specs now require these modules. README gains a Git section listing the Diffview shortcuts. general.lua is rewritten around a local map helper that applies noremap/silent options.",
+  "reason": "Every claimed change appears in the diff: the moved keymap modules, the updated plugin references, the README docs, and the general.lua helper refactor. Nothing major is left undescribed.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3073,
+    "output": 294
+  }
+}

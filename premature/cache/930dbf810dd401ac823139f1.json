@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling lost about what they want in life: distracted, unfocused, stuck, and disappointed in their lack of accomplishments.",
+  "first_advice": "The reply opens with a speculative interpretation, \"If you are a people-pleaser type or a natural caretaker, you can slowly 'lose yourself'...\", and later gives direct steps: \"learning to set boundaries\" and \"Identify the worst offenders in your life\".",
+  "acknowledged_before_advice": "Nothing. The reply launches straight into a hypothesized cause and diagnosis without acknowledging the person's feelings of being stuck, confused, or disappointed. The closest it comes is \"It sounds like you may be at that crossroads right now,\" which appears near the end, after the analysis and just before the action steps.",
+  "label": "premature",
+  "_usage": {
+    "input": 1375,
+    "output": 271
+  }
+}

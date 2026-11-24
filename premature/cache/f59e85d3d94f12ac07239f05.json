@@ -1,0 +1,10 @@
+{
+  "concern": "She is distressed that her fianc\u00e9's insecurity and difficulty accepting her past, especially that she isn't a virgin, is hurting their relationship, and she wants to help him let go.",
+  "first_advice": "The reply opens with an interpretive diagnosis (\"may be amplified due to the Christian framework\"); the first explicit directive is \"this is a notion that you must give up on and let go\".",
+  "acknowledged_before_advice": "Nothing substantive. The reply begins by attributing the suffering to the religious framework and offers general normalizing about human fallibility (\"humans make mistakes\"). It never reflects her worry about the relationship or her hurt over his difficulty accepting her past.",
+  "label": "premature",
+  "_usage": {
+    "input": 1878,
+    "output": 453
+  }
+}

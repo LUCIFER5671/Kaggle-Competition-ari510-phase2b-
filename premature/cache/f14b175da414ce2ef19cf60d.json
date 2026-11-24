@@ -1,0 +1,10 @@
+{
+  "concern": "Discomfort hearing parents' negative comments about bisexuality and uncertainty/anxiety about whether they are ready to come out as bisexual.",
+  "first_advice": "\"Perhaps researching or getting information on bisexuality can help your family\"",
+  "acknowledged_before_advice": "\"Coming out to family members can cause a lot of anxiety\" names and normalizes the anxiety about coming out before any guidance is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5864,
+    "output": 159
+  }
+}

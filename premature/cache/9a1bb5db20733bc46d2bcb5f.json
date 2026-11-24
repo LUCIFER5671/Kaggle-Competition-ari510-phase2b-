@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels uncomfortable with their parents' dismissive comments about bisexuality and is anxious and unsure about whether they are ready to come out to them as bisexual.",
+  "first_advice": "\"Perhaps researching or getting information on bisexuality...\" (preceded by an implicit nudge toward coming out: \"the benefit is that you will no longer have to hide\")",
+  "acknowledged_before_advice": "The opening line, \"Coming out to family members can cause a lot of anxiety,\" names and normalizes the person's anxiety about coming out before any guidance is given. It is brief and does not address the discomfort with the parents' comments, but it counts as acknowledgement.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1229,
+    "output": 427
+  }
+}

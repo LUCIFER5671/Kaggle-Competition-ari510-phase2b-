@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Extract adaptive layout logic from MainWindow into a new LayoutManager class (src/view/layout/LayoutManager.vala)",
+    "Centralize window state/configuration persistence into a new WindowStateManager class (src/model/configuration/WindowStateManager.vala)",
+    "Extract llama.cpp performance optimization logic from ModelManager into a new PerformanceOptimizer class (src/model/performance/PerformanceOptimizer.vala)",
+    "Remove obsolete/duplicate files such as ChatView_old.vala (~3,509 lines)"
+  ],
+  "observed_changes": "No code diff is provided, so none of the claimed changes can be checked against actual code.",
+  "reason": "With an empty diff there is nothing that contradicts the description. The description lays out a coherent Extract Class / Extract Method refactoring: new LayoutManager, WindowStateManager and PerformanceOptimizer classes, with MainWindow and ModelManager delegating to them. It also discloses the removal of obsolete files. With no evidence of undisclosed logic changes or missing work, the default judgment is that the description matches the changes, but this rests on the description alone rather than on verified code.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 1857,
+    "output": 579
+  }
+}

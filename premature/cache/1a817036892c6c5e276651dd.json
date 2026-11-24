@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling lost, stuck, distracted and unfocused, unsure what they want in life, and disappointed with their lack of accomplishments.",
+  "first_advice": "If you are a people-pleaser type or a natural caretaker, you can slowly \"lose yourself\"",
+  "acknowledged_before_advice": "Nothing. The reply opens directly with a speculative interpretation of the cause (people-pleasing or caretaking patterns) without reflecting or validating the person's feelings of being stuck and disappointed.",
+  "label": "premature",
+  "_usage": {
+    "input": 1844,
+    "output": 181
+  }
+}

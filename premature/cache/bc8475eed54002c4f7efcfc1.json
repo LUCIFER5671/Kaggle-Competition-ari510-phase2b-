@@ -1,0 +1,10 @@
+{
+  "concern": "The person is distressed by romantic feelings they've been suppressing for a coworker or supervisor. They can't make eye contact, are unsure where things stand after a vague conversation, suspect she may be dating someone else at work, and say it's 'driving me crazy.'",
+  "first_advice": "\"Perhaps you should check your employee handbook\". This is preceded by directive information about workplace power dynamics and handbook rules.",
+  "acknowledged_before_advice": "Only the generic opener \"Human attractions can be tricky things,\" which immediately pivots to the power dynamic. It doesn't reflect or validate the person's distress, confusion or the strain of suppressing their feelings. The line \"your feelings may be strong\" comes only after the advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 1370,
+    "output": 476
+  }
+}

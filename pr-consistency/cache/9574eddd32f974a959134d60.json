@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Refactor diagnostics.js to delegate analysis utilities to a new module",
+    "Add tokenAnalysis module with shared helper functions",
+    "Add tests for tokenAnalysis"
+  ],
+  "observed_changes": "Moves analyse (renamed analyseTokens), unicodeBad, maxDepth, and lineMap from diagnostics.js into a new src/utils/tokenAnalysis.js, along with the opLike regex. diagnostics.js now imports these helpers. A test file covers the extracted functions. The logic is essentially unchanged.",
+  "reason": "The diff is an extract/move of helper functions into a new module, plus tests. That matches the description exactly, and no undisclosed logic changes are visible.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3033,
+    "output": 253
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "She is scared by her husband's swearing and threats after she defended their son, and she believes the threats were serious.",
+  "first_advice": "\"If it does get out of hand, the police do need to be involved.\"",
+  "acknowledged_before_advice": "Only \"I have had these many cases, but in situations like this....\", which mentions the counselor's experience. It does not name or validate her fear or show empathy for being threatened.",
+  "label": "premature",
+  "_usage": {
+    "input": 1247,
+    "output": 145
+  }
+}

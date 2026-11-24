@@ -1,0 +1,10 @@
+{
+  "concern": "Persistent disappointment, jealousy, envy and anger over a proposal and wedding that didn't match what she wanted, feeling unable to move on, and the strain this is putting on her marriage.",
+  "first_advice": "\"But please be aware that it is rare that any wedding is perfect\" (followed by \"Try to live in the present...\")",
+  "acknowledged_before_advice": "\"It's hard to let go of the dreams you had regarding your wedding and engagement... so it's understandable to be disappointed.\" This reflects how hard it is for her and normalizes her disappointment.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1773,
+    "output": 207
+  }
+}

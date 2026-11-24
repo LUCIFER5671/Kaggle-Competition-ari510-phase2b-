@@ -1,0 +1,10 @@
+{
+  "concern": "Terrified of having an anxiety attack while traveling for a new job the family needs; anxiety feels new and unfamiliar.",
+  "first_advice": "I recommend visiting a therapist to determine the root cause",
+  "acknowledged_before_advice": "Validates the change before advising: \"Transitions can be challenging, and it sounds like you are experiencing a lot of change. This would be difficult for many people, and it seems that you have an added layer of challenge.\"",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6358,
+    "output": 167
+  }
+}

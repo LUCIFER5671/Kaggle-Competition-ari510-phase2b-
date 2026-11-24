@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain what or where the fault could be, given that feeding the nearest dead GFCI from a new breaker restores power to all the affected outlets.",
+    "Suggest what else to check, since the user is stuck after the panel replacement and the electrician's walkthrough."
+  ],
+  "reason": "The reply offers one generic technique: measure continuity between wire endpoints with a multimeter, plus safety cautions. It never says what or where the fault might be, such as an open in the original feed between the panel and the first outlet, a failed splice or hidden junction box upstream, or an original home run left unlanded. It also doesn't say which wires or endpoints to test in this situation. Its suggestion to 'connect the wire properly and energize the outlet' misses that the user has already done this.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 1218,
+    "output": 470
+  }
+}

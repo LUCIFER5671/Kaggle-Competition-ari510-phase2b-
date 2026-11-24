@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration and longing from having no luck on dating sites despite really wanting a boyfriend, with high functioning autism.",
+  "first_advice": "\"If not, then find out the names of different organizations which support people who have autism.\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with a question about autism-specific dating sites. The empathic line (\"All the rejection on dating sites is rough for anyone to handle\") comes only after the advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 5970,
+    "output": 161
+  }
+}

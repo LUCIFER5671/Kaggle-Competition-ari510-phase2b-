@@ -1,0 +1,10 @@
+{
+  "concern": "He is deeply unsettled and worried about the relationship after discovering his fianc\u00e9e's infidelity, can't stop picturing her with another man, and feels lost about what to do.",
+  "first_advice": "\"But you can look at this as a vital and important piece of information\"",
+  "acknowledged_before_advice": "After an opening information-gathering question, the reply says \"I know this can be so painful. It can also be frightening to bring up the experience when it hurts a lot, when you feel so unsettled as you mention,\" which validates his pain and unsettled feelings before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1212,
+    "output": 340
+  }
+}

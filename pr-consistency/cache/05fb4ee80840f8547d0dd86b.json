@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Add dependency management and telemetry documentation",
+    "Add claude-worktree and claude-clone scripts",
+    "Update CLAUDE.md and scripts/README.md references"
+  ],
+  "observed_changes": "Adds new devcontainer setup scripts (bash prompt, TikZ/image tools), worktree manager scripts, documentation files, and changes the CI workflow, Makefile, pyproject.toml and uv.lock. It is copying tooling and docs in from another repo, not extracting or moving code structure within this codebase.",
+  "reason": "Here 'extract' means bringing in features and docs from a different repository. No Extract/Move refactoring of code happens: the PR adds new tooling, scripts, documentation and CI configuration.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 28513,
+    "output": 257
+  }
+}

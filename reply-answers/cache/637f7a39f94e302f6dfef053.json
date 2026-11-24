@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Whether branch circuit wires from an adjacent critical-load sub-panel can be run back into the main panel and spliced there to the existing branch circuit wires.",
+    "Constraint: the splices would use properly rated terminal blocks mounted in the main panel enclosure instead of wire nuts or WAGOs.",
+    "Constraint: the goal is to avoid tearing out drywall to relocate the existing branch circuits."
+  ],
+  "reason": "The reply answers the yes/no feasibility question with \"yes, generally allowed.\" Its condition that splices stay inside the panel and that all parts be listed and rated covers the proposed rated terminal blocks. Approving the splice approach also meets the goal of avoiding drywall removal. No explanation was requested, so the short answer covers every explicit request.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 3343,
+    "output": 528
+  }
+}

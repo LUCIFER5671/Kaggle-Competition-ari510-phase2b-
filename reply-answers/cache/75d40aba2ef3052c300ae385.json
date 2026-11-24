@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain why the cold side of a new Pfister Masey LF-048-MC delivers hot, then lukewarm, water",
+    "Say whether the new faucet has a setting or something else that needs changing"
+  ],
+  "reason": "The reply offers one possible cause: the hot and cold supply lines run close together, with the hot line uninsulated. It never says whether the faucet has a setting or adjustment to change, and only hints that the cause lies outside the faucet, so the explicit question goes unanswered.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 763,
+    "output": 424
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "claimed_changes": [
+    "Move core Lua files (title only; description is empty)"
+  ],
+  "observed_changes": "Twelve Lua module files are renamed from !KRT/core/ to !KRT/modules/ with no content changes. The .toc load list is updated to point at the new paths.",
+  "reason": "The title says core Lua files are moved, and the diff does exactly that: pure renames plus the matching .toc path updates. There are no extra logic changes and no omitted work, so the brief title accurately describes the change.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 26566,
+    "output": 377
+  }
+}

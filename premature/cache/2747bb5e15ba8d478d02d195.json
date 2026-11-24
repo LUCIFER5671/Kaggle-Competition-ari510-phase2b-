@@ -1,0 +1,10 @@
+{
+  "concern": "He is hurt and unsettled after discovering his fianc\u00e9e's cheating, can't stop picturing her with another man, and is worried about the relationship and unsure where to turn.",
+  "first_advice": "\"But you can look at this as a vital and important piece of information\" (followed by \"It may be incredibly helpful to find a counselor\")",
+  "acknowledged_before_advice": "After an opening question about whether he has talked with her, the counselor says \"I know this can be so painful. It can also be frightening to bring up the experience when it hurts a lot, when you feel so unsettled as you mention,\" which reflects his pain and unsettled feelings before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1681,
+    "output": 379
+  }
+}

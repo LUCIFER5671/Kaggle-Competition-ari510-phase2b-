@@ -1,0 +1,10 @@
+{
+  "concern": "The person is distressed and worried that her committed partner of two years has lost sexual interest in her, a pattern that ended his past relationships, and she wants to know how he can get past it.",
+  "first_advice": "\"What are your own views on the meaning of sex in a relationship? Knowing this will help you be better able to collaborate with your boyfriend on finding ways...\"",
+  "acknowledged_before_advice": "Only a situational reflection: the counselor wonders how long \"anymore\" will last and notes that he will now face staying in a sexless committed relationship. Nothing names, validates or empathizes with her feelings of hurt, worry or rejection.",
+  "label": "premature",
+  "_usage": {
+    "input": 1298,
+    "output": 442
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Distress over frequent fighting with partner and fear for the family (3 kids); wants help to save the relationship and family.",
+  "first_advice": "\"perhaps I could make some suggestions as to where you might look for free counseling\"",
+  "acknowledged_before_advice": "Nothing; only a greeting and a note about not living in California before moving into suggestions.",
+  "label": "premature",
+  "_usage": {
+    "input": 1394,
+    "output": 127
+  }
+}

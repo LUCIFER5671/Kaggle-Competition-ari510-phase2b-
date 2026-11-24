@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels they are losing their sanity, distressed and suspicious because their partner seems to hold conversations but denies talking to anyone. They wonder whether he is gaslighting them.",
+  "first_advice": "\"Feel free to email me\" (the reply asks for more background rather than giving direct advice)",
+  "acknowledged_before_advice": "\"A rare topic & likely extremely troublesome for you...\" briefly recognizes the person's distress before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 791,
+    "output": 272
+  }
+}

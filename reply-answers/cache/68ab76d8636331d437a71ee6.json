@@ -1,0 +1,11 @@
+{
+  "requests": [
+    "Whether the branch-circuit grounding conductors can be left on the main panel's ground bar rather than extended to the subpanel (code permissibility), given the author's preference not to extend them"
+  ],
+  "reason": "The reply answers the single question: it says nothing in NEC 250 prohibits leaving the grounds in the main panel, and explains that both options are electrically identical. This directly addresses the feasibility and code question.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 9535,
+    "output": 150
+  }
+}

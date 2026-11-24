@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "introduce InputResolver and EdifactConversionService for reusable logic",
+    "refactor node to use these services",
+    "update integration test to exercise new service API"
+  ],
+  "observed_changes": "Adds InputResolver (input-string/binary resolution extracted from execute) and EdifactConversionService (wraps EdifactParser), and refactors EdifactToJson.node.ts to delegate to them. Updates the integration test (also renamed) to use the new service and adds unit tests for both new classes. Also adds a .vscode/settings.json for jest run mode.",
+  "reason": "The diff matches the description: both services are extracted, the node delegates to them, and the integration test is updated. Two things go unmentioned: the new unit tests and the small .vscode settings file. Neither is a major or misdescribed change, so the description is accurate overall.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28531,
+    "output": 284
+  }
+}

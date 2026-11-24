@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "Help deciding whether to order the $35 coil or the $150 coil-in-housing assembly, getting it right the first time",
+    "Identify indicators or signs that the housing assembly and coil together need replacing",
+    "Explain the failure mode that warrants replacing the circular housing assembly",
+    "Share relevant experience or lessons learned"
+  ],
+  "reason": "The reply offers relevant experience: intermittent or absent heat can come from thermal switches or limiters rather than the coil, and the manual lists a thermal limiter. It also notes there are no kits for this model. However, it never explains when the full housing assembly is needed versus just the coil. It gives no signs or failure mode that would justify the circular assembly, and no clear recommendation between the two parts.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 995,
+    "output": 360
+  }
+}

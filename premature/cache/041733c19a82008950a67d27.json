@@ -1,0 +1,10 @@
+{
+  "concern": "She feels overwhelmed by guilt and unworthiness, cannot forgive herself for kissing others in the past, and struggles to understand how her boyfriend could forgive her.",
+  "first_advice": "\"If you want to move forward and be with your boyfriend, your job will be to forgive yourself.\"",
+  "acknowledged_before_advice": "The reply addresses her specific situation (\"it's more common for the person in your position to want to move forward\"), affirms her for taking full responsibility, and reflects her feelings of worthlessness and shame (\"Your sense of worthlessness seems out of proportion,\" \"You don't have to be perfect in order to deserve the love,\" \"The bar is too high for you\"). It also explores where the shame may come from before giving directed guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6528,
+    "output": 521
+  }
+}

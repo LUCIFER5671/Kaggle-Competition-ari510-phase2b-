@@ -1,0 +1,10 @@
+{
+  "concern": "Frequent fighting with partner, worry about keeping the family together with three kids, wanting help to save the relationship.",
+  "first_advice": "\"perhaps I could make some suggestions as to where you might look for free counseling\"",
+  "acknowledged_before_advice": "Nothing; the reply opens with a greeting and a note about location, then goes straight to suggestions without acknowledging the conflict or the person's worry about their family.",
+  "label": "premature",
+  "_usage": {
+    "input": 925,
+    "output": 150
+  }
+}

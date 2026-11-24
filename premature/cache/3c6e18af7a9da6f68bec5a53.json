@@ -1,0 +1,10 @@
+{
+  "concern": "She feels bored in her 4-year relationship with her son's father, is in love with someone she has never met, and feels unsure and conflicted about how to tell her partner and what to do.",
+  "first_advice": "\"First and foremost, you must ask yourself, if you ever loved your sons' father\"",
+  "acknowledged_before_advice": "Only \"Wow, this sounds like a sticky situation; however, I'm here to help guide you through this decision.\" This labels the situation as difficult but does not name, reflect, or validate her feelings of boredom, confusion, or conflict.",
+  "label": "premature",
+  "_usage": {
+    "input": 1744,
+    "output": 198
+  }
+}

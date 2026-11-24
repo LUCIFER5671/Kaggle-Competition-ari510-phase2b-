@@ -1,0 +1,10 @@
+{
+  "concern": "She feels hurt and betrayed by her husband's repeated lying about his drinking, given how honest she is with him, and is unsure whether she is overreacting.",
+  "first_advice": "\"His behaviour is passive aggressive and immature\" (diagnostic interpretation), followed by \"if you try to manage that by monitoring how many beers he has, you are pretty certain to get some fallout\"",
+  "acknowledged_before_advice": "Only a content reflection: \"So your husband is giving you mixed messages. He says he's willing to cut back... but he drinks and hides it.\" It never names or validates her hurt, her sense of betrayal, or her worry about overreacting before moving into diagnosing the husband and redirecting her behavior.",
+  "label": "premature",
+  "_usage": {
+    "input": 2301,
+    "output": 718
+  }
+}

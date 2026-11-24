@@ -1,0 +1,10 @@
+{
+  "concern": "The person says they are very depressed and want to find someone to talk to.",
+  "first_advice": "\"My biggest tip for you is to use Psychology Today or Counsel Chat\"",
+  "acknowledged_before_advice": "The reply opens by affirming the person's courage and recognising their struggle with depression (\"You have already taken the brave first step of making the decision to heal from it\"), which validates them before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5867,
+    "output": 378
+  }
+}

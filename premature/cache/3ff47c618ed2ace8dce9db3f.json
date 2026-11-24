@@ -1,0 +1,10 @@
+{
+  "concern": "Fear and terror of having an anxiety attack while traveling for a new, much-needed job; feeling overwhelmed because this is all new.",
+  "first_advice": "I recommend visiting a therapist",
+  "acknowledged_before_advice": "Before giving advice, the reply congratulates the person, then validates their experience: 'Transitions can be challenging... it sounds like you are experiencing a lot of change. This would be difficult for many people, and it seems that you have an added layer of challenge.' This reflects and normalizes the difficulty.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1723,
+    "output": 191
+  }
+}

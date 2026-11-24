@@ -1,0 +1,10 @@
+{
+  "concern": "A constant, anxiety-provoking urge to throw away their belongings that keeps them from sleeping, along with confusion about why it is happening again.",
+  "first_advice": "\"Play in your mind with the metaphor of 'throwing away'\"",
+  "acknowledged_before_advice": "Only an exploratory question linking the urge to which parent they lived with. Nothing names or validates their anxiety, sleeplessness or distress before the guidance begins.",
+  "label": "premature",
+  "_usage": {
+    "input": 6072,
+    "output": 268
+  }
+}

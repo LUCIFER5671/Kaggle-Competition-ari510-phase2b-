@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Move core futarchy contracts into src/core",
+    "Update imports in scripts and tests",
+    "Keep oracle test helper script in sync",
+    "Adjust README path"
+  ],
+  "observed_changes": "Five contracts are renamed (moved) from src/FAO and src/gnosis into src/core. Their relative imports are updated, and so are the import paths in the deploy script and the tests. The verify script's grep is updated to match, and the README path changes. No logic changes.",
+  "reason": "Every change is a file move plus the path updates that follow from it, which matches what the description says.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3327,
+    "output": 196
+  }
+}

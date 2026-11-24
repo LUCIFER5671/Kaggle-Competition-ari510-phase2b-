@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether a 30A breaker with 10 gauge wire can be used for the 7000W 240V heater",
+    "Or whether to use a 40A breaker with 8 gauge wire instead"
+  ],
+  "reason": "The reply says the 30A circuit is inadequate because continuous loads like heaters need 125% capacity, and that a 40A circuit is required. This covers the breaker question and the choice between the two options; the 8 gauge wire is implied by choosing the bundled 40A option. Minor uncertainty: the wire gauge is never named explicitly.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 12648,
+    "output": 195
+  }
+}

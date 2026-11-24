@@ -1,0 +1,10 @@
+{
+  "concern": "She feels hurt and betrayed by her husband's repeated lying about drinking, is unsure whether she is overreacting, and wants the same honesty she gives him.",
+  "first_advice": "\"if you try to manage that by monitoring how many beers he has, you are pretty certain to get some fallout\"",
+  "acknowledged_before_advice": "Only a factual summary that the husband gives mixed messages and hides his drinking, plus interpretation of his behavior. Nothing validates her hurt, her sense of betrayal, or her worry about overreacting. The reply instead frames her as acting like a disapproving parent.",
+  "label": "premature",
+  "_usage": {
+    "input": 1832,
+    "output": 382
+  }
+}

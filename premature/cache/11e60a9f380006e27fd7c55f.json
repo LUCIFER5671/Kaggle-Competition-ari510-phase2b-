@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and self-blame after a breakup: feeling pushy, feeling he no longer cares, and fearing she is driving him away.",
+  "first_advice": "\"It's appropriate now for you to respect that relationship and listen to what he says he wants\"",
+  "acknowledged_before_advice": "Only an affirmation of her decision (\"your first instinct was good\") and \"You deserve respect,\" which is immediately followed by criticism of her behavior. Her hurt, loss, and self-blame are never reflected or validated.",
+  "label": "premature",
+  "_usage": {
+    "input": 1412,
+    "output": 183
+  }
+}

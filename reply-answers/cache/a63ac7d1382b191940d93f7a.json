@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether branch circuit wires from an adjacent critical-load sub-panel can be run back into the main panel and spliced there to the existing branch circuit wires.",
+    "Whether properly rated terminal blocks mounted in the main panel enclosure can be used to make those splices, so the existing circuits need not be relocated."
+  ],
+  "reason": "The reply answers the core question directly: yes, splicing inside the panel is generally allowed. Its condition that all parts be listed and rated for the conductors covers the proposed terminal blocks. Both parts of the question are answered, though briefly.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 802,
+    "output": 386
+  }
+}

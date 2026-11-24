@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling stuck, lost about what they want in life, unfocused, and disappointed with their lack of accomplishments.",
+  "first_advice": "\"If you are a people-pleaser type or a natural caretaker, you can slowly 'lose yourself'...\" (an immediate diagnostic interpretation), followed later by \"learning to set boundaries...\" and \"Take one small step at a time.\"",
+  "acknowledged_before_advice": "Nothing. The reply opens straight into a speculative explanation of a people-pleaser pattern. \"It sounds like you may be at that crossroads right now\" appears only near the end, after extensive interpretation and just before the action steps, and it never reflects the feelings of being stuck or disappointed.",
+  "label": "premature",
+  "_usage": {
+    "input": 6479,
+    "output": 254
+  }
+}

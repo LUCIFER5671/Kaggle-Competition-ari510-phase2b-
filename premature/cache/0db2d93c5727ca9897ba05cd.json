@@ -1,0 +1,10 @@
+{
+  "concern": "A domestic violence survivor still has horrible, vivid nightmares seven years later, waking in sweat, and feels distressed by how real they seem.",
+  "first_advice": "\"you may want to consider processing your memories of the events with a trained trauma therapist\"",
+  "acknowledged_before_advice": "The opening line \"Nightmare are actually very common for survivors of domestic violence\" normalizes the experience before any advice, which the guidelines count as brief acknowledgement.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1266,
+    "output": 298
+  }
+}

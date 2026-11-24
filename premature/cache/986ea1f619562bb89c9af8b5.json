@@ -1,0 +1,10 @@
+{
+  "concern": "She is struggling to get over unrequited feelings for a coworker and friend after they made out. She keeps fantasizing and feels hopeful and confused by his touching, yet she wants to preserve the friendship.",
+  "first_advice": "\"If you truly want to force yourself to get over him, cutting contact or setting strict boundaries may be necessary\"",
+  "acknowledged_before_advice": "\"It sounds like a tricky situation\" reflects her difficulty. The reply also validates her confusion by noting that his hugs and touching \"may be misleading and are allowing you to believe that a romantic relationship is possible,\" and normalizes how people naturally get over others.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6320,
+    "output": 480
+  }
+}

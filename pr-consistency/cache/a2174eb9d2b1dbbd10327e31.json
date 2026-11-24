@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Create IAuthService interface exposing a Stream of AppUser",
+    "Implement AuthFirebaseService using FirebaseAuth",
+    "Refactor AuthCubit to rely only on IAuthService",
+    "Register new service and interface in injection.dart"
+  ],
+  "observed_changes": "Adds IAuthService interface (authStateChanges, signUp, signIn, signOut), adds AuthFirebaseService that moves FirebaseAuth and user-repository logic out of AuthCubit (auth state stream with default user creation, sign up, sign in, sign out), rewrites AuthCubit to depend on IAuthService only, and registers IAuthService in GetIt while updating the AuthCubit factory.",
+  "reason": "Every file and change listed in the description shows up in the diff. The work is a Move/Extract refactoring: Firebase auth logic leaves the cubit for a new service class behind an interface. The description matches it.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3227,
+    "output": 318
+  }
+}

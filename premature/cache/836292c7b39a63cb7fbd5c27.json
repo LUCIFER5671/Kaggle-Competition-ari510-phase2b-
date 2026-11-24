@@ -1,0 +1,10 @@
+{
+  "concern": "Worsening anxiety after being referred to a psychiatrist, alongside depression, and feeling completely drained, saying that writing the post took every bit of strength they had left.",
+  "first_advice": "\"Did you take the medication the way the psychiatrist prescribed it?\" followed by \"Give the doctor the chance to help you\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with questions about medication compliance and moves straight into guidance. It never reflects the person's increased anxiety or their exhaustion. The only supportive line, \"I hope you feel better soon,\" comes after the advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 1322,
+    "output": 214
+  }
+}

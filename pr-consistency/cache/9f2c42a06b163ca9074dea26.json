@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Create SumOrderComparator.h/.cpp",
+    "Move type ordering logic from Sum.cpp",
+    "Preserve existing comparison behavior",
+    "No changes to base classes or inheritance contracts"
+  ],
+  "observed_changes": "Extracts SumOrderComparator from Sum.cpp into new files, but also touches 13 files with unrelated changes: removes constexpr from Integer methods, adds a new Product::LCMofMemberFractionDenominators override, changes a solve() call signature in FormulaOfVaWithSingleIntegerRoot, replaces IMPLEMENT with LOG_AND_IMPLEMENT in Fraction.cpp, adds includes and namespace restructuring, and modifies Valuable.h and ValuableDescendantContract.h.",
+  "reason": "The description says there are no changes to base classes or inheritance contracts and that behavior is preserved. The diff contradicts this: it modifies Valuable.h and ValuableDescendantContract.h, adds a new override method, changes function call arguments, and alters error handling. None of these significant extra changes are mentioned.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 29457,
+    "output": 383
+  }
+}

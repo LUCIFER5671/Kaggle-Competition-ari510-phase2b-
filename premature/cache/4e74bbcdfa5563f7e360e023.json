@@ -1,0 +1,10 @@
+{
+  "concern": "Hopelessness and pain from living with a chronic, permanent illness, plus feeling alone with no one.",
+  "first_advice": "\"be sure you are concentrating on specific areas of your life\"",
+  "acknowledged_before_advice": "After an opening exploratory question about phases of the illness, the reply validates the feeling: \"I think the idea of having a lifelong illness is frustrating and can be depressing to think about.\" This acknowledges the emotional burden before any directed guidance, though the loneliness is not directly addressed.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5933,
+    "output": 416
+  }
+}

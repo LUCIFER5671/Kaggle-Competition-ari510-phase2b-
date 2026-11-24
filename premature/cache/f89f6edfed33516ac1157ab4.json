@@ -1,0 +1,10 @@
+{
+  "concern": "Deep hurt and loneliness from five years of being excluded by her partner and his family, especially at a family Mass and Christmas, plus worsening depression, fear about doing \"stupid things\" to herself, isolation, insomnia, headaches and loss of appetite.",
+  "first_advice": "\"While I would suggest that you don't really know what he or his family are thinking or feeling\"",
+  "acknowledged_before_advice": "Only a brief line, \"It's sad that you're feeling excluded at Christmastime and family events,\" plus a comment on her general isolation. This is immediately followed by a challenge to her perceptions. The validation that it's \"understandable that you would feel rejected and hurt\" comes inside that corrective sentence. Her fear, possible self-harm and depression are never acknowledged before the reply turns to guidance, such as suggesting she ask him and recommending therapy.",
+  "label": "premature",
+  "_usage": {
+    "input": 1333,
+    "output": 605
+  }
+}

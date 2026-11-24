@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Move Next.js app from repo root to apps/nextjs",
+    "Update workspace configuration and package.json dependencies",
+    "Move app/, components/, hooks/, lib/, gem/ and config files",
+    "Update drizzle config and TypeScript config"
+  ],
+  "observed_changes": "Pure file renames into apps/nextjs (app, components, hooks, lib, migrations, etc.) plus .gitignore path updates; package/config adjustments for the monorepo layout.",
+  "reason": "This is a directory/file relocation for monorepo organization, not a code-level Extract/Move Method/Class refactoring. As with the earlier example of moving Lua files between directories, a whole-project file move is out of scope.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 29162,
+    "output": 245
+  }
+}

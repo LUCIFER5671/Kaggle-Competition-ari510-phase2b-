@@ -1,0 +1,10 @@
+{
+  "concern": "The person is feeling stressed and is asking for help coping with it.",
+  "first_advice": "\"There are the outward answers of self-pampering and making your home and work environment as pleasant as possible\"",
+  "acknowledged_before_advice": "Only \"Something different works for each of us,\" a general framing of coping strategies. It does not name, reflect, normalize or empathize with the person's experience of stress.",
+  "label": "premature",
+  "_usage": {
+    "input": 1267,
+    "output": 194
+  }
+}

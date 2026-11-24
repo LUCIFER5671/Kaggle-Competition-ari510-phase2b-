@@ -1,0 +1,10 @@
+{
+  "concern": "She is upset that her child's father, who agreed to respect her belief about inappropriate content, received such a video and got angry at the idea of telling his co-worker not to send them. She feels her beliefs are not being respected.",
+  "first_advice": "\"In my book, this is a boundary issue... it is not up to you what your child's father looks at\"",
+  "acknowledged_before_advice": "Nothing meaningful. The reply opens by framing the problem as her boundary issue. The brief 'Although you do not like inappropriate content' is used to set up the correction rather than to validate her feelings. 'It is really hard...' only comes after the directive.",
+  "label": "premature",
+  "_usage": {
+    "input": 5832,
+    "output": 377
+  }
+}

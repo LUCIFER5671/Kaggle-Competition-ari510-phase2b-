@@ -1,0 +1,10 @@
+{
+  "concern": "Lifelong panic attacks and anxiety when driving or riding in a car. They miss time with friends and family, feel guilty and depressed because their family dismisses it as fake, have passive thoughts of not wanting to wake up, feel meaningless, and are losing hope of getting better.",
+  "first_advice": "\"Maybe being and feeling accepted while you're in this current phase of your life, would help diminish the panic attacks\"",
+  "acknowledged_before_advice": "The opening line, \"Not having support from your family for such a significant problem, is a problem itself,\" validates that the problem is significant and that the family's dismissal is itself painful. It is followed by questions exploring whether friends are supportive. This is brief, and it does not reflect the depression or hopelessness, but it does validate the concern before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1725,
+    "output": 579
+  }
+}

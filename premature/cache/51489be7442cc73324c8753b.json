@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels sad all the time and alone, and is confused about why they are unhappy despite having good friends, family, home and school.",
+  "first_advice": "\"I hope you can tell someone that you are feeling sad\"",
+  "acknowledged_before_advice": "Only exploratory questions (\"I wonder if you have moments where you feel happy?\") and a speculative remark that we sometimes put pressure on ourselves. Nothing reflects, validates or empathizes with their sadness, loneliness or confusion.",
+  "label": "premature",
+  "_usage": {
+    "input": 5974,
+    "output": 430
+  }
+}

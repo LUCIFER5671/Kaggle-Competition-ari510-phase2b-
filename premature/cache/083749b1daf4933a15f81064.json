@@ -1,0 +1,10 @@
+{
+  "concern": "Grief over grandma's death after a stroke, plus losing home and job, unsuccessful job search, and coping by binge watching TV and binge eating.",
+  "first_advice": "\"I wonder what you can do right now to improve your situation?\" followed by \"seek counseling\"",
+  "acknowledged_before_advice": "Opens with \"Wow, you got hit with some serious stuff all at once,\" recognizes the impact of losing work, relationships and housing, normalizes self-blame and grief (\"a recipe for feeling awful\"), and normalizes using food and TV to check out.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1367,
+    "output": 209
+  }
+}

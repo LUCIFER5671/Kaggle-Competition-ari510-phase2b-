@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether two electric baseboard heaters can be stacked vertically, one about 12 inches above the other",
+    "Whether the second 5' heater must instead go in a different spot on the living room wall"
+  ],
+  "reason": "The reply says stacking will not work well and explains why: convection draws cool air in at the bottom and releases heated air at the top, so a stacked unit disrupts the flow. Instead of placing a second heater elsewhere, it suggests a single 5' heater with the same kW as the old 10' unit. This settles the either/or question, and it adds a mini-split suggestion.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 793,
+    "output": 309
+  }
+}

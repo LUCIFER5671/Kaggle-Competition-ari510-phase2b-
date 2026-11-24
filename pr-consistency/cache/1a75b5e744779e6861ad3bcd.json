@@ -1,0 +1,12 @@
+{
+  "claimed_changes": [
+    "Move SumOrderComparator from Sum.h/Sum.cpp into separate SumOrderComparator.h and .cpp files"
+  ],
+  "observed_changes": "SumOrderComparator is extracted into new .h/.cpp files, and Sum.h/Sum.cpp are updated to use them. Valuable.cpp also changes substantially (+135 -55): Sign() now handles NaN, a negative_one constant is added, and namespaces are restructured. These are logic changes the description does not mention.",
+  "reason": "The description covers only the move of the comparator. It omits the significant behavioral changes in Valuable.cpp, such as the new NaN handling in Sign() and the added constant.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 3663,
+    "output": 246
+  }
+}

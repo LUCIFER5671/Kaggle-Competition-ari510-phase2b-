@@ -1,0 +1,10 @@
+{
+  "concern": "Devastation and hurt over her husband seeing someone else after she withdrew due to medical issues causing no sex drive, and distress that he doubts her sincerity about reconciling.",
+  "first_advice": "\"First of all, it is of vital importance that you discuss your symptoms with your doctor.\"",
+  "acknowledged_before_advice": "Only a brief generic sympathy line (\"I'm sorry to hear about your current situation. My heart goes out to you during this time.\") that does not engage with her devastation, isolation, or fear of losing her husband.",
+  "label": "premature",
+  "_usage": {
+    "input": 1076,
+    "output": 193
+  }
+}

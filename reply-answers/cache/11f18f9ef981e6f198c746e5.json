@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Whether a 3300 PSI pressure washer can be used to apply the cleaner as a soft wash, given the stated preference to introduce the cleaner downstream rather than through the pump",
+    "Whether there is any reason not to use the pressure washer to apply the cleaner",
+    "The preferred method of applying the cleaner"
+  ],
+  "reason": "The reply covers all three requests: it says yes, the pressure washer can be used; it gives reasons not to (lifted wood fibers, moisture that takes days to dry before painting, ladder safety); and it names a preferred method (a brush on a painter's extension pole). It does not discuss downstream injection, but the author framed that as a preference rather than asking how to set it up, so it is not treated as a missing requirement. There is some uncertainty: if downstream dispensing were treated as a hard constraint, the label would be Partially answered.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 3689,
+    "output": 662
+  }
+}

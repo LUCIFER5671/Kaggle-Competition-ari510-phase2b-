@@ -1,0 +1,10 @@
+{
+  "concern": "Parent is worried and unsure how to respond after their overtired daughter screamed that she hated her grandma and wanted to kill herself, possibly linked to a new baby in the house.",
+  "first_advice": "\"Do you know or can you find out what the grandma and your daughter were doing\"",
+  "acknowledged_before_advice": "Only \"You wrote a very full family context w many directions to examine,\" which comments on the message's content but does not reflect or validate the parent's worry or distress.",
+  "label": "premature",
+  "_usage": {
+    "input": 6045,
+    "output": 169
+  }
+}

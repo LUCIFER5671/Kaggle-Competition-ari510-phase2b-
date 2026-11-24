@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Extract Instagram post embed logic into a new InstagramPosts component",
+    "Refactor Section1 to use InstagramPosts"
+  ],
+  "observed_changes": "Creates InstagramPosts.jsx, which holds the embed-script useEffect and renders blockquotes for a list of post URLs. Section1 now passes a one-element posts array to this component in place of its own inline logic. The only rendering difference is an extra wrapper div with class 'instagram-posts'.",
+  "reason": "The diff is an extract-component refactoring that matches the description. Generalizing to a list of posts is a minor parameterization. The extra wrapper div is negligible.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 1908,
+    "output": 229
+  }
+}

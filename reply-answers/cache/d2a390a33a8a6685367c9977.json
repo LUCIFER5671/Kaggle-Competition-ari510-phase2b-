@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Identify the best method to supplement the existing triple 2x10 beam (by adding 2x10s up to 16 ft) so one column can be removed for a 12 ft clear span",
+    "Explain how the new combined beam should be supported, including the end near the existing wall that needs its own support"
+  ],
+  "reason": "The reply addresses the method by recommending an engineer and noting that spans are usually increased by adding depth or switching to an engineered wood or steel beam, not by adding width. That implicitly speaks to the add-2x10s plan. It gives no guidance on how the combined beam should be supported, including the end near the wall, beyond the generic engineer referral.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 3391,
+    "output": 416
+  }
+}

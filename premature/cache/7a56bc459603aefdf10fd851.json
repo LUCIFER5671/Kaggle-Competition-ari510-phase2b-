@@ -1,0 +1,10 @@
+{
+  "concern": "She is being verbally and emotionally abused by her husband, feels guilty about her lying, is exhausted from crying, and is torn about leaving because of their toddler.",
+  "first_advice": "\"I wonder if maybe the first step is for you to start seeing this decision as yours\"",
+  "acknowledged_before_advice": "Only a thanks for her honesty and an observation that she describes her husband as hurtful, abusive and controlling. There is no validation of her pain, exhaustion or fear; reassurance such as 'not your fault' comes only after the directive.",
+  "label": "premature",
+  "_usage": {
+    "input": 1407,
+    "output": 426
+  }
+}

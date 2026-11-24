@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Extract portrait helper methods to portraitUtils",
+    "Refactor EntityDisplayDataProvider to use helpers",
+    "Add unit tests for portraitUtils"
+  ],
+  "observed_changes": "Private portrait helper methods (#buildPortraitPath, #buildAltText, portrait info builder) were removed from EntityDisplayDataProvider and moved as exported functions into the new src/entities/utils/portraitUtils.js. The provider now imports buildPortraitInfo, and a new test file covers the extracted helpers.",
+  "reason": "The diff matches every claim. The helpers were moved to a new module, the provider now delegates to them, and tests were added. No unmentioned logic changes are visible.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28028,
+    "output": 250
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "The person says they are very depressed and want to know how to find someone to talk to.",
+  "first_advice": "There are lots of different options nowadays for therapists... My biggest tip for you is to use Psychology Today",
+  "acknowledged_before_advice": "Only praise for seeking help ('You have already taken the brave first step of making the decision to heal'). This commends the help-seeking but does not name, reflect, or empathize with the depression itself.",
+  "label": "premature",
+  "_usage": {
+    "input": 1232,
+    "output": 410
+  }
+}

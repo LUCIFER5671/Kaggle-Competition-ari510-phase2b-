@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Extract Instagram post embed logic into a new InstagramPosts component",
+    "Refactor Section1 to use InstagramPosts"
+  ],
+  "observed_changes": "Adds a new InstagramPosts.jsx component that holds the embed-script loading useEffect and renders a blockquote for each post URL. Section1 drops that logic, defines a posts array, and renders <InstagramPosts posts={posts} />.",
+  "reason": "The diff matches the description: a straightforward Extract Component refactoring with no undisclosed changes. The only tweak is that the component takes a list of URLs instead of one hardcoded URL, which is a minor generalization.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 26971,
+    "output": 229
+  }
+}

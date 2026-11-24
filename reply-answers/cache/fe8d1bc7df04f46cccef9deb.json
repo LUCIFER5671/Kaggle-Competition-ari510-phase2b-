@@ -1,0 +1,11 @@
+{
+  "requests": [
+    "Explain what could be causing the metallic or gas-like smell coming from the flexible conduit containing the outlet wiring."
+  ],
+  "reason": "The question asks only for the likely cause of the smell. The reply answers that: it identifies the odor as probably ozone and explains how it arises (arcing, partial or corona discharge from voltage spikes, possibly worsened by humidity). The follow-up question about humidity is extra and doesn't leave the main request unanswered.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 822,
+    "output": 167
+  }
+}

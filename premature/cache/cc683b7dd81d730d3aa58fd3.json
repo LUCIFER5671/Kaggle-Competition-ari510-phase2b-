@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration and hurt that her partner does the things she says she dislikes, dismisses her concerns, and only criticizes her after she raises something about him.",
+  "first_advice": "\"It would probably be helpful for you both to work on communicating using 'I' statements\"",
+  "acknowledged_before_advice": "Only a reframing of the situation as a communication problem with mismatched perceptions (\"It sounds like there are issues with communication...\"). This reads more like a diagnosis than an acknowledgement. It never names or validates her frustration, hurt, or feeling dismissed.",
+  "label": "premature",
+  "_usage": {
+    "input": 5860,
+    "output": 425
+  }
+}

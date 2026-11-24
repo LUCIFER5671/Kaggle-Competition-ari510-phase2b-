@@ -1,0 +1,10 @@
+{
+  "concern": "Lingering unrequited feelings for a close friend and coworker after a brief romantic involvement, feeling stuck and unable to get over him while trying to preserve the friendship.",
+  "first_advice": "\"If you want to maintain your friendship... getting over him may not be possible\" leading into \"cutting contact or setting strict boundaries may be necessary\"",
+  "acknowledged_before_advice": "Only a brief, generic \"It sounds like a tricky situation,\" which frames the issue as a situational problem rather than acknowledging her heartache, longing, or the pain of being stuck.",
+  "label": "premature",
+  "_usage": {
+    "input": 1216,
+    "output": 205
+  }
+}

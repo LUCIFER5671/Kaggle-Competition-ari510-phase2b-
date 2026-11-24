@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels constantly in a bad mood, has no energy, and is worried that this might be depression.",
+  "first_advice": "The reply opens with diagnostic information (\"depression can, in fact, express itself through irritability... According to the DSM-V...\") and then recommends \"the best place to start is by seeing a physician or a therapist\".",
+  "acknowledged_before_advice": "Nothing empathic. The opening reflects the person's symptoms (\"bad mood as you say\") only as diagnostic information, without naming, validating, or empathizing with how distressing a constant bad mood and lack of energy feel.",
+  "label": "premature",
+  "_usage": {
+    "input": 1427,
+    "output": 419
+  }
+}

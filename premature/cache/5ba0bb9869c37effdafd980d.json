@@ -1,0 +1,10 @@
+{
+  "concern": "She feels overwhelmed by many serious issues (sexual abuse history, breast cancer, lifelong insomnia, depression, new anxiety, low self-esteem), has never had counseling, and worries she has too many issues to address.",
+  "first_advice": "\"I would encourage you to take the next step and reach out to a professional\"",
+  "acknowledged_before_advice": "Only factual reassurance and normalization (\"there are never too many concerns,\" \"most people... have more than one issue\") followed by an explanation of how counseling works. Nothing acknowledges the emotional weight of what she has lived through or her sense of being overwhelmed.",
+  "label": "premature",
+  "_usage": {
+    "input": 1117,
+    "output": 706
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration at repeatedly eating junk food despite efforts to work out and eat healthy.",
+  "first_advice": "I know some people do better when they don't have as much junk food in the house.",
+  "acknowledged_before_advice": "Nothing; the reply opens directly with a suggestion to remove junk food and never validates the person's frustration with their efforts.",
+  "label": "premature",
+  "_usage": {
+    "input": 752,
+    "output": 126
+  }
+}

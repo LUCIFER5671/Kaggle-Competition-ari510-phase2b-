@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Introduce AuthSession server component",
+    "Refactor auth layout to use AuthSession and make it static (remove force-dynamic)"
+  ],
+  "observed_changes": "Extracts the session fetch and SupabaseProvider wrapping from the auth layout into a new AuthSession async server component. The layout becomes non-async and the force-dynamic export is removed. The import path for SupabaseProvider changes from @/lib/supabase/provider to @/utils/supabase/provider.",
+  "reason": "The diff matches the description: the session fetch is extracted into a new component, the layout uses it, and the layout is made static. The provider import path change is minor and does not misrepresent the extraction.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 26730,
+    "output": 238
+  }
+}

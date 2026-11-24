@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Remove Explanation column from settings table",
+    "Mention tooltip usage in docs"
+  ],
+  "observed_changes": "Removes the Explanation and Disk columns (including disk status icons/progress bars) from the settings HTML template, and updates the docs to say explanations appear as tooltips.",
+  "reason": "This is a UI template change that removes columns. It is not an Extract/Move refactoring of code structure (no method, class, or field is moved), so it falls outside the refactoring scope.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 1898,
+    "output": 175
+  }
+}

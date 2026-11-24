@@ -1,0 +1,10 @@
+{
+  "concern": "Distress after an abusive relationship and filing a restraining order, plus worry about feeling sick every time she stands up (possibly nerves/anxiety).",
+  "first_advice": "\"you may want to visit your primary care provider\"",
+  "acknowledged_before_advice": "Validates that her symptoms may be nerves or anxiety and says this is \"totally normal and understandable given your circumstances.\" It also normalizes sitting and rocking as a common way people comfort themselves under high stress.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1451,
+    "output": 177
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Introduce InputResolver and EdifactConversionService for reusable logic",
+    "Refactor node to use these services",
+    "Update integration test to exercise new service API"
+  ],
+  "observed_changes": "Extracts the input-resolution logic (string vs binary EDIFACT input) from the node's execute method into a new InputResolver class, and the parser invocation into a new EdifactConversionService class. The node now delegates to both. The integration test is renamed and switched to the service API. New unit test files are added for InputResolver and EdifactConversionService, plus a .vscode/settings.json with a jest runMode setting.",
+  "reason": "The diff is an Extract Class refactoring, and it matches the description: two new service classes are created and the node uses them. The integration test update is also mentioned. The extras that go unmentioned are new unit tests and a small editor settings file, which are minor. No behavior change shows up in the visible code.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3546,
+    "output": 309
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "She feels bored in her 4-year relationship with her son's father, is in love with someone she's never met, and feels conflicted and unsure how to tell her partner.",
+  "first_advice": "\"First and foremost, you must ask yourself, if you ever loved your sons' father\"",
+  "acknowledged_before_advice": "Only \"Wow, this sounds like a sticky situation\", a brief, generic remark about the situation that doesn't acknowledge her boredom, conflicted feelings, or difficulty telling her partner.",
+  "label": "premature",
+  "_usage": {
+    "input": 1275,
+    "output": 182
+  }
+}

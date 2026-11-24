@@ -1,0 +1,10 @@
+{
+  "concern": "Deep regret and distress over sexual things they did as a child, struggling to cope with themselves, and wanting help remembering their past.",
+  "first_advice": "Hypnosis can be a valuable tool that a trained therapist can use",
+  "acknowledged_before_advice": "\"I'm very sorry to hear this.\" This is a brief expression of sympathy, but it does not name the person's regret or self-directed pain. The fuller reflection (\"painful experiences in the past\") comes only after the advice.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1273,
+    "output": 579
+  }
+}

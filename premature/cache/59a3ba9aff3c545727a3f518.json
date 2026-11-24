@@ -1,0 +1,10 @@
+{
+  "concern": "The poster feels hurt, frustrated and discouraged by her partner's ongoing depression over his divorce and his ex using the kids against him, to the point of wanting to tell him to go back to his family and forget about her.",
+  "first_advice": "\"Hold on, Sanger!... I don't think so.\" (immediately countering her impulse), followed by \"Accept the powerlessness. Lean into it.\"",
+  "acknowledged_before_advice": "Little to nothing about the poster's own feelings. The reply normalizes that divorcing people often wonder about going back, and it reflects the partner's sense of powerlessness. It never names or validates her hurt, frustration or sense of being pushed aside, and it opens by telling her to 'hold on'.",
+  "label": "premature",
+  "_usage": {
+    "input": 6255,
+    "output": 570
+  }
+}

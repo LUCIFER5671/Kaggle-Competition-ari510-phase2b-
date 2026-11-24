@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Recommend a better way to clean mold off the ducts, given that vinegar and a microfiber cloth didn't work and paint and dust come off.",
+    "Say whether they should stop messing with it, given the fragile plastic.",
+    "Say whether spraying Concrobium on the black stuff on the ductboard boots is a good idea until they can be replaced."
+  ],
+  "reason": "The reply offers a better cleaning method (a long duct brush, then a shop-vac, with a mask) and notes that vinegar may feed microbes. It only implicitly covers whether to stop, and it never mentions the fragile plastic. It does not address the Concrobium-on-ductboard-boots question at all, which was an explicit request.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 1016,
+    "output": 358
+  }
+}

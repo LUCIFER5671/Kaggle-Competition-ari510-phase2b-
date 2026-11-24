@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Refactor performance search to extract title from quotes",
+    "Perform exact match instead of previous search"
+  ],
+  "observed_changes": "In DirectorDetail.tsx, removes fuzzy matching (findBestMatch, suggestion state) and adds an extractTitleFromQuotes helper plus exact-match search logic. This changes behavior rather than restructuring existing code.",
+  "reason": "The change replaces fuzzy matching with exact matching after quote extraction. That is new behavior, not an Extract/Move refactoring of existing code. 'Extract' in the title refers to extracting text from quotes, not extracting a method.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 26623,
+    "output": 222
+  }
+}

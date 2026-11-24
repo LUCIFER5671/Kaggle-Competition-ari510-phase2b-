@@ -1,0 +1,10 @@
+{
+  "concern": "She feels confused and uncertain after kissing a close friend who then said they should stay friends. She wants to be with him but isn't ready for a relationship, and worries he may never want more than friendship.",
+  "first_advice": "\"Stay focused on what you know about yourself\"",
+  "acknowledged_before_advice": "Only an intellectual normalization: the kiss is framed as satisfying a 'natural need', plus a general remark that 'being without a partner is difficult'. Nothing acknowledges her longing for him, any hurt from his pulling back, or her uncertainty about his feelings.",
+  "label": "premature",
+  "_usage": {
+    "input": 1010,
+    "output": 417
+  }
+}

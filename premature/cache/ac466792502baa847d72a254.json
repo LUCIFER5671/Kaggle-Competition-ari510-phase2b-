@@ -1,0 +1,10 @@
+{
+  "concern": "Passive wishes to die (hoping an accident takes their life), feeling they shouldn't exist, finding life a chore, and wondering whether this is normal or a sign of something.",
+  "first_advice": "\"The real way you'll find out what this feeling is about is to ask yourself your own question.\"",
+  "acknowledged_before_advice": "Only the opening line, \"Sounds like a sign of great unhappiness, or sadness, or insecurity.\" This briefly labels or interprets the feeling but does not validate the pain, the sense of not belonging, or the passive death wishes before shifting to guidance.",
+  "label": "premature",
+  "_usage": {
+    "input": 848,
+    "output": 394
+  }
+}

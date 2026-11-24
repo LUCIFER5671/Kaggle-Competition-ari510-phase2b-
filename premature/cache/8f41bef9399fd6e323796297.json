@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels uncomfortable and hurt by their parents' stereotyping comments about bisexuality, and is anxious and unsure whether they're ready to come out as bisexual.",
+  "first_advice": "\"the benefit is that you will no longer have to hide who you are. Perhaps researching or getting information on bisexuality...\"",
+  "acknowledged_before_advice": "Only a generic line, \"Coming out to family members can cause a lot of anxiety.\" It does not acknowledge the discomfort caused by the parents' comments or the person's uncertainty about being ready, and it immediately pivots to nudging them toward coming out.",
+  "label": "premature",
+  "_usage": {
+    "input": 760,
+    "output": 406
+  }
+}

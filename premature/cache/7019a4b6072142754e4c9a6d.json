@@ -1,0 +1,10 @@
+{
+  "concern": "Terror of having an anxiety attack while traveling far from home for a job the family badly needs, plus confusion and unease about being told they have 'anxiety' when this is all new to them.",
+  "first_advice": "\"I recommend visiting a therapist to determine the root cause\"",
+  "acknowledged_before_advice": "Before the first recommendation, the reply congratulates them and offers several validating lines: \"Transitions can be challenging,\" \"it sounds like you are experiencing a lot of change,\" \"This would be difficult for many people,\" and \"it seems that you have an added layer of challenge.\" These recognize the stress of the change and normalize the difficulty. They are brief and somewhat generic, and they never name the person's fear of an attack on the road. Still, they do validate the difficulty before any guidance is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1254,
+    "output": 284
+  }
+}

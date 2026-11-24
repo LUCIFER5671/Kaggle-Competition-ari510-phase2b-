@@ -1,0 +1,10 @@
+{
+  "concern": "The person is worried about their girlfriend, who became depressed after quitting drinking and wants to move away. They want to help her and want her to stay.",
+  "first_advice": "\"Tough love and clear boundaries are needed in a lot of situations\" (with the most direct guidance later: \"Don't pressure her to stay\")",
+  "acknowledged_before_advice": "Nothing acknowledges the concern. The reply opens by criticizing the person (\"Your question says a lot about what YOU want\") and lectures about enabling, without recognizing their worry, their care for her, or the fear of her leaving.",
+  "label": "premature",
+  "_usage": {
+    "input": 1679,
+    "output": 206
+  }
+}

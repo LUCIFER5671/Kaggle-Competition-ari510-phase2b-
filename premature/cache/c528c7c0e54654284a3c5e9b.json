@@ -1,0 +1,10 @@
+{
+  "concern": "After a draining 10-year marriage to a narcissistic ex, she feels she has lost her spirit, is isolated, has low self-worth working as a server, pities herself, struggles with money, feels hurt that her ex enjoys her hardship, and doesn't know what to do.",
+  "first_advice": "Be kind and caring toward who you are",
+  "acknowledged_before_advice": "The reply congratulates her on leaving, then validates her feelings: \"It is ok and natural to feel sadness, loss, uncertainty in direction, hurt.\" It also reframes her self-pity as a combination of these understandable feelings.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 977,
+    "output": 313
+  }
+}

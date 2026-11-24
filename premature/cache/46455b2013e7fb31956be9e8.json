@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels drawn to sadness and negativity \u2014 seeking out sad music and tragic stories, dwelling on negative aspects of life \u2014 and is confused and troubled by this pattern.",
+  "first_advice": "\"This may sound counter-intuitive, but sometimes we do things that on the surface may look problematic... because it serves us in some unseen way\" (interpretive guidance), followed by \"you may benefit from exploring with a competent therapist.\"",
+  "acknowledged_before_advice": "The opening sentence reflects the concern: \"It sounds like you are noticing that you are drawn towards sad and negative content and it's hard to understand why,\" naming both the pattern and the confusion before offering any interpretation or recommendation.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 939,
+    "output": 254
+  }
+}

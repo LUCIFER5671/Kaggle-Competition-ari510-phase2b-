@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "Whether to install an expansion tank and/or a check valve to prevent pressure spikes",
+    "What downsides there are to installing a check valve just downstream of the meter",
+    "Whether a check valve might already be installed underground near the water main connection",
+    "Whether to install only the expansion tank without a check valve, given the concern about water moving back and forth through the meter and raising bills"
+  ],
+  "reason": "The reply recommends a pressure reducing valve plus an expansion tank and notes that backflow prevention protects the city. It does not discuss the downsides of the proposed check valve, whether a hidden check valve may exist near the main, or the meter and billing concern behind the check-valve idea.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 1291,
+    "output": 342
+  }
+}

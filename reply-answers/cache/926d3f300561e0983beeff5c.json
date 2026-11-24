@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Explain the best method to supplement the existing triple 2x10 beam with additional 2x10s so one column can be removed for a 12 ft clear span.",
+    "Explain how the new combined beam should be supported, including the end near the existing wall that would need its own support.",
+    "Work within the stated constraint of adding 2x10s up to 16 ft long."
+  ],
+  "reason": "The reply mainly says to hire a structural engineer. It adds a general note that open span is usually increased by adding depth rather than width, or by switching to an engineered wood or steel beam. That loosely touches the method question, though it never directly says whether the proposed 2x10 additions would work or how to do them. It says nothing about how the new combined beam should be supported, including the end support near the wall.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 850,
+    "output": 382
+  }
+}

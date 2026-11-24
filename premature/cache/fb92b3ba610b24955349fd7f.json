@@ -1,0 +1,10 @@
+{
+  "concern": "The person is worried about a friend they believe has major depression, who feels empty, angry and sad, won't open up, and refuses to seek help.",
+  "first_advice": "\"therapy may be beneficial for him\"",
+  "acknowledged_before_advice": "The opening line \"I can tell that you really care about your friend and I think it's great that you are reaching out with your concern\" recognizes the person's care and worry and validates their reaching out before any guidance. It is brief and doesn't name the worry or helplessness directly.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 841,
+    "output": 418
+  }
+}

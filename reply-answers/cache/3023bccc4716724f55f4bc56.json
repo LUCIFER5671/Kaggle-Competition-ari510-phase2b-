@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "What's the best way to deal with the 9\" deep ledge for drywalling?",
+    "Do I need to build out proper (flat/level) framing?",
+    "Is the small amount of support in the front enough for drywall without additional framing?"
+  ],
+  "reason": "The reply gives a detailed method: level the top plate, add a 1x2 strip at the front edge, fill with foam, use a metal angle at the back as support, then install the drywall. This covers the best approach and amounts to adding a flat, level support structure, which answers the framing question. It never directly says whether the existing front support alone would suffice, but recommending a back support (the metal angle) implicitly answers no. All parts are addressed, partly by implication.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 1350,
+    "output": 237
+  }
+}

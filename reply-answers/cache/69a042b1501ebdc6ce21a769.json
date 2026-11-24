@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Explain how to connect the bathroom fan ductwork to the existing 4-inch roof box vent, which has no nipple.",
+    "Constraint: avoid venting moisture into the drywall or roof decking.",
+    "Constraint: keep the existing vent, since replacing it on a standing seam roof isn't a good option."
+  ],
+  "reason": "The reply keeps the existing roof vent and gives a method: use wire or strapping to hold the 4-inch duct end about level with the base of the vent's cylinder. It addresses the decking concern by saying very little moisture will wrap back down to reach the sheathing. Some uncertainty: this positions the duct rather than sealing it to the vent, but it is an explicit method that respects both constraints.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 10071,
+    "output": 502
+  }
+}

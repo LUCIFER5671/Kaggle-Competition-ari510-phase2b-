@@ -1,0 +1,10 @@
+{
+  "concern": "The parent is alarmed and unsure how to respond after their overtired daughter screamed that she hated her grandma and wanted to kill herself, and wonders whether the new baby is contributing.",
+  "first_advice": "\"Do you know or can you find out what the grandma and your daughter were doing\" (exploratory direction), followed by \"ask your daughter directly why she wants to kill herself\"",
+  "acknowledged_before_advice": "Only \"You wrote a very full family context w many directions to examine,\" which comments on the message's content. It does not reflect, validate or empathize with the parent's worry or alarm.",
+  "label": "premature",
+  "_usage": {
+    "input": 1410,
+    "output": 321
+  }
+}

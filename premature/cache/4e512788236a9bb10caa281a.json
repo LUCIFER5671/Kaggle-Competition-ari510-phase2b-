@@ -1,0 +1,10 @@
+{
+  "concern": "She feels devastated that her husband is seeing someone else after she shut down and asked for a divorce because of her medical loss of sex drive. She is distressed that he doubts her sincerity in wanting to reconcile.",
+  "first_advice": "\"First of all, it is of vital importance that you discuss your symptoms with your doctor\"",
+  "acknowledged_before_advice": "\"I'm sorry to hear about your current situation. My heart goes out to you during this time.\" This is brief, but it is an expression of sympathy and empathy for her distress before any advice.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1545,
+    "output": 348
+  }
+}

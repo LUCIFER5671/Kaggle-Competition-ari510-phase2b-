@@ -1,0 +1,10 @@
+{
+  "concern": "Lifelong, severe panic attacks when driving or riding in a car, which make the person miss time with friends and family. Their family dismisses the panic as fake, leaving them guilty, depressed and hopeless. They feel meaningless and at times would 'rather never wake up anymore.'",
+  "first_advice": "\"Maybe being and feeling accepted while you're in this current phase of your life, would help diminish the panic attacks\" \u2014 followed by \"a next step would be to evaluate the relationships in your life...\"",
+  "acknowledged_before_advice": "Only the opening line, \"Not having support from your family for such a significant problem, is a problem itself,\" which briefly notes the lack of family support. Nothing before the advice acknowledges the terror of the panic attacks, their guilt, depression, hopelessness, loss of the happy person they were, or their wish to never wake up.",
+  "label": "premature",
+  "_usage": {
+    "input": 1256,
+    "output": 455
+  }
+}

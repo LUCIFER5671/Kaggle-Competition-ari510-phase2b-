@@ -1,0 +1,10 @@
+{
+  "concern": "She is worried and uncertain about whether she did something wrong by spending the weekend with an ex who is now a friend, which upset her boyfriend.",
+  "first_advice": "It is important to follow the rules of your relationship",
+  "acknowledged_before_advice": "\"This can be a very complicated situation.\" This is brief, but it validates that her dilemma is difficult before the reply moves into guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5829,
+    "output": 360
+  }
+}

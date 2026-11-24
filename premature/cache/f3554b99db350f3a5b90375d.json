@@ -1,0 +1,10 @@
+{
+  "concern": "Distress after enduring mental and verbal abuse from her ex-fianc\u00e9 and filing a restraining order (served last night), plus physical sickness when standing that she suspects is her nerves.",
+  "first_advice": "\"you may want to visit your primary care provider\"",
+  "acknowledged_before_advice": "It affirms that her symptoms may well be nerves or anxiety and calls this 'totally normal and understandable given your circumstances.' It also normalizes her rocking as a common way people comfort themselves in times of high stress. These are brief but genuine validations, although the abuse itself is not named directly.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 982,
+    "output": 473
+  }
+}

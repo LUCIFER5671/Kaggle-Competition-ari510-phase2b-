@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and feeling disrespected that her child's father received inappropriate content and got angry rather than asking his co-worker to stop, despite agreeing to respect her beliefs.",
+  "first_advice": "\"In my book, this is a boundary issue... it is not up to you what your child's father looks at\"",
+  "acknowledged_before_advice": "Nothing meaningful. The reply opens directly with a judgment reframing the issue. The only partial nod, \"It is really hard not to monitor other people's lives,\" comes after the directive and is itself framed as a correction rather than validation of her hurt or feelings.",
+  "label": "premature",
+  "_usage": {
+    "input": 728,
+    "output": 209
+  }
+}

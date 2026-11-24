@@ -1,0 +1,10 @@
+{
+  "concern": "Living with a lifelong illness, feeling hopeless that life will never improve, and feeling alone with no one to turn to.",
+  "first_advice": "\"Is it possible that even though your illness is chronic, that it goes through phases...\" opens the reply by pushing a cognitive reframe.",
+  "acknowledged_before_advice": "Nothing. The brief validation (\"frustrating and can be depressing to think about\") only comes after the opening reframe, and the loneliness is never acknowledged.",
+  "label": "premature",
+  "_usage": {
+    "input": 829,
+    "output": 290
+  }
+}

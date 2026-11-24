@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling drained, loss of spirit and self-belief, self-pity, loneliness after leaving an abusive marriage, and financial struggles with no help from the ex.",
+  "first_advice": "Be kind and caring toward who you are",
+  "acknowledged_before_advice": "Congratulates her on leaving, normalizes her feelings ('It is ok and natural to feel sadness, loss, uncertainty in direction, hurt...') and reframes her 'pity' as a combination of these feelings.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1446,
+    "output": 179
+  }
+}

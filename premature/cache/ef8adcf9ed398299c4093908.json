@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling invalidated, pressured, and worthless because their dad and family dismiss their anxieties and opinions; worsening anxiety, body image issues, and paranoia.",
+  "first_advice": "I would recommend talking with another adult such as a school counselor",
+  "acknowledged_before_advice": "\"I'm sorry to hear that you are unable to get through to your parents. It sounds like you are experiencing a great deal of anxiety...\" This expresses empathy and reflects the person's distress before any advice is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6189,
+    "output": 185
+  }
+}

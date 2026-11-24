@@ -1,0 +1,10 @@
+{
+  "concern": "Conflicted feelings about whether to tell his estranged wife about a new baby with another woman, and difficulty breaking up because he still loves his wife.",
+  "first_advice": "My answer is yes, you should tell her",
+  "acknowledged_before_advice": "Nothing; the reply opens directly with the recommendation and never addresses his emotional conflict or love for his wife.",
+  "label": "premature",
+  "_usage": {
+    "input": 812,
+    "output": 133
+  }
+}

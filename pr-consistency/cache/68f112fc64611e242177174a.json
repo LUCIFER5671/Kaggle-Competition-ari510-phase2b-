@@ -1,0 +1,16 @@
+{
+  "claimed_changes": [
+    "Create a FastSyncService trait and a FastSyncServiceImpl with a state machine (Ready \u2192 Running \u2192 Completed/Failed)",
+    "Add a FastSyncEvent enum with Completed(H256) and Error(String)",
+    "Replace the boolean fast_sync flag in Service with Option<Box<dyn FastSyncService>>",
+    "Integrate fast sync into the main event loop via tokio::select! and add an Event::FastSync variant",
+    "Add tests for service creation and error handling"
+  ],
+  "observed_changes": "fast_sync.rs gains the FastSyncEvent enum, the FastSyncService trait (Stream + FusedStream), the FastSyncState state machine and FastSyncServiceImpl, which wraps the existing sync logic. lib.rs re-exports these types, adds Event::FastSync, and changes the `fast_sync: bool` field to `Option<Box<dyn FastSyncService>>`; the visible part also makes the observer and blob_loader bindings mutable, and the event-loop integration is likely in the truncated rest. tests/utils/events.rs adds the matching TestingEvent::FastSync variant.",
+  "reason": "The visible diff matches the description: the hardcoded fast sync is extracted into a separate service struct and trait and wired into Service as an optional component. All three touched files fit the described changes. The claimed tests may sit in the truncated part of fast_sync.rs, and nothing visible contradicts the description.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 29513,
+    "output": 658
+  }
+}

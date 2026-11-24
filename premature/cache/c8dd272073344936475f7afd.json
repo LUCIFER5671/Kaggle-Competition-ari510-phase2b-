@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels frustrated and dismissed by her husband: he keeps doing things she has said she dislikes, denies it when she raises it, and only criticizes her in retaliation after she points something out about him.",
+  "first_advice": "\"It would probably be helpful for you both to work on communicating using 'I' statements\"",
+  "acknowledged_before_advice": "Only a brief, problem-focused summary (\"there are issues with communication\" and \"perceptions... don't sound like they match up\"). It reframes the situation as a mutual communication problem without naming or validating her frustration, hurt or sense of being dismissed.",
+  "label": "premature",
+  "_usage": {
+    "input": 756,
+    "output": 311
+  }
+}

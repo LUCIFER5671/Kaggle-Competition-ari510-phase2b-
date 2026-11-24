@@ -1,0 +1,10 @@
+{
+  "concern": "He is upset and worried after learning his fianc\u00e9e cheated. He wants to forgive her and move forward, but he finds it unsettling and can't stop picturing her with another man.",
+  "first_advice": "\"But you can look at this as a vital and important piece of information\" (the opening question about whether he has talked with her is exploratory rather than directive)",
+  "acknowledged_before_advice": "\"I know this can be so painful. It can also be frightening to bring up the experience when it hurts a lot, when you feel so unsettled as you mention.\" This names and validates his pain and unsettled feelings.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6316,
+    "output": 408
+  }
+}

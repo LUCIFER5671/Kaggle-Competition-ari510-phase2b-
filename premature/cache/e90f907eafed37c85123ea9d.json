@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels confused about what is real, feels at times that everyone is lying, and worries that God might be one of those lies. They also worry the question is stupid.",
+  "first_advice": "\"let me begin with the premise that you will never have absolute proof... one can look at different phenomena in nature and history\"",
+  "acknowledged_before_advice": "Only \"It is not a stupid question, it is very basic,\" which reassures them about the question itself. Nothing reflects or validates the distress of not knowing what's real or feeling that everyone is lying.",
+  "label": "premature",
+  "_usage": {
+    "input": 1215,
+    "output": 326
+  }
+}

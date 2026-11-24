@@ -1,0 +1,10 @@
+{
+  "concern": "Grief over grandmother's death, loss of home and job, struggling to find work, and coping through binge watching TV and binge eating.",
+  "first_advice": "I wonder what you can do right now to improve your situation?",
+  "acknowledged_before_advice": "\"Wow, you got hit with some serious stuff all at once... to lose all that at once has got to affect you.\" The reply also notes that grief and self-blame are a recipe for feeling awful, and it normalizes turning to food and TV as a way to check out.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6002,
+    "output": 182
+  }
+}

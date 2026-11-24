@@ -1,0 +1,11 @@
+{
+  "requests": [
+    "Whether the sub-panel branch circuit wires can be run back to the main panel and spliced there to the existing branch circuit wires using properly rated terminal blocks (rather than wire nuts or WAGOs), so the existing circuits need not be relocated"
+  ],
+  "reason": "The reply directly answers the single yes/no question: yes, it is generally allowed if the splices are inside the panel and all parts are listed and rated for the conductors. That condition covers the terminal-block method. The hope of avoiding drywall work is a preference that the yes answer satisfies. No separate explanation was requested.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 12617,
+    "output": 357
+  }
+}

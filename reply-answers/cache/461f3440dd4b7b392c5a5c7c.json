@@ -1,0 +1,14 @@
+{
+  "requests": [
+    "Whether the SER feeder cable can be run through the 1-1/4\" conduit and stay code compliant.",
+    "Whether the SER cable needs to be clamped, given the conduit is much larger than the cable.",
+    "Whether individual 14 AWG wires can be run through the conduit to relocate existing 15 A circuits.",
+    "Whether WAGO inline connectors can be used to extend those circuit wires."
+  ],
+  "reason": "The reply says the feeder cable had to be upsized to 1/1/1/2 SER, but it never says whether SER cable may run through the conduit or whether it needs clamping. On the circuit extensions, it says THHN wire is required through the nipple rather than stripped Romex conductors, but it does not address the WAGO inline connectors.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 1012,
+    "output": 415
+  }
+}

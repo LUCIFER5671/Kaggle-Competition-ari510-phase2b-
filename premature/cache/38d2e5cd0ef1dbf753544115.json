@@ -1,0 +1,10 @@
+{
+  "concern": "Hurt, jealousy and insecurity over her boyfriend's very close, couple-like friendship with another woman, made worse after meeting her, while feeling stuck because leaving isn't an option.",
+  "first_advice": "\"Directly telling him your discomfort with how close the two are...\"",
+  "acknowledged_before_advice": "The reply opens with \"as hurtful as witnessing your boyfriend's closeness with his female friend,\" which names the hurt and reflects the painful experience before any guidance is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1441,
+    "output": 185
+  }
+}

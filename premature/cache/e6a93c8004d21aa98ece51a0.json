@@ -1,0 +1,10 @@
+{
+  "concern": "She feels hurt and betrayed by her husband's repeated lying and hidden drinking, values honesty, and is unsure whether she is overreacting.",
+  "first_advice": "\"if you try to manage that by monitoring how many beers he has, you are pretty certain to get some fallout\"",
+  "acknowledged_before_advice": "The reply first reflects her experience: \"your husband is giving you mixed messages\" by agreeing to cut back while drinking and hiding it. It validates that his behavior is \"passive aggressive and immature\" and that it unfairly puts her in the position of a disapproving parent. It also explores what his lying may mean. This brief validation suggests she is not simply overreacting.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6936,
+    "output": 584
+  }
+}

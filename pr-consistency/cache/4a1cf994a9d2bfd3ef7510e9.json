@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Create wifi_helper module",
+    "Move wifi functionality out of interact.cpp",
+    "Include wifi_helper where required"
+  ],
+  "observed_changes": "Adds wifi_helper.h/.cpp holding wifiReconnectTimer, wifiClient, wifiStatus, connectToWifi and WiFiEvent. These were moved out of interact.h/.cpp with identical bodies. interact.cpp and oled_display.cpp now include wifi_helper.h.",
+  "reason": "The diff matches the description: a move of the WiFi routines into a new module, plus the include updates. No logic changes or undisclosed files are shown.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3733,
+    "output": 225
+  }
+}

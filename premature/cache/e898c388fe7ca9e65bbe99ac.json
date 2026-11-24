@@ -1,0 +1,10 @@
+{
+  "concern": "The person is feeling stressed and wants help knowing how to cope with it.",
+  "first_advice": "\"There are the outward answers of self-pampering and making your home and work environment as pleasant as possible.\"",
+  "acknowledged_before_advice": "Only the generic opener \"Something different works for each of us,\" which comments on coping strategies rather than acknowledging or validating the person's experience of stress.",
+  "label": "premature",
+  "_usage": {
+    "input": 798,
+    "output": 142
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "She is struggling to get over unrequited romantic feelings for a close friend and coworker three months after they made out. She keeps fantasizing and feeling hope because of his touching and glances, while trying hard to keep the friendship he wants.",
+  "first_advice": "\"If you want to maintain your friendship and continue to have regular contact with him, getting over him may not be possible\" \u2014 an evaluative judgment leading into \"cutting contact or setting strict boundaries may be necessary\"",
+  "acknowledged_before_advice": "Only \"It sounds like a tricky situation,\" which describes the situation rather than reflecting her feelings of longing, hurt, or struggle. The later note that his touching may be misleading is framed as analysis toward the solution, not as empathy for her emotional pain.",
+  "label": "premature",
+  "_usage": {
+    "input": 1685,
+    "output": 690
+  }
+}

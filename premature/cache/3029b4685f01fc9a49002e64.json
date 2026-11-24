@@ -1,0 +1,10 @@
+{
+  "concern": "She is being verbally and emotionally abused by her husband, is exhausted from crying, feels guilty about lying, and is torn about whether to leave given their toddler.",
+  "first_advice": "\"I wonder if maybe the first step is for you to start seeing this decision as yours\"",
+  "acknowledged_before_advice": "Only a thanks for her honesty and an analytic restatement that she describes her husband as 'hurtful/abusive/controlling,' used to set up a challenge ('We?'). Her distress, exhaustion from crying, and fear are not acknowledged. The validating line 'The way your husband treats you is not your fault' comes after the first advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 1876,
+    "output": 596
+  }
+}

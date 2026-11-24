@@ -1,0 +1,11 @@
+{
+  "requests": [
+    "Whether filling the 5 cm service cavities with mineral wool would improve airborne sound insulation (speech, TV, household noise) compared to leaving them as air gaps"
+  ],
+  "reason": "The question asks one thing: whether mineral wool in the service cavities is better than leaving air gaps. The reply answers directly ('yes, it will improve sound insulation'), says why (it removes the resonator effect and damps sound), and adds installation tips. This covers the single request.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 3686,
+    "output": 169
+  }
+}

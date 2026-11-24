@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling deeply alone and misunderstood even though surrounded by people who say they're there for them but don't really listen or understand.",
+  "first_advice": "We feel alone because we are not comfortable with being our self.",
+  "acknowledged_before_advice": "Nothing. The reply opens by diagnosing the cause of the loneliness and then directs the person to 'take the journey to really understand who you are.' It never reflects or validates the hurt of feeling unheard by others, and 'Your never alone' dismisses the feeling rather than acknowledging it.",
+  "label": "premature",
+  "_usage": {
+    "input": 1251,
+    "output": 190
+  }
+}

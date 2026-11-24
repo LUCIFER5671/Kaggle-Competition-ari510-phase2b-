@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling worn out, never good enough despite giving 100%, and hopeless that nothing changes.",
+  "first_advice": "\"usually stems from our early relationship with our parents\" (a causal diagnosis), followed by \"you'll need to work on discovering the root source\"",
+  "acknowledged_before_advice": "Nothing meaningful. The reply only names 'the feeling of never feeling good enough' as the subject of an explanation, with no empathy, validation or reflection of the person's exhaustion and hopelessness.",
+  "label": "premature",
+  "_usage": {
+    "input": 1353,
+    "output": 304
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Distress and worry over a brother with paranoid schizophrenia who is off medication, using meth and alcohol, and was found sleeping naked in freezing weather, with little family support after the adoptive father's death.",
+  "first_advice": "\"you might be able to get you brother some mental health help... You can always call 911\"",
+  "acknowledged_before_advice": "\"Thanks for asking this question. I know it can be really difficult to deal with issues like this.\" This briefly empathizes with how hard the situation is before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6097,
+    "output": 186
+  }
+}

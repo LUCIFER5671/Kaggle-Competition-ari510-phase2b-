@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Refactor LeafletMap component to use new composables",
+    "Add useLeafletMap, useMapMarkers, and useMapPaths composables"
+  ],
+  "observed_changes": "map.vue drops its inline map setup, the iconPath and buildZigzagPath functions, and the polyline drawing. That logic moves into three new composables: useLeafletMap (map plus tile layer initialization), useMapMarkers (iconPath plus marker creation and click handling), and useMapPaths (buildZigzagPath plus a two-polyline border drawing helper). map.vue now imports and uses them.",
+  "reason": "The diff matches the description: map logic is extracted from the component into the three named composables, and no unrelated changes are visible.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3278,
+    "output": 253
+  }
+}

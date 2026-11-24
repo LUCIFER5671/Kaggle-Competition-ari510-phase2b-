@@ -1,0 +1,11 @@
+{
+  "requests": [
+    "Determine whether there is a setting or something that needs to be changed on the new Pfister Masey LF-048-MC faucet to fix the cold side initially delivering hot or warm water."
+  ],
+  "reason": "The reply offers a plausible cause: hot and cold supply lines running close together, with the hot line probably uninsulated. This loosely implies insulating the line as a fix. It never says whether the faucet has a setting to change, or that the faucet is not the cause, so the explicit question is only indirectly addressed. There is some uncertainty, since the cause could be read as an implicit 'no setting' answer.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 12578,
+    "output": 455
+  }
+}

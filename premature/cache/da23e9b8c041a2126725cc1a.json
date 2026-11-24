@@ -1,0 +1,10 @@
+{
+  "concern": "A persistent, anxiety-provoking urge to throw away belongings that keeps them from sleeping and that they don't understand, now returning after years.",
+  "first_advice": "\"Play in your mind with the metaphor of 'throwing away'\" (preceded by an interpretive suggestion connecting the urge to the parents)",
+  "acknowledged_before_advice": "Nothing validates the anxiety, the lost sleep or the confusion. The opening sentence only references the change in living situation, framed as an interpretive hypothesis.",
+  "label": "premature",
+  "_usage": {
+    "input": 968,
+    "output": 280
+  }
+}

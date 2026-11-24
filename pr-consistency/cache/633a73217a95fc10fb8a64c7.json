@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Extract movement and animation helpers from Game into new classes",
+    "Document the new helper classes"
+  ],
+  "observed_changes": "Adds EntityAnimationHandler (facing and animation logic) and EntityMovementHandler (movement logic) classes that delegate to a Game reference. Removes about 300 lines of these methods from Game.java and wires in the new handlers. Adds markdown docs for both classes and updates the Game docs and the index.",
+  "reason": "This is an Extract Class refactoring of the movement and animation methods, plus the documentation updates. Both match the description.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3553,
+    "output": 204
+  }
+}

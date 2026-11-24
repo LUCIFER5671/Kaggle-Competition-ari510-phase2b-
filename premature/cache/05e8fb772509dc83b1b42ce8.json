@@ -1,0 +1,10 @@
+{
+  "concern": "She is distressed that her partner keeps getting depressed over how the divorce affects his kids and over his ex using the kids against him, and she feels so discouraged that she wants to tell him to go back to his family and forget about her.",
+  "first_advice": "\"Hold on, Sanger! ... I don't think so.\" This immediately rejects her impulse, followed by directives like \"Accept the powerlessness. Lean into it.\"",
+  "acknowledged_before_advice": "Only a brief normalizing remark that many people are sick of what their ex puts them through and wonder whether to go back. It does not acknowledge her own hurt, frustration, or her feeling of wanting to step aside. The reply opens by contradicting her and then focuses entirely on the partner.",
+  "label": "premature",
+  "_usage": {
+    "input": 1151,
+    "output": 446
+  }
+}

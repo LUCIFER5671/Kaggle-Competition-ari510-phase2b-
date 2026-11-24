@@ -1,0 +1,10 @@
+{
+  "concern": "She wants to end a hurtful on-and-off relationship with a man going through a difficult divorce but feels unable to let go.",
+  "first_advice": "\"letting go\" is not really a thing... It's more of a process",
+  "acknowledged_before_advice": "\"Boy, ending relationships is tough, isn't it? Sometimes it's tough even when we are 100% sure that it is the right thing to do!\" This normalizes and validates how hard it is to let go.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6416,
+    "output": 167
+  }
+}

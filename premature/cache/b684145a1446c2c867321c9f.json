@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling overwhelmed by many issues (sexual abuse history, cancer survivorship, insomnia, depression, anxiety, low self-esteem) and worrying they have too many to address in counseling.",
+  "first_advice": "\"I would encourage you to take the next step and reach out to a professional\"",
+  "acknowledged_before_advice": "The reply opens by directly addressing the worry and normalizing it: \"there are never too many concerns that you can bring into counselling\" and \"most people who come to see me... have more than one issue... and most times these are all interconnected.\"",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1586,
+    "output": 309
+  }
+}

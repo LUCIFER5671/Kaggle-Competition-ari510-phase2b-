@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Bring in-memory list of puntos limpios into React app",
+    "Create PuntosContext for client-side management",
+    "Wrap routes in App with PuntosProvider",
+    "Refactor MapaPuntos and RegisterRecyclePage to use the context"
+  ],
+  "observed_changes": "Adds PuntosContext.js holding a hardcoded initial list of points plus add, update and delete functions. Wraps the App routes with PuntosProvider. Removes the /api/puntos fetch calls from MapaPuntos and RegisterRecyclePage and replaces them with usePuntos. MapaPuntos's API-based create, update and delete calls now go to the context functions.",
+  "reason": "The description matches the diff. It says the data is moved to the frontend, a context is created, App is wrapped, and the two pages are refactored. All four changed files appear in the diff and do these things.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 3611,
+    "output": 297
+  }
+}

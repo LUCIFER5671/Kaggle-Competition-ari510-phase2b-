@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Isolate core futarchy contracts in src/core",
+    "Update imports in scripts and tests",
+    "Keep oracle test helper script in sync",
+    "Adjust README path for new contract location"
+  ],
+  "observed_changes": "Five Solidity contract files are renamed/relocated from src/FAO and src/gnosis into src/core with no content changes other than relative import path fixes. Imports in the deploy script and tests, the grep path in verify_random_failure.sh, and one README line are updated to match.",
+  "reason": "The description matches the diff, but the change is purely a directory reorganization: whole files are relocated and paths updated. No code-level Extract/Move refactoring is performed, which matches the dataset's precedent for file-relocation PRs such as the Lua core-to-modules move.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 29195,
+    "output": 449
+  }
+}

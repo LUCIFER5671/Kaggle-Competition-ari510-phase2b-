@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Add a `create_app` factory in app_factory.py to centralize FastAPI setup",
+    "Reduce `main.py` to simple application instantiation"
+  ],
+  "observed_changes": "A new 431-line backend/app_factory.py holds the logging config, lifespan, CORS, middleware and MCP setup. However, backend/main.py (+158 -199) is not reduced to a simple instantiation. It still imports FastAPI, CORSMiddleware, the SQLAlchemy Session, asynccontextmanager, get_db/Base/engine, init_middleware, models, the schema preloads and the optional FastApiMCP, and it still defines its own log_config dictionary. Much of the setup appears to be duplicated or rewritten in main.py rather than moved, and the logging formatters were also altered.",
+  "reason": "The extraction did happen, but the description's claim that main.py becomes a simple app instantiation is contradicted by the diff. main.py keeps a large rewritten body with the logging config and setup imports, so the description misrepresents the changes.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 28028,
+    "output": 520
+  }
+}

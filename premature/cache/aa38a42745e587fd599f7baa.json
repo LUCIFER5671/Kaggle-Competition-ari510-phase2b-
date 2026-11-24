@@ -1,0 +1,10 @@
+{
+  "concern": "Hurt and insecurity about her boyfriend's very close, couple-like relationship with a female friend, which felt even worse after meeting her, combined with feeling stuck because leaving isn't an option.",
+  "first_advice": "\"There isn't anything you can directly do to stop his relationship\" followed by \"Directly telling him your discomfort...\"",
+  "acknowledged_before_advice": "The opening names her pain (\"as hurtful as witnessing your boyfriend's closeness with his female friend\") and affirms her experience (\"I'm glad you saw firsthand the dynamic of your concern\"). It is brief, but it does acknowledge the hurt before any guidance.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 972,
+    "output": 438
+  }
+}

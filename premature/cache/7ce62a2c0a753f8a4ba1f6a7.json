@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling born in the wrong body and wanting to be a girl, distress about their reflection, fear of an unsupportive family that is against transgender people, and anxiety about taking unprescribed substances.",
+  "first_advice": "\"Do you have any opportunity to work with a therapist?\"",
+  "acknowledged_before_advice": "Only a greeting (\"Hi.\"). Nothing names, reflects, or validates their feelings of gender dysphoria, the family rejection, or the distress before the therapist suggestion.",
+  "label": "premature",
+  "_usage": {
+    "input": 1316,
+    "output": 182
+  }
+}

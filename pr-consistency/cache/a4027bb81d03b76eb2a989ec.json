@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Extract handler invocation and error handling from getValidActions into a new private #processActionDefinition method",
+    "Add tests covering the helper's error cases and default handling"
+  ],
+  "observed_changes": "Adds a private #processActionDefinition method that picks the domain handler (falling back to #discoverScopedEntityActions), calls it, and on error dispatches via safeDispatchError and returns []. The file shows +53 -23, so the inline code was removed from getValidActions. Adds a new unit test file for the helper.",
+  "reason": "The diff matches the description. A helper is extracted with the try/catch handler logic, and the deletions show the original code in getValidActions was replaced. Tests were added as claimed.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 2475,
+    "output": 249
+  }
+}

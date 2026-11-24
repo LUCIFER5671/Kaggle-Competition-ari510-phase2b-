@@ -1,0 +1,10 @@
+{
+  "concern": "Worry about his girlfriend's depression after quitting drinking and fear of losing her because she wants to move; he wants to help and wants her to stay.",
+  "first_advice": "Tough love and clear boundaries are needed... / \"Don't pressure her to stay.\"",
+  "acknowledged_before_advice": "Nothing validating; the reply opens by challenging him (\"You're probably not going to like my answer... says a lot about what YOU want\") and lectures about enabling without acknowledging his worry or fear of loss.",
+  "label": "premature",
+  "_usage": {
+    "input": 6314,
+    "output": 182
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "A teenage girl feels uneasy and unsure about her stepdad's behavior: hitting her butt, commenting on her outfits, and scanning her head to toe. She is asking whether this is normal.",
+  "first_advice": "\"Do you think he would be open to an honest discussion?\" This implicitly directs her to confront him, and the reply later explicitly says \"talking about it is probably very important.\"",
+  "acknowledged_before_advice": "Only \"It's hard to tell from the way you described it.\" This addresses how ambiguous the situation is, not her discomfort or worry, so it does not validate her feelings. The reply also offers benign explanations for the stepdad's behavior instead of acknowledging her concern.",
+  "label": "premature",
+  "_usage": {
+    "input": 1291,
+    "output": 246
+  }
+}

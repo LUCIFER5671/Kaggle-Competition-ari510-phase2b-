@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels they shouldn't be here, sometimes wishes an accident would end their life, finds life a chore, and wonders whether this is normal or a sign of something.",
+  "first_advice": "\"The real way you'll find out what this feeling is about is to ask yourself your own question.\"",
+  "acknowledged_before_advice": "The opening line, \"Sounds like a sign of great unhappiness, or sadness, or insecurity,\" names and reflects the person's emotional state before any guidance is given. It is brief but adequate.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1317,
+    "output": 377
+  }
+}

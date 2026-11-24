@@ -1,0 +1,10 @@
+{
+  "concern": "She was hurt by her husband's verbally abusive words, moved out, and is unsure whether she can trust that he won't return to his old ways if she gives him another chance.",
+  "first_advice": "\"However remember that a person can only do to you what you allow them to do\"",
+  "acknowledged_before_advice": "Almost nothing. The reply opens by praising the husband for seeing a counselor and saying \"Time will tell if his actions are of good intentions,\" which loosely touches on the trust question. It never recognizes the hurt she suffered or her fear and uncertainty before moving into guidance and questions about her own role.",
+  "label": "premature",
+  "_usage": {
+    "input": 937,
+    "output": 210
+  }
+}

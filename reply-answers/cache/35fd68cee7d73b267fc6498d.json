@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Technique to re-stick plasterboard to brickwork",
+    "Constraint: without removing the board (avoid complete removal and replacement)"
+  ],
+  "reason": "The reply gives a method that leaves the board in place: drill small holes, pour adhesive in so it trickles down, then press the plaster back with planks wedged against the opposite wall. It addresses both the request for a technique and the no-removal constraint. The anecdotal framing does not reduce coverage. There is slight uncertainty because the reply describes horsehair plaster rather than plasterboard, but the method is offered as applicable.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 3451,
+    "output": 205
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "claimed_changes": [
+    "Return ApiResult<T> directly from application services",
+    "Simplify API controllers by delegating business result codes to services"
+  ],
+  "observed_changes": "Controllers no longer wrap service results in ApiResult themselves; they just return the service call. Services (Bet, Claim, Prediction, Round) and their interfaces now return ApiResult<T>, with the SetRsult logic moved into the service methods (e.g., ErrorParams on failure paths).",
+  "reason": "The diff matches the description: the ApiResult construction logic moves from the controllers into the services, and the interfaces are updated to match. It is a move-method style refactoring, and nothing in the visible diff goes unmentioned.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28535,
+    "output": 240
+  }
+}

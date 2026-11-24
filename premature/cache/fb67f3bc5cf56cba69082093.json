@@ -1,0 +1,10 @@
+{
+  "concern": "Distress over suppressed romantic feelings for a coworker/boss, uncertainty about her feelings, and jealousy that she may be dating a colleague \u2014 'it's driving me crazy.'",
+  "first_advice": "\"Perhaps you should check your employee handbook.\"",
+  "acknowledged_before_advice": "Only a generic remark that 'Human attractions can be tricky things,' followed by an explanation of workplace power dynamics. Nothing names or validates the person's distress, longing, or jealousy before the advice.",
+  "label": "premature",
+  "_usage": {
+    "input": 6005,
+    "output": 184
+  }
+}

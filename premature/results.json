@@ -1,0 +1,86 @@
+{
+  "run1": {
+    "val": {
+      "macro_f1": 0.6914,
+      "accuracy": 0.7,
+      "n": 30
+    },
+    "cv5": {
+      "macro_f1": 0.5934,
+      "accuracy": 0.6333,
+      "n": 150
+    },
+    "settings": {
+      "model": "tfidf(1-2gram, response)+logreg",
+      "C": 1.0
+    }
+  },
+  "run2": {
+    "val": {
+      "macro_f1": 0.5543,
+      "accuracy": 0.5667,
+      "n": 30
+    },
+    "cv5": {
+      "macro_f1": 0.5473,
+      "accuracy": 0.5667,
+      "n": 150
+    },
+    "settings": {
+      "model": "MiniLM-L6 [context, response opening, response, context*opening] + MLP",
+      "hidden": 64,
+      "epochs": 150,
+      "lr": 0.001,
+      "weight_decay": 0.01,
+      "dropout": 0.3
+    }
+  },
+  "run3": {
+    "val": {
+      "macro_f1": 0.6534,
+      "accuracy": 0.7,
+      "n": 30
+    },
+    "settings": {
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "few_shot": 0
+    },
+    "new_tokens_this_run": {
+      "input": 91453,
+      "output": 25558
+    }
+  },
+  "run4": {
+    "val": {
+      "macro_f1": 0.8316,
+      "accuracy": 0.8333,
+      "n": 30
+    },
+    "settings": {
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "few_shot": 0
+    },
+    "new_tokens_this_run": {
+      "input": 133663,
+      "output": 27733
+    }
+  },
+  "run5": {
+    "val": {
+      "macro_f1": 0.7333,
+      "accuracy": 0.7333,
+      "n": 30
+    },
+    "settings": {
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "few_shot": 12
+    },
+    "new_tokens_this_run": {
+      "input": 550813,
+      "output": 24163
+    }
+  }
+}

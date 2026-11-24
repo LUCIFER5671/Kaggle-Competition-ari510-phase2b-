@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Whether it is possible to use a 3300 PSI pressure washer with a soft-wash nozzle to apply the cleaner, with the cleaner introduced downstream through a dispenser rather than through the pump",
+    "Whether there is any reason not to use the pressure washer to apply the cleaner",
+    "What the preferred method of applying the cleaner is"
+  ],
+  "reason": "The reply says yes, the pressure washer can be used and the soap will work. It gives reasons not to use it: lifting wood fibers, soaking the wood so it needs days to dry, and the risk of being pushed off a ladder. It names a preferred method, a brush on a painter's extension pole. It does not discuss the downstream dispenser setup specifically, but its general yes covers whether the approach is possible, so all three questions are addressed.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 1148,
+    "output": 493
+  }
+}

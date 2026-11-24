@@ -1,0 +1,11 @@
+{
+  "requests": [
+    "Say whether filling the 5 cm service cavities between the OSB and drywall with mineral wool would improve airborne sound insulation (speech, TV, household noise), or whether leaving them as air gaps is better, for the described wall assembly."
+  ],
+  "reason": "The reply answers directly: filling the cavities will improve sound insulation, so mineral wool beats an air gap. It explains why (the air gaps currently resonate) and adds tips on installation and on measuring before doing the work. The single question is fully addressed.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 1145,
+    "output": 183
+  }
+}

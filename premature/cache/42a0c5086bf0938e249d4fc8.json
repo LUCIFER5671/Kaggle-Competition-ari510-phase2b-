@@ -1,0 +1,10 @@
+{
+  "concern": "The person is feeling stressed and wants help knowing how to deal with it.",
+  "first_advice": "\"There are the outward answers of self-pampering and making your home and work environment as pleasant as possible.\"",
+  "acknowledged_before_advice": "Only \"Something different works for each of us,\" which frames how varied the solutions are rather than reflecting, validating, or empathizing with the person's stress.",
+  "label": "premature",
+  "_usage": {
+    "input": 5902,
+    "output": 142
+  }
+}

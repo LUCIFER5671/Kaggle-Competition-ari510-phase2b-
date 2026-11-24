@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Technique to re-stick plasterboard to brick",
+    "Without removing the board"
+  ],
+  "reason": "The reply gives a technique that leaves the board in place: drill small holes, pour adhesive in, then brace the board back against the wall with planks wedged against the opposite wall. This covers the request and the no-removal constraint.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 9535,
+    "output": 119
+  }
+}

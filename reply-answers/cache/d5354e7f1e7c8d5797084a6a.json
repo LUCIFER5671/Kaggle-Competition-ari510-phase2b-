@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain how to troubleshoot the loss of power to the affected outlets.",
+    "Identify what or where the fault could be, given that feeding the outlets from a new standalone circuit restored power to all of them."
+  ],
+  "reason": "The reply gives one troubleshooting method: de-energize the circuit, then use a multimeter to check continuity between wire endpoints so the wiring can be connected properly. That partly covers how to troubleshoot. It never suggests what or where the fault might be, such as a break or loose connection in a particular part of the original feed, even though the new-circuit result was the author's central question. The video link and the image placeholder were not used; the text alone was enough to judge coverage.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 3759,
+    "output": 356
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Frustration and difficulty communicating with a stress-sensitive person who accuses them of harmful, negative communication, which becomes a self-fulfilling prophecy.",
+  "first_advice": "\"it is usually best to introduce the topic at a neutral time\"",
+  "acknowledged_before_advice": "Nothing; the reply opens directly with communication advice and never names or validates the person's frustration.",
+  "label": "premature",
+  "_usage": {
+    "input": 6145,
+    "output": 142
+  }
+}

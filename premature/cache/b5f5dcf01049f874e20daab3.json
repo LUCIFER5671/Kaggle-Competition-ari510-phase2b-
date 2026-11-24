@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels chronically unhappy and emotionally numb, pushes people away, is frustrated and sick of feeling this way, and wants answers because it is damaging their relationships.",
+  "first_advice": "\"Maybe you have depression.\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with a tentative diagnosis, and its only nod to the person's feelings ('the descriptions you wrote of how you feel') comes after that diagnosis. It never validates their frustration, pain or numbness.",
+  "label": "premature",
+  "_usage": {
+    "input": 842,
+    "output": 181
+  }
+}

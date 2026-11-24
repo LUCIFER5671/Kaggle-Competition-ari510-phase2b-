@@ -1,0 +1,10 @@
+{
+  "concern": "She was hurt by her husband's negative words, moved out, and now feels unsure and distrustful about whether he will really change if she gives him another chance.",
+  "first_advice": "\"However remember that a person can only do to you what you allow them to do\"",
+  "acknowledged_before_advice": "Only \"I am glad he is seeing a counselor\" and \"Time will tell if his actions are of good intentions.\" Both comment on the husband's efforts. Neither reflects or validates her hurt or her distrust.",
+  "label": "premature",
+  "_usage": {
+    "input": 6041,
+    "output": 320
+  }
+}

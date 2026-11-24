@@ -1,0 +1,10 @@
+{
+  "concern": "Guilt and depression after being pressured into a sexual encounter, and feeling something is wrong with her for being too afraid to say no.",
+  "first_advice": "\"A good therapist would help you to dig deep\"",
+  "acknowledged_before_advice": "The reply opens with extensive validation and normalization before any advice: \"There is nothing wrong with you. There are many good reasons why you didn't say no,\" an explanation of why she froze, and \"It wasn't your job to say no... He pressured you into it.\"",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6212,
+    "output": 184
+  }
+}

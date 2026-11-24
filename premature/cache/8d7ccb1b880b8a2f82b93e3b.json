@@ -1,0 +1,10 @@
+{
+  "concern": "She keeps getting hurt by a man she's been on and off with for nearly three years. She wants to end it but feels she can't, partly because he is going through a hard divorce, and asks how to let go.",
+  "first_advice": "\"letting go\" is not really a thing... It's more of a process",
+  "acknowledged_before_advice": "The reply opens by validating the difficulty: \"Boy, ending relationships is tough, isn't it? Sometimes it's tough even when we are 100% sure that it is the right thing to do!\" This directly normalizes her struggle to let go before any reframing or advice. It does not speak to her hurt specifically.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1312,
+    "output": 468
+  }
+}

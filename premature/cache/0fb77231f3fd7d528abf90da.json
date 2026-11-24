@@ -1,0 +1,10 @@
+{
+  "concern": "Guilt and anxiety about having had sex despite her Christian commitment to abstinence, and fear that this means her boyfriend, whom she loves and credits with helping her escape abusive relationships, isn't the one God planned for her.",
+  "first_advice": "\"Have a serious talk with your guy and get back on track\"",
+  "acknowledged_before_advice": "Only a judgment and brief reassurance: \"Having sex with your boyfriend is and was a mistake. Mistakes can be forgiven... But it is not the end of your relationship or God's will for you.\" This answers her question but does not validate her guilt, confusion, love for him, or her history of escaping abusive relationships.",
+  "label": "premature",
+  "_usage": {
+    "input": 955,
+    "output": 234
+  }
+}

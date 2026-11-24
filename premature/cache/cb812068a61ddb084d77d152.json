@@ -1,0 +1,10 @@
+{
+  "concern": "Feeling deeply alone and misunderstood despite being surrounded by people who say they are there for them but don't really listen or understand.",
+  "first_advice": "\"We feel alone because we are not comfortable with being our self.\" followed by \"Once you take the journey to really understand who you are...\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with an explanation/diagnosis of why the person feels alone and contradicts the feeling (\"Your never alone\") without reflecting or validating it.",
+  "label": "premature",
+  "_usage": {
+    "input": 5886,
+    "output": 179
+  }
+}

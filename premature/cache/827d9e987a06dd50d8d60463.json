@@ -1,0 +1,10 @@
+{
+  "concern": "She is confused and uncertain after kissing her close friend: she wants to be with him but isn't ready for a relationship, and worries he may never want more than friendship.",
+  "first_advice": "\"Stay focused on what you know about yourself\"",
+  "acknowledged_before_advice": "The reply normalizes the kiss as satisfying 'a very natural need' after both breakups and shows empathy with 'Suddenly being without a partner is difficult because a relationship absorbs and offers much of a person's energy.'",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1479,
+    "output": 381
+  }
+}

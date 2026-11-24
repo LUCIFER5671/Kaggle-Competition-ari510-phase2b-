@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Explain why the outlet is melting and glowing.",
+    "Explain why it glowed again with the breaker off when the roommate plugged a heater into an outlet on a supposedly different circuit.",
+    "Say whether only the outlet needs replacing or whether the wiring needs to be redone."
+  ],
+  "reason": "The reply lists several general causes of overheating (failed outlet, loose connections, damaged wire, worn insulation) and advises shutting off the breaker, inspecting, and calling an electrician or landlord. It never addresses the key clue: the outlet glowed again with its breaker off once the roommate's outlet on another circuit was loaded. That points to a shared neutral or miswiring, and the reply ignores it. It also never directly answers whether a new outlet will do or the wiring needs redoing; it only defers to an inspection.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 1096,
+    "output": 509
+  }
+}

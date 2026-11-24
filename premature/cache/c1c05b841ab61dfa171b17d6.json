@@ -1,0 +1,10 @@
+{
+  "concern": "She is frightened after her husband swore at and threatened her (seriously, not joking) when she defended their son from his harsh treatment.",
+  "first_advice": "\"If it does get out of hand, the police do need to be involved.\"",
+  "acknowledged_before_advice": "Only a vague remark, \"I have had these many cases,\" which doesn't recognize her fear, the threat she received, or her effort to protect her son.",
+  "label": "premature",
+  "_usage": {
+    "input": 778,
+    "output": 147
+  }
+}

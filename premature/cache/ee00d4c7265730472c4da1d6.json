@@ -1,0 +1,10 @@
+{
+  "concern": "Anxiety and panic attacks, a new OCD diagnosis, doubting her career and relationship, and an unexplained loss of comfort around her boyfriend since moving in together.",
+  "first_advice": "\"The good news about a relationship is that you can talk about matters with the other person. Doing so can only help clarify feelings...\"",
+  "acknowledged_before_advice": "Nothing. The reply opens with factual questions about the boyfriend's response, then moves straight to recommending a talk with him. Normalizing statements (\"it is natural for new dynamics... to arise\") and remarks about anxiety appear only after this guidance.",
+  "label": "premature",
+  "_usage": {
+    "input": 6182,
+    "output": 373
+  }
+}

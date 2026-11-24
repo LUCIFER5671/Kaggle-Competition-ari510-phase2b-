@@ -1,0 +1,10 @@
+{
+  "concern": "Living with a chronic illness that will never go away, hopelessness that life won't improve, and feeling alone with no one.",
+  "first_advice": "\"Is it possible that even though your illness is chronic, that it goes through phases...\": an opening reframing question that challenges the person's outlook. Explicit advice follows with \"be sure you are concentrating on specific areas of your life.\"",
+  "acknowledged_before_advice": "Nothing comes before the opening reframe. The reply only says the illness is \"frustrating and can be depressing to think about\" after first challenging the person's view, and it never addresses their loneliness or pain.",
+  "label": "premature",
+  "_usage": {
+    "input": 1298,
+    "output": 492
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "Worry about a friend who may have major depression, feels empty, and refuses to get help.",
+  "first_advice": "therapy may be beneficial for him in working through these difficult feelings",
+  "acknowledged_before_advice": "\"I can tell that you really care about your friend and I think it's great that you are reaching out with your concern\" recognizes and validates the person's worry and care before any guidance is given.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5945,
+    "output": 144
+  }
+}

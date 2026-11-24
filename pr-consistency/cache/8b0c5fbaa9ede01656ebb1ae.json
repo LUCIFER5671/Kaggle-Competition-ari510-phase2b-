@@ -1,0 +1,15 @@
+{
+  "claimed_changes": [
+    "Add dependency management docs",
+    "Enhance telemetry docs and relocate them",
+    "Add claude-worktree and claude-clone scripts",
+    "Update CLAUDE.md and scripts/README.md"
+  ],
+  "observed_changes": "Adds documentation and worktree scripts as described, but also adds devcontainer postCreate scripts (claude shortcuts, cleaner bash prompt, TikZ/image tool installation), restructures the CI workflow (merges jobs, switches to the ci extra and the uv.lock cache), and modifies the Makefile, pyproject.toml and uv.lock.",
+  "reason": "The PR copies new features, docs and tooling over from another repository. It is not an Extract/Move refactoring of code within the codebase; it is mostly new content plus configuration changes.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 4274,
+    "output": 276
+  }
+}

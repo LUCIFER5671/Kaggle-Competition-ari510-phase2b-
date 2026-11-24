@@ -1,0 +1,12 @@
+{
+  "claimed_changes": [
+    "Move core Lua files (to a different directory)"
+  ],
+  "observed_changes": "Renames 12 Lua files from core/ to modules/ with no content changes and updates the .toc load paths accordingly.",
+  "reason": "This is a file relocation (moving files between directories) with no code-level Extract/Move of methods, classes, or fields. Pure file moves are not Extract/Move refactorings in the code-element sense.",
+  "label": "Out of scope",
+  "_usage": {
+    "input": 1653,
+    "output": 154
+  }
+}

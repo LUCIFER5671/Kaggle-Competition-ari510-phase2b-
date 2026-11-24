@@ -1,0 +1,10 @@
+{
+  "concern": "The person is frightened by recurring scary thoughts that something bad will happen, which they feel unable to stop or get out of their head.",
+  "first_advice": "\"Get distance from your thoughts by adding 'I am noticing I'm having the thought that....'\"",
+  "acknowledged_before_advice": "The reply opens by normalizing the experience (\"having these thoughts is completely normal... you are not alone\"). Its tornado metaphor reflects how consuming and frightening the thoughts feel (\"you are completely consumed by it... it is still scary\"). It also frames the person's question empathically before giving steps. The validation leans on normalization and statistics rather than directly naming the person's fear, so this is a borderline case.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 1564,
+    "output": 592
+  }
+}

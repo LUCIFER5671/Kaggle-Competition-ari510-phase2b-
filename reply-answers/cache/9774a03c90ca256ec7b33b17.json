@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Explain how to connect the bathroom fan ductwork to the 4-inch roof vent, which has no nipple or collar to attach to.",
+    "Constraint: exhaust must not vent into the drywall or roof decking.",
+    "Constraint (preference): avoid replacing the vent, since the roof is standing seam."
+  ],
+  "reason": "The reply gives a method: use wire or strapping to hold the 4-inch duct level with the base of the vent cylinder so exhaust exits freely. It addresses the decking concern by saying very little moisture would reach the sheathing, and it keeps the existing vent. It also admits the setup probably isn't code compliant. That is a positioning method rather than a sealed connection, but it addresses every request and constraint, so it counts as full coverage. There is mild uncertainty about whether a loose-positioning approach counts as 'connecting'. The images were not reviewable, but the text alone is sufficient.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 3559,
+    "output": 697
+  }
+}

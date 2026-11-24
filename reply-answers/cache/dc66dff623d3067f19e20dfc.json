@@ -1,0 +1,13 @@
+{
+  "requests": [
+    "Explain how to connect the bathroom fan duct to an existing 4-inch roof vent cap that has no nipple or collar.",
+    "Avoid replacing the roof vent, because the roof is standing seam.",
+    "Make sure the exhaust does not vent into the drywall or roof decking."
+  ],
+  "reason": "The reply gives a concrete method that works with the existing cap: strap or wire the 4-inch duct end level with the base of the vent cylinder so the exhaust goes straight out. It also addresses the decking concern, arguing that little moisture will wrap back to the sheathing and that the attic ventilation handles the rest. It offers a positioned rather than sealed connection and admits this may not meet code, but that still answers the question.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 1018,
+    "output": 525
+  }
+}

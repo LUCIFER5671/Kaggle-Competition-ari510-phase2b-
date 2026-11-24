@@ -1,0 +1,10 @@
+{
+  "concern": "She feels she has lost her identity beyond being a mom and wife. She feels unhappy, trapped and guilty, and at times loathes herself despite having a life she sees as amazing.",
+  "first_advice": "\"Give yourself time to allow your interest to wander\"",
+  "acknowledged_before_advice": "The reply opens by validating and normalizing her feelings: \"Good for you on being sensitive to your human need for personal evolution,\" and \"other areas of who you are would like your attention.\" This frames her loss of identity as a natural human need for growth before any guidance. It does not directly address her self-loathing.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 5942,
+    "output": 438
+  }
+}

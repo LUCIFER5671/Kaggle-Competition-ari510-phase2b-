@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Create wifi_helper module",
+    "Move WiFi functionality out of interact.cpp",
+    "Include wifi_helper where required"
+  ],
+  "observed_changes": "Adds include/wifi_helper.h and src/wifi_helper.cpp containing connectToWifi, WiFiEvent and the WiFi globals (wifiReconnectTimer, wifiClient, wifiStatus). These are removed from interact.h and interact.cpp, and wifi_helper.h is included in interact.cpp and oled_display.cpp. The moved code looks unchanged.",
+  "reason": "The diff is a clean Move Method/Field refactoring, and the description accurately lists every change.",
+  "label": "Consistent",
+  "_usage": {
+    "input": 28683,
+    "output": 236
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Explain why the cold side of the new faucet runs warm or hot: the title says 'hot water coming out cold', but the body describes the cold side running hot.",
+    "Say whether there is a setting or adjustment on the new Pfister Masey LF-048-MC that needs to be changed."
+  ],
+  "reason": "The reply offers one plausible cause outside the faucet: the hot and cold supply lines run close together and the hot line is likely uninsulated. It never directly says whether the faucet has a setting to change. Because the cause is framed only as 'one possibility', the faucet question is answered at most by implication. Labelled partial, though one could argue the external cause implies no faucet setting is needed.",
+  "label": "Partially answered",
+  "_usage": {
+    "input": 3304,
+    "output": 565
+  }
+}

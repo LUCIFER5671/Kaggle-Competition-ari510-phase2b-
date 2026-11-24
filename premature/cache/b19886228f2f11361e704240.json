@@ -1,0 +1,10 @@
+{
+  "concern": "The person feels constantly in a bad mood with no energy and is worried it might be depression.",
+  "first_advice": "\"Depression has many different signs and symptoms...\" opens with diagnostic information and a DSM-V symptom list, followed by \"perhaps the best place to start is by seeing a physician or a therapist\".",
+  "acknowledged_before_advice": "Nothing. The reply opens straight into diagnostic information. It references \"bad mood as you say\" only as a clinical symptom and never names, validates or empathizes with how the person is feeling.",
+  "label": "premature",
+  "_usage": {
+    "input": 6062,
+    "output": 349
+  }
+}

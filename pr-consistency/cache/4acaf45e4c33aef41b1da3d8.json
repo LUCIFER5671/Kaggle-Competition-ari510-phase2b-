@@ -1,0 +1,14 @@
+{
+  "claimed_changes": [
+    "Move actor/critic config classes from verl/trainer/config to verl/workers/config",
+    "Update Python imports and YAML _target_ fields to new paths",
+    "Regenerate auto-generated trainer config files"
+  ],
+  "observed_changes": "The diff touches 103 files. Most of the visible ones are CI workflow files, Dockerfiles and docker READMEs. These change image tags (mcore0.12.1 -> mcore0.12.2-te2.2), fix a typo, and add a new E2E test step using an engine interface. None of these relate to moving config classes, and the description does not mention them. The diff looks like a merge of unrelated upstream changes alongside the refactoring.",
+  "reason": "The description covers only the config class move. A large number of the changed files are CI and Docker infrastructure changes, such as image version bumps and new test steps, that the description never mentions. Because it leaves out this major, unrelated work, it is inconsistent.",
+  "label": "Inconsistent",
+  "_usage": {
+    "input": 29121,
+    "output": 324
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "concern": "The person is worried about his fianc\u00e9e's severe anxiety, depression, and suicidality, and wants to help her without medication.",
+  "first_advice": "\"it is important that you understand that you, on your own, won't be able to resolve...\"",
+  "acknowledged_before_advice": "\"It sounds like you have been a positive support for your fiancee. There is no doubt that this situation is a great challenge for the both of you. While it may feel like you are responsible for her health and happiness...\" This validates his effort, the difficulty of the situation, and the burden he feels.",
+  "label": "acknowledges_first",
+  "_usage": {
+    "input": 6453,
+    "output": 195
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "requests": [
+    "Whether rockwool Conformboard panels, or other non-foam or natural alternatives, can be fixed under the rafters like the foam panel shown, moving the envelope up while keeping the roof vented.",
+    "Whether strapping can be used to secure those panels."
+  ],
+  "reason": "The reply directly answers the core question: yes, rigid or netted rockwool can go under the rafters, with an added vapor barrier if the space is to be conditioned or habitable. It also covers vapor-barrier placement, cost trade-offs, venting-gap options and the limits of natural vapor-barrier materials. It does not explicitly address strapping or name other natural insulation materials, but these are minor details within an otherwise affirmative and complete answer.",
+  "label": "Fully answered",
+  "_usage": {
+    "input": 1262,
+    "output": 509
+  }
+}
