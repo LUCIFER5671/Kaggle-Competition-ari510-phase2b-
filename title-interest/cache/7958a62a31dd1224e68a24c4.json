@@ -1,0 +1,8 @@
+{
+  "observations": "A standard local crime headline with a slight narrative hook (a stolen gun sale gone deadly), but it's routine local news from a regional station with little curiosity gap or broader relevance.",
+  "score": 2.6,
+  "_usage": {
+    "input": 590,
+    "output": 74
+  }
+}

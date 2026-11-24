@@ -1,0 +1,8 @@
+{
+  "observations": "A local news headline about a hiking death; it carries some human-interest and tragedy appeal, but it is regional, offers no curiosity hook, and reads as routine news.",
+  "score": 2.4,
+  "_usage": {
+    "input": 588,
+    "output": 68
+  }
+}

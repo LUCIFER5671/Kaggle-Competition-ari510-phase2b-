@@ -1,0 +1,8 @@
+{
+  "observations": "A local crime news headline from a student newspaper: serious and somewhat attention-grabbing, but routine in format and mainly of regional relevance, with no curiosity gap.",
+  "score": 2.9,
+  "_usage": {
+    "input": 590,
+    "output": 70
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "run1": {
+    "mae_single": 1.4607,
+    "spearman": 0.0785,
+    "const_mae": 1.4846,
+    "settings": {
+      "model": "tfidf word(1-2)+char(2-4) + domain -> ridge",
+      "alpha": 3.0
+    }
+  },
+  "run2": {
+    "mae_single": 1.4748,
+    "spearman": 0.0259,
+    "const_mae": 1.4846,
+    "settings": {
+      "model": "MiniLM-L6 + domain -> MLP regressor (MSE)",
+      "hidden": 32,
+      "epochs": 30,
+      "lr": 0.001,
+      "weight_decay": 0.1,
+      "dropout": 0.3
+    }
+  },
+  "run3": {
+    "mae_single": 1.3845,
+    "spearman": 0.3086,
+    "const_mae": 1.4846,
+    "settings": {
+      "model": "claude-opus-5-5 zero-shot score -> linear calibration",
+      "effort": "medium",
+      "raw_spearman": 0.3332
+    }
+  },
+  "run4": {
+    "mae_single": 1.3898,
+    "spearman": 0.3122,
+    "const_mae": 1.4846,
+    "settings": {
+      "model": "ridge on [Claude score, domain, MiniLM embedding]",
+      "alpha": 10.0
+    }
+  }
+}

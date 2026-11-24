@@ -1,0 +1,8 @@
+{
+  "observations": "This reads as an obvious spam/scam stream link, with garbled Unicode fonts, keyword stuffing, and a mismatched local newspaper name. Most readers would distrust it, though NFL fans might feel a slight pull toward a free stream.",
+  "score": 1.6,
+  "_usage": {
+    "input": 683,
+    "output": 96
+  }
+}

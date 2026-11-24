@@ -1,0 +1,8 @@
+{
+  "observations": "A local crime news headline with a dramatic event (an agent shot), but it is regional, gives away the outcome, and uses the acronym 'SBI' that many readers may not recognize, which limits broad appeal.",
+  "score": 2.9,
+  "_usage": {
+    "input": 590,
+    "output": 82
+  }
+}

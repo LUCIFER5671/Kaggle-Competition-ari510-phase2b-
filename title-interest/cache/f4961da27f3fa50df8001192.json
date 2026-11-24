@@ -1,0 +1,8 @@
+{
+  "observations": "This reads as a sports results post with a confusing detail (a Bahrain GP held in Malaysia) that sparks some curiosity, but it is niche to F1 fans and gives the outcome away.",
+  "score": 2.9,
+  "_usage": {
+    "input": 612,
+    "output": 80
+  }
+}

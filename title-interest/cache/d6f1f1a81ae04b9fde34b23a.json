@@ -1,0 +1,8 @@
+{
+  "observations": "A local crime news headline that is serious but straightforward, with no curiosity gap. Readers outside the LSU area may find it routine, though the alarming topic draws some attention.",
+  "score": 2.6,
+  "_usage": {
+    "input": 592,
+    "output": 72
+  }
+}

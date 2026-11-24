@@ -1,0 +1,8 @@
+{
+  "observations": "A plain personal sale post about a specific graphics card; there is no curiosity gap, and it's relevant only to a niche audience looking to buy used GPUs.",
+  "score": 1.5,
+  "_usage": {
+    "input": 576,
+    "output": 66
+  }
+}

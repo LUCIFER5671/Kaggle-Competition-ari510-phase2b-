@@ -1,0 +1,8 @@
+{
+  "observations": "This is a local crime news headline with a mildly intriguing angle: a DoorDash delivery turning violent is relatable and somewhat shocking. Still, it reads as routine regional news, and the obscure location (Spencer) plus the TV station call letters limit broad appeal.",
+  "score": 3.0,
+  "_usage": {
+    "input": 592,
+    "output": 106
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "observations": "A local crime news headline with some shock value (hammer attack), but it's a routine, fully descriptive report with no curiosity gap and limited relevance to readers outside NYC.",
+  "score": 2.7,
+  "_usage": {
+    "input": 598,
+    "output": 71
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "observations": "A purely utilitarian how-to-watch listing for a single NFL game, with no curiosity gap or emotional hook; it only appeals to fans of these teams looking for viewing info.",
+  "score": 2.0,
+  "_usage": {
+    "input": 596,
+    "output": 74
+  }
+}

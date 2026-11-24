@@ -1,0 +1,8 @@
+{
+  "observations": "A routine local news headline about a tragic accident, stated plainly with no curiosity gap, and of limited interest outside the area; its morbid nature may draw a few readers.",
+  "score": 2.3,
+  "_usage": {
+    "input": 589,
+    "output": 69
+  }
+}

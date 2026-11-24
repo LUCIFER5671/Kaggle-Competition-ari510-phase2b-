@@ -1,0 +1,8 @@
+{
+  "observations": "This is a routine local crime news headline from a small Iowa town, written in a dry, formulaic style with the outlet name appended. It gives away the outcome, leaving little curiosity gap, and has limited appeal beyond local readers.",
+  "score": 2.3,
+  "_usage": {
+    "input": 591,
+    "output": 91
+  }
+}

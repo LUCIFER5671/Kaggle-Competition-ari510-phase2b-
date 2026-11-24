@@ -1,0 +1,8 @@
+{
+  "observations": "An obvious spam title with garbled Unicode styling and a fake free-stream lure, so most readers would distrust it and scroll past. Only a small group of soccer fans might be briefly tempted.",
+  "score": 1.4,
+  "_usage": {
+    "input": 700,
+    "output": 78
+  }
+}

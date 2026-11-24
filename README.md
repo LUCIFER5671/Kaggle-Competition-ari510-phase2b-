@@ -1,6 +1,6 @@
 # ARI 410/510 Phase 2b — Kaggle competition entries
 
-Roshkrishna Ranjith (Team 9). Code for every run I submitted to three classmates' Kaggle competitions.
+Roshkrishna Ranjith (Team 9). Code for every run I submitted to four classmates' Kaggle competitions.
 Each folder has its own README (how to reproduce each run ID) and NOTES.md (experiments, dev and leaderboard scores).
 
 | Folder | Competition | Runs |
@@ -8,6 +8,7 @@ Each folder has its own README (how to reproduce each run ID) and NOTES.md (expe
 | [reply-answers](reply-answers/) | Does the Reply Answer the Question? (assigned) | run1–run5 |
 | [premature](premature/) | Detecting Premature Problem Solving in Mental Health Counseling Responses | run1–run5 |
 | [pr-consistency](pr-consistency/) | Does the PR Do What It Says? (refactoring PR consistency) | run1–run4 |
+| [title-interest](title-interest/) | What Makes a Title Interesting? (regression, MAE) | run1–run4 |
 
 ## Setup (all three)
 ```
