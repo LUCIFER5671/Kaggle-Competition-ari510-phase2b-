@@ -21,10 +21,15 @@ Repeated 10-fold cross-validation (3 repeats) on the 120 train titles.
 
 | Run | Approach | CV mae_single | CV Spearman | Test prediction spread (sd) | Public LB |
 |---|---|---|---|---|---|
-| run1 | TF-IDF word (1–2) + char (2–4) n-grams + domain → ridge (α=3) | 1.461 | 0.079 | 0.40 | |
-| run2 | MiniLM-L6 title embedding + domain → MLP regressor (hidden 32, dropout 0.3, AdamW lr 1e-3, wd 0.1, 30 epochs, MSE on deviation from the mean) | 1.475 | 0.026 | 0.11 | |
-| run3 | Claude Opus 5.5 zero-shot rating (1–6, decimals) → linear calibration fit on train labels | **1.385** | **0.309** | 0.44 | |
-| run4 | Ridge (α=10) on [Claude rating, domain, MiniLM embedding] | 1.390 | 0.312 | 0.37 | |
+| run1 | TF-IDF word (1–2) + char (2–4) n-grams + domain → ridge (α=3) | 1.461 | 0.079 | 0.40 | 0.806 |
+| run2 | MiniLM-L6 title embedding + domain → MLP regressor (hidden 32, dropout 0.3, AdamW lr 1e-3, wd 0.1, 30 epochs, MSE on deviation from the mean) | 1.475 | 0.026 | 0.11 | 0.823 |
+| run3 | Claude Opus 5.5 zero-shot rating (1–6, decimals) → linear calibration fit on train labels | **1.385** | **0.309** | 0.44 | **0.537** |
+| run4 | Ridge (α=10) on [Claude rating, domain, MiniLM embedding] | 1.390 | 0.312 | 0.37 | 0.544 |
+
+Host baselines (public MAE): benchmark_mean 0.848, sample_submission (all 3.5) 0.921. Public leaderboard ≈ 50% of the
+30 test titles. Best public: run3 0.537 (best on the leaderboard at the time; previous best 0.630). Final selection:
+run3 + run4. The public order matches cross-validation (run3 < run4 < run1 < run2), and the trained models only slightly
+beat the mean benchmark, as their near-zero rank correlation predicted.
 
 Claude API cost: about $0.60 (150 calls). Responses cached in `cache/`, so reruns are free and identical.
 
